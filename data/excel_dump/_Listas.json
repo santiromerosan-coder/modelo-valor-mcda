@@ -1,0 +1,58 @@
+{
+  "name": "_Listas",
+  "state": "veryHidden",
+  "dimensions": "A1:A8",
+  "max_row": 8,
+  "max_col": 1,
+  "merged_ranges": [],
+  "cells": [
+    {
+      "ref": "A1",
+      "formula": null,
+      "raw": "Aflibercept 2mg T&E",
+      "value": "Aflibercept 2mg T&E"
+    },
+    {
+      "ref": "A2",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  T&E",
+      "value": "Ranibizumab  0.5 mg  T&E"
+    },
+    {
+      "ref": "A3",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q4)",
+      "value": "Aflibercept 2mg (q4)"
+    },
+    {
+      "ref": "A4",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q8)",
+      "value": "Aflibercept 2mg (q8)"
+    },
+    {
+      "ref": "A5",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  (q4)",
+      "value": "Ranibizumab  0.5 mg  (q4)"
+    },
+    {
+      "ref": "A6",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q16)",
+      "value": "Aflibercept 8mg (q16)"
+    },
+    {
+      "ref": "A7",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q12)",
+      "value": "Aflibercept 8mg (q12)"
+    },
+    {
+      "ref": "A8",
+      "formula": null,
+      "raw": "Faricimab 6mg (q16)",
+      "value": "Faricimab 6mg (q16)"
+    }
+  ]
+}

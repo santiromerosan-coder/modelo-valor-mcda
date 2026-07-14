@@ -1,0 +1,1268 @@
+{
+  "meta": {
+    "source": "Modelo de valor degeneración macular asociada a la edad.xlsm",
+    "description": "Modelo de Valor - Análisis Multicriterio (MCDA) para degeneración macular asociada a la edad (AMD)",
+    "version": "5.0",
+    "discount": 0.0
+  },
+  "molecules": [
+    {
+      "id": "mol_0",
+      "index": 0,
+      "name": "LP- FAR 6 mg IVT T&E",
+      "columnRange": "D-H",
+      "selected": true
+    },
+    {
+      "id": "mol_1",
+      "index": 1,
+      "name": "LP- FAR 6 mg IVT Q8W",
+      "columnRange": "L-P",
+      "selected": true
+    },
+    {
+      "id": "mol_2",
+      "index": 2,
+      "name": "LP -RAN 0.5 mg IVT T&E",
+      "columnRange": "S-W",
+      "selected": true
+    },
+    {
+      "id": "mol_3",
+      "index": 3,
+      "name": "LP- RAN 0.5 mg IVT PRN",
+      "columnRange": "Z-AD",
+      "selected": true
+    },
+    {
+      "id": "mol_4",
+      "index": 4,
+      "name": "Aflibercept 8 mg  (q12)",
+      "columnRange": "AG-AK",
+      "selected": true
+    },
+    {
+      "id": "mol_5",
+      "index": 5,
+      "name": "Aflibercept 8 mg  (q16)",
+      "columnRange": "AN-AR",
+      "selected": true
+    },
+    {
+      "id": "mol_6",
+      "index": 6,
+      "name": "AFL 2.0 mg IVT PRN",
+      "columnRange": "AU-AY",
+      "selected": true
+    },
+    {
+      "id": "mol_7",
+      "index": 7,
+      "name": "Aflibercept 2 mg  (q8)",
+      "columnRange": "BD-BH",
+      "selected": true
+    }
+  ],
+  "definitions": [
+    {
+      "domain": "Eficacia",
+      "criteria": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "operationalDefinition": "Magnitud del cambio promedio en letras de BCVA después del tratamiento, comparado con el valor basal . Refleja la ganancia funcional visual promedio atribuible a la intervención.",
+      "possibleValues": "0–5 letras = 1; 6–10 letras = 2; 11–15 letras = 4; >15 letras = 5"
+    },
+    {
+      "domain": "Eficacia",
+      "criteria": "Pacientes con ganancia ≥15 letras en BCVA",
+      "operationalDefinition": "Proporción de pacientes que alcanzan una mejoría clínicamente relevante de al menos 15 letras en BCVA durante el seguimiento del estudio. Este desenlace representa una recuperación visual significativa.",
+      "possibleValues": "0–15% = 1; 16–30% = 3; >30% = 5"
+    },
+    {
+      "domain": "Seguridad",
+      "criteria": "Desprendimiento de retina",
+      "operationalDefinition": "Presencia o ausencia de eventos de desprendimiento de retina reportados durante el seguimiento del tratamiento. Se considera un evento adverso ocular grave.",
+      "possibleValues": "Ocurrencia = 1; No ocurrencia = 5"
+    },
+    {
+      "domain": "Seguridad",
+      "criteria": "Infarto agudo de miocardio",
+      "operationalDefinition": "Presencia o ausencia de infarto agudo de miocardio reportado como evento adverso durante el seguimiento del tratamiento.",
+      "possibleValues": "Ocurrencia = 1; No ocurrencia = 5"
+    },
+    {
+      "domain": "Seguridad",
+      "criteria": "Endoftalmitis",
+      "operationalDefinition": "Presencia o ausencia de endoftalmitis reportada durante el seguimiento.",
+      "possibleValues": "Ocurrencia = 1; No ocurrencia = 5"
+    },
+    {
+      "domain": "Seguridad",
+      "criteria": "Supresión sistémica de VEGF",
+      "operationalDefinition": "Duración o persistencia de la reducción de VEGF sistémico posterior a la administración del medicamento. Evalúa el potencial efecto sistémico del tratamiento sobre la vía VEGF.",
+      "possibleValues": "Prolongada = 1; No prolongada = 5"
+    },
+    {
+      "domain": "PROs",
+      "criteria": "Calidad de vida relacionada con la salud",
+      "operationalDefinition": "Cambio reportado en instrumentos de calidad de vida relacionada con la salud, incluyendo dominios visuales, funcionales o generales. Se clasifica según si el tratamiento empeora, no modifica o mejora la calidad de vida.",
+      "possibleValues": "Empeoramiento = 1; Sin efecto = 3; Mejoría = 5"
+    },
+    {
+      "domain": "PROs",
+      "criteria": "Discapacidad / capacidad funcional",
+      "operationalDefinition": "Cambio en la capacidad del paciente para realizar actividades cotidianas o mantener independencia funcional, medido mediante escalas funcionales, dominios visuales o reportes de desempeño.",
+      "possibleValues": "Empeoramiento = 1; Sin efecto = 3; Mejoría = 5"
+    },
+    {
+      "domain": "Posicionamiento terapéutico",
+      "criteria": "Estado de aprobación regulatoria",
+      "operationalDefinition": "Condición regulatoria de uso del medicamento para la indicación evaluada. Diferencia si el tratamiento está aprobado específicamente para esa indicación o si su uso corresponde a una indicación no aprobada.",
+      "possibleValues": "Off-label = 1; On-label = 5"
+    },
+    {
+      "domain": "Posicionamiento terapéutico",
+      "criteria": "Inclusión en guías de práctica clínica",
+      "operationalDefinition": "Presencia del medicamento o estrategia terapéutica en guías de práctica clínica relevantes para la indicación evaluada. Refleja el respaldo de recomendaciones clínicas formales.",
+      "possibleValues": "No incluido = 1; Incluido = 5"
+    }
+  ],
+  "parameters": [
+    {
+      "domain": "Eficacia clínica",
+      "criteria": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "level": "0–5 letras",
+      "value": 1
+    },
+    {
+      "domain": "Eficacia clínica",
+      "criteria": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "level": "6–10 letras",
+      "value": 2
+    },
+    {
+      "domain": "Eficacia clínica",
+      "criteria": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "level": "11–15 letras",
+      "value": 4
+    },
+    {
+      "domain": "Eficacia clínica",
+      "criteria": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "level": ">15 letras",
+      "value": 5
+    },
+    {
+      "domain": "Eficacia clínica",
+      "criteria": "Pacientes con ganancia ≥15 letras en BCVA",
+      "level": "0–15% pacientes",
+      "value": 1
+    },
+    {
+      "domain": "Eficacia clínica",
+      "criteria": "Pacientes con ganancia ≥15 letras en BCVA",
+      "level": "16–30% pacientes",
+      "value": 3
+    },
+    {
+      "domain": "Eficacia clínica",
+      "criteria": "Pacientes con ganancia ≥15 letras en BCVA",
+      "level": ">30% pacientes",
+      "value": 5
+    },
+    {
+      "domain": "Seguridad",
+      "criteria": "Desprendimiento de retina",
+      "level": "Ocurrencia",
+      "value": 1
+    },
+    {
+      "domain": "Seguridad",
+      "criteria": "Desprendimiento de retina",
+      "level": "No ocurrencia",
+      "value": 5
+    },
+    {
+      "domain": "Seguridad",
+      "criteria": "Infarto agudo de miocardio",
+      "level": "Ocurrencia",
+      "value": 1
+    },
+    {
+      "domain": "Seguridad",
+      "criteria": "Infarto agudo de miocardio",
+      "level": "No ocurrencia",
+      "value": 5
+    },
+    {
+      "domain": "Seguridad",
+      "criteria": "Endoftalmitis",
+      "level": "Ocurrencia",
+      "value": 1
+    },
+    {
+      "domain": "Seguridad",
+      "criteria": "Endoftalmitis",
+      "level": "No ocurrencia",
+      "value": 5
+    },
+    {
+      "domain": "Farmacocinética",
+      "criteria": "Supresión sistémica de VEGF",
+      "level": "Prolongada",
+      "value": 1
+    },
+    {
+      "domain": "Farmacocinética",
+      "criteria": "Supresión sistémica de VEGF",
+      "level": "No prolongada",
+      "value": 5
+    },
+    {
+      "domain": "PROs",
+      "criteria": "Calidad de vida relacionada con la salud",
+      "level": "Empeoramiento",
+      "value": 1
+    },
+    {
+      "domain": "PROs",
+      "criteria": "Calidad de vida relacionada con la salud",
+      "level": "Sin efecto",
+      "value": 3
+    },
+    {
+      "domain": "PROs",
+      "criteria": "Calidad de vida relacionada con la salud",
+      "level": "Mejoría",
+      "value": 5
+    },
+    {
+      "domain": "PROs",
+      "criteria": "Discapacidad / capacidad funcional",
+      "level": "Empeoramiento",
+      "value": 1
+    },
+    {
+      "domain": "PROs",
+      "criteria": "Discapacidad / capacidad funcional",
+      "level": "Sin efecto",
+      "value": 3
+    },
+    {
+      "domain": "PROs",
+      "criteria": "Discapacidad / capacidad funcional",
+      "level": "Mejoría",
+      "value": 5
+    },
+    {
+      "domain": "Organizativo",
+      "criteria": "Estado de aprobación regulatoria",
+      "level": "Off-label",
+      "value": 1
+    },
+    {
+      "domain": "Organizativo",
+      "criteria": "Estado de aprobación regulatoria",
+      "level": "On-label",
+      "value": 5
+    },
+    {
+      "domain": "Organizativo",
+      "criteria": "Inclusión en guías de práctica clínica",
+      "level": "No incluido",
+      "value": 1
+    },
+    {
+      "domain": "Organizativo",
+      "criteria": "Inclusión en guías de práctica clínica",
+      "level": "Incluido",
+      "value": 5
+    }
+  ],
+  "weights": [
+    {
+      "domain": "Eficacia",
+      "criteria": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "weight": 20.5
+    },
+    {
+      "domain": "Eficacia",
+      "criteria": "Pacientes con ganancia ≥15 letras en BCVA",
+      "weight": 14.5
+    },
+    {
+      "domain": "Seguridad",
+      "criteria": "Desprendimiento de retina",
+      "weight": 16.8
+    },
+    {
+      "domain": "Seguridad",
+      "criteria": "Infarto agudo de miocardio",
+      "weight": 13.7
+    },
+    {
+      "domain": "Seguridad",
+      "criteria": "Endoftalmitis",
+      "weight": 13.7
+    },
+    {
+      "domain": "Seguridad",
+      "criteria": "Supresión sistémica de VEGF",
+      "weight": 2.8
+    },
+    {
+      "domain": "PROs",
+      "criteria": "Calidad de vida relacionada con la salud",
+      "weight": 6.0
+    },
+    {
+      "domain": "PROs",
+      "criteria": "Discapacidad / capacidad funcional",
+      "weight": 5.0
+    },
+    {
+      "domain": "Posicionamiento terapéutico",
+      "criteria": "Estado de aprobación regulatoria",
+      "weight": 4.0
+    },
+    {
+      "domain": "Posicionamiento terapéutico",
+      "criteria": "Inclusión en guías de práctica clínica",
+      "weight": 3.0
+    }
+  ],
+  "moleculeInputs": {
+    "LP- FAR 6 mg IVT Q8W": [
+      {
+        "outcome": "Cambio medio en la agudeza visual corregida (BCVA)",
+        "result": "9.9",
+        "value": 2,
+        "followup": "52 semanas",
+        "reference": "Registro-clinical trials-NCT03622580",
+        "comments": ""
+      },
+      {
+        "outcome": "Pacientes con ganancia ≥15 letras en BCVA",
+        "result": "31.2",
+        "value": 5,
+        "followup": "52 semanas",
+        "reference": "Registro-clinical trials-NCT03622580",
+        "comments": ""
+      },
+      {
+        "outcome": "Desprendimiento de retina",
+        "result": "Ocurrencia",
+        "value": 1,
+        "followup": "52 semanas",
+        "reference": "Registro-clinical trials-NCT03622580",
+        "comments": "Evento adverso serio: 1/313 (0.32%)"
+      },
+      {
+        "outcome": "Infarto agudo de miocardio",
+        "result": "Ocurrencia",
+        "value": 1,
+        "followup": "52 semanas",
+        "reference": "Registro-clinical trials-NCT03622580",
+        "comments": "Evento adverso serio: 5/313 (1.60%)"
+      },
+      {
+        "outcome": "Endoftalmitis",
+        "result": "No ocurrencia",
+        "value": 5,
+        "followup": "52 semanas",
+        "reference": "Registro-clinical trials-NCT03622580",
+        "comments": ""
+      },
+      {
+        "outcome": "Supresión sistémica de VEGF",
+        "result": "NR",
+        "value": 0,
+        "followup": "",
+        "reference": "",
+        "comments": ""
+      },
+      {
+        "outcome": "Calidad de vida relacionada con la salud",
+        "result": "Mejoría",
+        "value": 5,
+        "followup": "52 semanas",
+        "reference": "Registro-clinical trials-NCT03622580",
+        "comments": ""
+      },
+      {
+        "outcome": "Discapacidad / capacidad funcional",
+        "result": "NR",
+        "value": 0,
+        "followup": "",
+        "reference": "",
+        "comments": ""
+      },
+      {
+        "outcome": "Estado de aprobación regulatoria",
+        "result": "On-Label",
+        "value": 5,
+        "followup": "",
+        "reference": "INVIMA 2024MBT-0000108",
+        "comments": ""
+      },
+      {
+        "outcome": "Inclusión en guías de práctica clínica",
+        "result": "Incluido",
+        "value": 5,
+        "followup": "",
+        "reference": "Lim, Jennifer I et al. “Diabetic Retinopathy Preferred Practice Pattern®.” Ophthalmology vol. 132,4 (2025): P75-P162. doi:10.1016/j.ophtha.2024.12.020",
+        "comments": ""
+      }
+    ],
+    "LP- FAR 6 mg IVT T&E": [
+      {
+        "outcome": "Cambio medio en la agudeza visual corregida (BCVA)",
+        "result": "11",
+        "value": 4,
+        "followup": "52 semanas",
+        "reference": "Registro-clinical trials-NCT03622580",
+        "comments": ""
+      },
+      {
+        "outcome": "Pacientes con ganancia ≥15 letras en BCVA",
+        "result": "37.2",
+        "value": 5,
+        "followup": "52 semanas",
+        "reference": "Registro-clinical trials-NCT03622580",
+        "comments": ""
+      },
+      {
+        "outcome": "Desprendimiento de retina",
+        "result": "No ocurrencia",
+        "value": 5,
+        "followup": "52 semanas",
+        "reference": "Registro-clinical trials-NCT03622580",
+        "comments": ""
+      },
+      {
+        "outcome": "Infarto agudo de miocardio",
+        "result": "Ocurrencia",
+        "value": 1,
+        "followup": "52 semanas",
+        "reference": "Registro-clinical trials-NCT03622580",
+        "comments": "Evento adverso serio: 3/313 (0.96%)"
+      },
+      {
+        "outcome": "Endoftalmitis",
+        "result": "Ocurrencia",
+        "value": 1,
+        "followup": "52 semanas",
+        "reference": "Registro-clinical trials-NCT03622580",
+        "comments": "Evento adverso serio: 4/313 (1.28%)"
+      },
+      {
+        "outcome": "Supresión sistémica de VEGF",
+        "result": "NR",
+        "value": 0,
+        "followup": "",
+        "reference": "",
+        "comments": ""
+      },
+      {
+        "outcome": "Calidad de vida relacionada con la salud",
+        "result": "Mejoría",
+        "value": 5,
+        "followup": "52 semanas",
+        "reference": "Registro-clinical trials-NCT03622580",
+        "comments": ""
+      },
+      {
+        "outcome": "Discapacidad / capacidad funcional",
+        "result": "NR",
+        "value": 0,
+        "followup": "",
+        "reference": "",
+        "comments": ""
+      },
+      {
+        "outcome": "Estado de aprobación regulatoria",
+        "result": "On-Label",
+        "value": 5,
+        "followup": "",
+        "reference": "INVIMA 2024MBT-0000108",
+        "comments": ""
+      },
+      {
+        "outcome": "Inclusión en guías de práctica clínica",
+        "result": "Incluido",
+        "value": 5,
+        "followup": "",
+        "reference": "Lim, Jennifer I et al. “Diabetic Retinopathy Preferred Practice Pattern®.” Ophthalmology vol. 132,4 (2025): P75-P162. doi:10.1016/j.ophtha.2024.12.020",
+        "comments": ""
+      }
+    ],
+    "Aflibercept 8 mg  (q12)": [
+      {
+        "outcome": "Cambio medio en la agudeza visual corregida (BCVA)",
+        "result": "8.8",
+        "value": 2,
+        "followup": "48 semanas",
+        "reference": "Registro-clinical trials-NCT04429503",
+        "comments": ""
+      },
+      {
+        "outcome": "Pacientes con ganancia ≥15 letras en BCVA",
+        "result": "18.7",
+        "value": 3,
+        "followup": "48 semanas",
+        "reference": "Registro-clinical trials-NCT04429503",
+        "comments": ""
+      },
+      {
+        "outcome": "Desprendimiento de retina",
+        "result": "No ocurrencia",
+        "value": 5,
+        "followup": "48 semanas",
+        "reference": "Registro-clinical trials-NCT04429503",
+        "comments": ""
+      },
+      {
+        "outcome": "Infarto agudo de miocardio",
+        "result": "Ocurrencia",
+        "value": 1,
+        "followup": "48 semanas",
+        "reference": "Registro-clinical trials-NCT04429503",
+        "comments": "Evento adverso serio: 10/328 (3.05%)"
+      },
+      {
+        "outcome": "Endoftalmitis",
+        "result": "No ocurrencia",
+        "value": 5,
+        "followup": "48 semanas",
+        "reference": "Registro-clinical trials-NCT04429503",
+        "comments": ""
+      },
+      {
+        "outcome": "Supresión sistémica de VEGF",
+        "result": "Prolongada",
+        "value": 1,
+        "followup": "",
+        "reference": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+        "comments": ""
+      },
+      {
+        "outcome": "Calidad de vida relacionada con la salud",
+        "result": "Mejoría",
+        "value": 5,
+        "followup": "48 semanas",
+        "reference": "Registro-clinical trials-NCT04429503",
+        "comments": ""
+      },
+      {
+        "outcome": "Discapacidad / capacidad funcional",
+        "result": "NR",
+        "value": 0,
+        "followup": "",
+        "reference": "",
+        "comments": ""
+      },
+      {
+        "outcome": "Estado de aprobación regulatoria",
+        "result": "On-Label",
+        "value": 5,
+        "followup": "",
+        "reference": "INVIMA 2025MBT-0000160",
+        "comments": ""
+      },
+      {
+        "outcome": "Inclusión en guías de práctica clínica",
+        "result": "Incluido",
+        "value": 5,
+        "followup": "",
+        "reference": "Lim, Jennifer I et al. “Diabetic Retinopathy Preferred Practice Pattern®.” Ophthalmology vol. 132,4 (2025): P75-P162. doi:10.1016/j.ophtha.2024.12.020",
+        "comments": ""
+      }
+    ],
+    "LP -RAN 0.5 mg IVT T&E": [
+      {
+        "outcome": "Cambio medio en la agudeza visual corregida (BCVA)",
+        "result": "6.5",
+        "value": 2,
+        "followup": "24 meses",
+        "reference": "Registro Clinical trials -RETAIN: NCT01171976",
+        "comments": ""
+      },
+      {
+        "outcome": "Pacientes con ganancia ≥15 letras en BCVA",
+        "result": "30.4",
+        "value": 5,
+        "followup": "24 meses",
+        "reference": "Registro Clinical trials -RETAIN: NCT01171976",
+        "comments": ""
+      },
+      {
+        "outcome": "Desprendimiento de retina",
+        "result": "No ocurrencia",
+        "value": 5,
+        "followup": "24 meses",
+        "reference": "Registro Clinical trials -RETAIN: NCT01171976",
+        "comments": ""
+      },
+      {
+        "outcome": "Infarto agudo de miocardio",
+        "result": "Ocurrencia",
+        "value": 1,
+        "followup": "24 meses",
+        "reference": "Registro Clinical trials -RETAIN: NCT01171976",
+        "comments": "Evento adverso serio 2/126 (1.59%)"
+      },
+      {
+        "outcome": "Endoftalmitis",
+        "result": "No ocurrencia",
+        "value": 5,
+        "followup": "24 meses",
+        "reference": "Registro Clinical trials -RETAIN: NCT01171976",
+        "comments": ""
+      },
+      {
+        "outcome": "Supresión sistémica de VEGF",
+        "result": "No prolongada",
+        "value": 5,
+        "followup": "",
+        "reference": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+        "comments": ""
+      },
+      {
+        "outcome": "Calidad de vida relacionada con la salud",
+        "result": "Mejoría",
+        "value": 5,
+        "followup": "24 meses",
+        "reference": "Registro Clinical trials -RETAIN: NCT01171976",
+        "comments": ""
+      },
+      {
+        "outcome": "Discapacidad / capacidad funcional",
+        "result": "NR",
+        "value": 0,
+        "followup": "",
+        "reference": "",
+        "comments": ""
+      },
+      {
+        "outcome": "Estado de aprobación regulatoria",
+        "result": "On-Label",
+        "value": 5,
+        "followup": "",
+        "reference": "INVIMA 2018M-0007158-R1",
+        "comments": ""
+      },
+      {
+        "outcome": "Inclusión en guías de práctica clínica",
+        "result": "Incluido",
+        "value": 5,
+        "followup": "",
+        "reference": "Lim, Jennifer I et al. “Diabetic Retinopathy Preferred Practice Pattern®.” Ophthalmology vol. 132,4 (2025): P75-P162. doi:10.1016/j.ophtha.2024.12.020",
+        "comments": ""
+      }
+    ],
+    "LP- RAN 0.5 mg IVT PRN": [
+      {
+        "outcome": "Cambio medio en la agudeza visual corregida (BCVA)",
+        "result": "8",
+        "value": 2,
+        "followup": "24 meses",
+        "reference": "Registro Clinical trials -RETAIN: NCT01171976",
+        "comments": ""
+      },
+      {
+        "outcome": "Pacientes con ganancia ≥15 letras en BCVA",
+        "result": "26.5",
+        "value": 3,
+        "followup": "24 meses",
+        "reference": "Registro Clinical trials -RETAIN: NCT01171976",
+        "comments": ""
+      },
+      {
+        "outcome": "Desprendimiento de retina",
+        "result": "No ocurrencia",
+        "value": 5,
+        "followup": "24 meses",
+        "reference": "Registro Clinical trials -RETAIN: NCT01171976",
+        "comments": ""
+      },
+      {
+        "outcome": "Infarto agudo de miocardio",
+        "result": "No ocurrencia",
+        "value": 5,
+        "followup": "24 meses",
+        "reference": "Registro Clinical trials -RETAIN: NCT01171976",
+        "comments": ""
+      },
+      {
+        "outcome": "Endoftalmitis",
+        "result": "No ocurrencia",
+        "value": 5,
+        "followup": "24 meses",
+        "reference": "Registro Clinical trials -RETAIN: NCT01171976",
+        "comments": ""
+      },
+      {
+        "outcome": "Supresión sistémica de VEGF",
+        "result": "No prolongada",
+        "value": 5,
+        "followup": "",
+        "reference": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+        "comments": ""
+      },
+      {
+        "outcome": "Calidad de vida relacionada con la salud",
+        "result": "Mejoría",
+        "value": 5,
+        "followup": "24 meses",
+        "reference": "Registro Clinical trials -RETAIN: NCT01171976",
+        "comments": ""
+      },
+      {
+        "outcome": "Discapacidad / capacidad funcional",
+        "result": "NR",
+        "value": 0,
+        "followup": "",
+        "reference": "",
+        "comments": ""
+      },
+      {
+        "outcome": "Estado de aprobación regulatoria",
+        "result": "On-Label",
+        "value": 5,
+        "followup": "",
+        "reference": "INVIMA 2018M-0007158-R1",
+        "comments": ""
+      },
+      {
+        "outcome": "Inclusión en guías de práctica clínica",
+        "result": "Incluido",
+        "value": 5,
+        "followup": "",
+        "reference": "Lim, Jennifer I et al. “Diabetic Retinopathy Preferred Practice Pattern®.” Ophthalmology vol. 132,4 (2025): P75-P162. doi:10.1016/j.ophtha.2024.12.020",
+        "comments": ""
+      }
+    ],
+    "Aflibercept 8 mg  (q16)": [
+      {
+        "outcome": "Cambio medio en la agudeza visual corregida (BCVA)",
+        "result": "7.9",
+        "value": 2,
+        "followup": "48 semanas",
+        "reference": "Registro-clinical trials-NCT04429503",
+        "comments": ""
+      },
+      {
+        "outcome": "Pacientes con ganancia ≥15 letras en BCVA",
+        "result": "16.6",
+        "value": 3,
+        "followup": "48 semanas",
+        "reference": "Registro-clinical trials-NCT04429503",
+        "comments": ""
+      },
+      {
+        "outcome": "Desprendimiento de retina",
+        "result": "Ocurrencia",
+        "value": 1,
+        "followup": "48 semanas",
+        "reference": "Registro-clinical trials-NCT04429503",
+        "comments": "Evento advero serio: 1/163 (0.61%)"
+      },
+      {
+        "outcome": "Infarto agudo de miocardio",
+        "result": "Ocurrencia",
+        "value": 1,
+        "followup": "48 semanas",
+        "reference": "Registro-clinical trials-NCT04429503",
+        "comments": "Evento adverso serio: 2/163 (1.23%)"
+      },
+      {
+        "outcome": "Endoftalmitis",
+        "result": "No ocurrencia",
+        "value": 5,
+        "followup": "48 semanas",
+        "reference": "Registro-clinical trials-NCT04429503",
+        "comments": ""
+      },
+      {
+        "outcome": "Supresión sistémica de VEGF",
+        "result": "Prolongada",
+        "value": 1,
+        "followup": "",
+        "reference": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+        "comments": ""
+      },
+      {
+        "outcome": "Calidad de vida relacionada con la salud",
+        "result": "Mejoría",
+        "value": 5,
+        "followup": "48 semanas",
+        "reference": "Registro-clinical trials-NCT04429503",
+        "comments": ""
+      },
+      {
+        "outcome": "Discapacidad / capacidad funcional",
+        "result": "NR",
+        "value": 0,
+        "followup": "",
+        "reference": "",
+        "comments": ""
+      },
+      {
+        "outcome": "Estado de aprobación regulatoria",
+        "result": "On-Label",
+        "value": 5,
+        "followup": "",
+        "reference": "INVIMA 2025MBT-0000160",
+        "comments": ""
+      },
+      {
+        "outcome": "Inclusión en guías de práctica clínica",
+        "result": "Incluido",
+        "value": 5,
+        "followup": "",
+        "reference": "Lim, Jennifer I et al. “Diabetic Retinopathy Preferred Practice Pattern®.” Ophthalmology vol. 132,4 (2025): P75-P162. doi:10.1016/j.ophtha.2024.12.020",
+        "comments": ""
+      }
+    ],
+    "AFL 2.0 mg IVT PRN": [
+      {
+        "outcome": "Cambio medio en la agudeza visual corregida (BCVA)",
+        "result": "12.8",
+        "value": 4,
+        "followup": "Dos años",
+        "reference": "Wells, John A et al. “Aflibercept, Bevacizumab, or Ranibizumab for Diabetic Macular Edema: Two-Year Results from a Comparative Effectiveness Randomized Clinical Trial.” Ophthalmology vol. 123,6 (2016): 1351-9. doi:10.1016/j.ophtha.2016.02.022",
+        "comments": ""
+      },
+      {
+        "outcome": "Pacientes con ganancia ≥15 letras en BCVA",
+        "result": "39",
+        "value": 5,
+        "followup": "Dos años",
+        "reference": "Wells, John A et al. “Aflibercept, Bevacizumab, or Ranibizumab for Diabetic Macular Edema: Two-Year Results from a Comparative Effectiveness Randomized Clinical Trial.” Ophthalmology vol. 123,6 (2016): 1351-9. doi:10.1016/j.ophtha.2016.02.022",
+        "comments": ""
+      },
+      {
+        "outcome": "Desprendimiento de retina",
+        "result": "Ocurrencia",
+        "value": 1,
+        "followup": "Dos años",
+        "reference": "Wells, John A et al. “Aflibercept, Bevacizumab, or Ranibizumab for Diabetic Macular Edema: Two-Year Results from a Comparative Effectiveness Randomized Clinical Trial.” Ophthalmology vol. 123,6 (2016): 1351-9. doi:10.1016/j.ophtha.2016.02.022",
+        "comments": "2/224 = <1%"
+      },
+      {
+        "outcome": "Infarto agudo de miocardio",
+        "result": "Ocurrencia",
+        "value": 1,
+        "followup": "Dos años",
+        "reference": "Wells, John A et al. “Aflibercept, Bevacizumab, or Ranibizumab for Diabetic Macular Edema: Two-Year Results from a Comparative Effectiveness Randomized Clinical Trial.” Ophthalmology vol. 123,6 (2016): 1351-9. doi:10.1016/j.ophtha.2016.02.022",
+        "comments": "7/224 = 3%"
+      },
+      {
+        "outcome": "Endoftalmitis",
+        "result": "No ocurrencia",
+        "value": 5,
+        "followup": "Dos años",
+        "reference": "Wells, John A et al. “Aflibercept, Bevacizumab, or Ranibizumab for Diabetic Macular Edema: Two-Year Results from a Comparative Effectiveness Randomized Clinical Trial.” Ophthalmology vol. 123,6 (2016): 1351-9. doi:10.1016/j.ophtha.2016.02.022",
+        "comments": ""
+      },
+      {
+        "outcome": "Supresión sistémica de VEGF",
+        "result": "Prolongada",
+        "value": 1,
+        "followup": "",
+        "reference": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+        "comments": ""
+      },
+      {
+        "outcome": "Calidad de vida relacionada con la salud",
+        "result": "NR",
+        "value": 0,
+        "followup": "",
+        "reference": "",
+        "comments": ""
+      },
+      {
+        "outcome": "Discapacidad / capacidad funcional",
+        "result": "NR",
+        "value": 0,
+        "followup": "",
+        "reference": "",
+        "comments": ""
+      },
+      {
+        "outcome": "Estado de aprobación regulatoria",
+        "result": "On-Label",
+        "value": 5,
+        "followup": "",
+        "reference": "INVIMA 2025MBT-0000160",
+        "comments": ""
+      },
+      {
+        "outcome": "Inclusión en guías de práctica clínica",
+        "result": "Incluido",
+        "value": 5,
+        "followup": "",
+        "reference": "Lim, Jennifer I et al. “Diabetic Retinopathy Preferred Practice Pattern®.” Ophthalmology vol. 132,4 (2025): P75-P162. doi:10.1016/j.ophtha.2024.12.020",
+        "comments": ""
+      }
+    ],
+    "Aflibercept 2 mg  (q8)": [
+      {
+        "outcome": "Cambio medio en la agudeza visual corregida (BCVA)",
+        "result": "10.7",
+        "value": 4,
+        "followup": "52 semanas",
+        "reference": "NCT01331681-VIVID-DME",
+        "comments": ""
+      },
+      {
+        "outcome": "Pacientes con ganancia ≥15 letras en BCVA",
+        "result": "33.3",
+        "value": 5,
+        "followup": "52 semanas",
+        "reference": "NCT01331681-VIVID-DME",
+        "comments": ""
+      },
+      {
+        "outcome": "Desprendimiento de retina",
+        "result": "Ocurrencia",
+        "value": 1,
+        "followup": "52 semanas",
+        "reference": "NCT01331681-VIVID-DME",
+        "comments": "Evento adverso serio 2/135 (1.48%)"
+      },
+      {
+        "outcome": "Infarto agudo de miocardio",
+        "result": "No ocurrencia",
+        "value": 5,
+        "followup": "52 semanas",
+        "reference": "NCT01331681-VIVID-DME",
+        "comments": ""
+      },
+      {
+        "outcome": "Endoftalmitis",
+        "result": "No ocurrencia",
+        "value": 5,
+        "followup": "52 semanas",
+        "reference": "NCT01331681-VIVID-DME",
+        "comments": ""
+      },
+      {
+        "outcome": "Supresión sistémica de VEGF",
+        "result": "Prolongada",
+        "value": 1,
+        "followup": "",
+        "reference": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+        "comments": ""
+      },
+      {
+        "outcome": "Calidad de vida relacionada con la salud",
+        "result": "Mejoría",
+        "value": 5,
+        "followup": "52 semanas",
+        "reference": "NCT01331681-VIVID-DME",
+        "comments": ""
+      },
+      {
+        "outcome": "Discapacidad / capacidad funcional",
+        "result": "Mejoría",
+        "value": 5,
+        "followup": "52 semanas",
+        "reference": "NCT01331681-VIVID-DME",
+        "comments": ""
+      },
+      {
+        "outcome": "Estado de aprobación regulatoria",
+        "result": "On-Label",
+        "value": 5,
+        "followup": "",
+        "reference": "INVIMA 2025MBT-0000160",
+        "comments": ""
+      },
+      {
+        "outcome": "Inclusión en guías de práctica clínica",
+        "result": "Incluido",
+        "value": 5,
+        "followup": "",
+        "reference": "Lim, Jennifer I et al. “Diabetic Retinopathy Preferred Practice Pattern®.” Ophthalmology vol. 132,4 (2025): P75-P162. doi:10.1016/j.ophtha.2024.12.020",
+        "comments": ""
+      }
+    ]
+  },
+  "costInputs": {
+    "LP- FAR 6 mg IVT T&E": {
+      "technology": "LP- FAR 6 mg IVT T&E",
+      "injectionCount": 8,
+      "pricePerVial": 2402568.0,
+      "costPerInjection": 19220544.0,
+      "administrationCostPerVisit": 1957979.0,
+      "annualAdministrationCost": 15663832.0,
+      "annualTotalCost": 34884376.0,
+      "annualFinalCost": 34884376.0
+    },
+    "LP- FAR 6 mg IVT Q8W": {
+      "technology": "LP- FAR 6 mg IVT Q8W",
+      "injectionCount": 8,
+      "pricePerVial": 2402568.0,
+      "costPerInjection": 19220544.0,
+      "administrationCostPerVisit": 1957979.0,
+      "annualAdministrationCost": 15663832.0,
+      "annualTotalCost": 34884376.0,
+      "annualFinalCost": 34884376.0
+    },
+    "LP -RAN 0.5 mg IVT T&E": {
+      "technology": "LP -RAN 0.5 mg IVT T&E",
+      "injectionCount": 7,
+      "pricePerVial": 1653503.0,
+      "costPerInjection": 11574521.0,
+      "administrationCostPerVisit": 1957979.0,
+      "annualAdministrationCost": 13705853.0,
+      "annualTotalCost": 25280374.0,
+      "annualFinalCost": 25280374.0
+    },
+    "LP- RAN 0.5 mg IVT PRN": {
+      "technology": "LP- RAN 0.5 mg IVT PRN",
+      "injectionCount": 7,
+      "pricePerVial": 1653503.0,
+      "costPerInjection": 11574521.0,
+      "administrationCostPerVisit": 1957979.0,
+      "annualAdministrationCost": 13705853.0,
+      "annualTotalCost": 25280374.0,
+      "annualFinalCost": 25280374.0
+    },
+    "Aflibercept 8 mg  (q12)": {
+      "technology": "Aflibercept 8 mg  (q12)",
+      "injectionCount": 6,
+      "pricePerVial": 1926878.0,
+      "costPerInjection": 11561268.0,
+      "administrationCostPerVisit": 1957979.0,
+      "annualAdministrationCost": 11747874.0,
+      "annualTotalCost": 23309142.0,
+      "annualFinalCost": 23309142.0
+    },
+    "Aflibercept 8 mg  (q16)": {
+      "technology": "Aflibercept 8 mg  (q16)",
+      "injectionCount": 5,
+      "pricePerVial": 1926878.0,
+      "costPerInjection": 9634390.0,
+      "administrationCostPerVisit": 1957979.0,
+      "annualAdministrationCost": 9789895.0,
+      "annualTotalCost": 19424285.0,
+      "annualFinalCost": 19424285.0
+    },
+    "AFL 2.0 mg IVT PRN": {
+      "technology": "AFL 2.0 mg IVT PRN",
+      "injectionCount": 9,
+      "pricePerVial": 1926878.0,
+      "costPerInjection": 17341902.0,
+      "administrationCostPerVisit": 1957979.0,
+      "annualAdministrationCost": 17621811.0,
+      "annualTotalCost": 34963713.0,
+      "annualFinalCost": 34963713.0
+    },
+    "Aflibercept 2 mg  (q8)": {
+      "technology": "Aflibercept 2 mg  (q8)",
+      "injectionCount": 9,
+      "pricePerVial": 1926878.0,
+      "costPerInjection": 17341902.0,
+      "administrationCostPerVisit": 1957979.0,
+      "annualAdministrationCost": 17621811.0,
+      "annualTotalCost": 34963713.0,
+      "annualFinalCost": 34963713.0
+    }
+  },
+  "references": {
+    "LP- RAN 0.5 mg IVT PRN": [
+      {
+        "domain": "Eficacia, Seguridad, PROs",
+        "citation": "1. Registro Clinical trials -RETAIN: NCT01171976"
+      },
+      {
+        "domain": "Supresión VEGF",
+        "citation": "2.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25"
+      },
+      {
+        "domain": "Posicionamiento terpéutico",
+        "citation": "4.INVIMA 2018M-0007158-R1"
+      }
+    ],
+    "LP- FAR 6 mg IVT T&E": [
+      {
+        "domain": "Eficacia, Seguridad, PROs",
+        "citation": "1.  Registro-clinical trials-NCT03622580"
+      },
+      {
+        "domain": "Supresión VEGF",
+        "citation": "2.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25"
+      },
+      {
+        "domain": "Posicionamiento terpéutico",
+        "citation": "4. IINVIMA 2024MBT-0000108"
+      }
+    ],
+    "AFL 2.0 mg IVT PRN": [
+      {
+        "domain": "Eficacia, Seguridad, PROs",
+        "citation": "1. Wells, John A et al. “Aflibercept, Bevacizumab, or Ranibizumab for Diabetic Macular Edema: Two-Year Results from a Comparative Effectiveness Randomized Clinical Trial.” Ophthalmology vol. 123,6 (2016): 1351-9. doi:10.1016/j.ophtha.2016.02.022"
+      },
+      {
+        "domain": "Supresión VEGF",
+        "citation": "2.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25"
+      },
+      {
+        "domain": "Posicionamiento terpéutico",
+        "citation": "4.INVIMA 2025MBT-0000160"
+      }
+    ],
+    "Aflibercept 8 mg  (q16)": [
+      {
+        "domain": "Eficacia, Seguridad, PROs",
+        "citation": "1. Registro-clinical trials-NCT04429503"
+      },
+      {
+        "domain": "Supresión VEGF",
+        "citation": "2.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25"
+      },
+      {
+        "domain": "Posicionamiento terpéutico",
+        "citation": "4.INVIMA 2025MBT-0000160"
+      }
+    ],
+    "LP -RAN 0.5 mg IVT T&E": [
+      {
+        "domain": "Eficacia, Seguridad, PROs",
+        "citation": "1. Registro Clinical trials -RETAIN: NCT01171976"
+      },
+      {
+        "domain": "Supresión VEGF",
+        "citation": "2.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25"
+      },
+      {
+        "domain": "Posicionamiento terpéutico",
+        "citation": "4.INVIMA 2018M-0007158-R1"
+      }
+    ],
+    "Aflibercept 8 mg  (q12)": [
+      {
+        "domain": "Eficacia, Seguridad, PROs",
+        "citation": "1. Registro-clinical trials-NCT04429503"
+      },
+      {
+        "domain": "Supresión VEGF",
+        "citation": "2.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25"
+      },
+      {
+        "domain": "Posicionamiento terpéutico",
+        "citation": "4.INVIMA 2025MBT-0000160"
+      }
+    ],
+    "LP- FAR 6 mg IVT Q8W": [
+      {
+        "domain": "Eficacia, Seguridad, PROs",
+        "citation": "1. Registro-clinical trials-NCT03622580"
+      },
+      {
+        "domain": "Supresión VEGF",
+        "citation": "2.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25"
+      },
+      {
+        "domain": "Posicionamiento terpéutico",
+        "citation": "4. IINVIMA 2024MBT-0000108"
+      }
+    ],
+    "Aflibercept 2 mg  (q8)": [
+      {
+        "domain": "Eficacia, Seguridad, PROs",
+        "citation": "1, NCT01331681-VIVID-DME"
+      },
+      {
+        "domain": "Supresión VEGF",
+        "citation": "2.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25"
+      },
+      {
+        "domain": "Posicionamiento terpéutico",
+        "citation": "4.INVIMA 2025MBT-0000160"
+      }
+    ]
+  },
+  "cachedResults": [
+    {
+      "molecule": "LP- FAR 6 mg IVT T&E",
+      "efficacy": 88.29,
+      "safety": 47.4,
+      "pros": 54.55,
+      "positioning": 100.0,
+      "totalGlobal": 66.18,
+      "annualCost": 0.0,
+      "costPerBenefit": 0.0
+    },
+    {
+      "molecule": "LP- FAR 6 mg IVT Q8W",
+      "efficacy": 64.86,
+      "safety": 42.13,
+      "pros": 54.55,
+      "positioning": 100.0,
+      "totalGlobal": 55.5,
+      "annualCost": 0.0,
+      "costPerBenefit": 0.0
+    },
+    {
+      "molecule": "LP -RAN 0.5 mg IVT T&E",
+      "efficacy": 64.86,
+      "safety": 76.78,
+      "pros": 54.55,
+      "positioning": 100.0,
+      "totalGlobal": 71.74,
+      "annualCost": 0.0,
+      "costPerBenefit": 0.0
+    },
+    {
+      "molecule": "LP- RAN 0.5 mg IVT PRN",
+      "efficacy": 48.29,
+      "safety": 100.0,
+      "pros": 54.55,
+      "positioning": 100.0,
+      "totalGlobal": 76.9,
+      "annualCost": 0.0,
+      "costPerBenefit": 0.0
+    },
+    {
+      "molecule": "Aflibercept 8 mg  (q12)",
+      "efficacy": 48.29,
+      "safety": 71.91,
+      "pros": 54.55,
+      "positioning": 100.0,
+      "totalGlobal": 63.7,
+      "annualCost": 0.0,
+      "costPerBenefit": 0.0
+    },
+    {
+      "molecule": "Aflibercept 8 mg  (q16)",
+      "efficacy": 48.29,
+      "safety": 43.32,
+      "pros": 54.55,
+      "positioning": 100.0,
+      "totalGlobal": 50.26,
+      "annualCost": 0.0,
+      "costPerBenefit": 0.0
+    },
+    {
+      "molecule": "AFL 2.0 mg IVT PRN",
+      "efficacy": 88.29,
+      "safety": 43.32,
+      "pros": 0.0,
+      "positioning": 100.0,
+      "totalGlobal": 58.26,
+      "annualCost": 0.0,
+      "costPerBenefit": 0.0
+    },
+    {
+      "molecule": "Aflibercept 2 mg  (q8)",
+      "efficacy": 88.29,
+      "safety": 66.64,
+      "pros": 100.0,
+      "positioning": 100.0,
+      "totalGlobal": 80.22,
+      "annualCost": 0.0,
+      "costPerBenefit": 0.0
+    }
+  ]
+}

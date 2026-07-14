@@ -1,0 +1,1297 @@
+{
+  "name": "Matriz_Resultados_Crudos",
+  "state": "hidden",
+  "dimensions": "A1:I11",
+  "max_row": 11,
+  "max_col": 9,
+  "merged_ranges": [],
+  "cells": [
+    {
+      "ref": "A1",
+      "formula": null,
+      "raw": "Criterio",
+      "value": "Criterio",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B1",
+      "formula": null,
+      "raw": "Aflibercept 2mg T&E",
+      "value": "Aflibercept 2mg T&E",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C1",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  T&E",
+      "value": "Ranibizumab  0.5 mg  T&E",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D1",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q4)",
+      "value": "Aflibercept 2mg (q4)",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E1",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q8)",
+      "value": "Aflibercept 2mg (q8)",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F1",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  (q4)",
+      "value": "Ranibizumab  0.5 mg  (q4)",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G1",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q16)",
+      "value": "Aflibercept 8mg (q16)",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H1",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q12)",
+      "value": "Aflibercept 8mg (q12)",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I1",
+      "formula": null,
+      "raw": "Faricimab 6mg (q16)",
+      "value": "Faricimab 6mg (q16)",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A2",
+      "formula": null,
+      "raw": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B2",
+      "formula": null,
+      "raw": "<openpyxl.worksheet.formula.ArrayFormula object at 0x7f546dfc0290>",
+      "value": 7.8,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C2",
+      "formula": null,
+      "raw": "<openpyxl.worksheet.formula.ArrayFormula object at 0x7f546dfc0680>",
+      "value": 6.6,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D2",
+      "formula": "='Inputs_nAMD '!D80",
+      "raw": null,
+      "value": 7.6,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E2",
+      "formula": "='Inputs_nAMD '!D95",
+      "raw": null,
+      "value": 7.6,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F2",
+      "formula": "='Inputs_nAMD '!D64",
+      "raw": null,
+      "value": 10.7,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G2",
+      "formula": "='Inputs_nAMD '!D13",
+      "raw": null,
+      "value": 5.6,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H2",
+      "formula": "='Inputs_nAMD '!D29",
+      "raw": null,
+      "value": 5.9,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I2",
+      "formula": "='Inputs_nAMD '!D48",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A3",
+      "formula": null,
+      "raw": "Pacientes con ganancia ≥15 letras en BCVA",
+      "value": "Pacientes con ganancia ≥15 letras en BCVA",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B3",
+      "formula": null,
+      "raw": 19,
+      "value": 19,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C3",
+      "formula": null,
+      "raw": 23,
+      "value": 23,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D3",
+      "formula": "='Inputs_nAMD '!D81",
+      "raw": null,
+      "value": 31.2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E3",
+      "formula": "='Inputs_nAMD '!D96",
+      "raw": null,
+      "value": 33.4,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F3",
+      "formula": "='Inputs_nAMD '!D65",
+      "raw": null,
+      "value": 41,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G3",
+      "formula": "='Inputs_nAMD '!D14",
+      "raw": null,
+      "value": 21.7,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H3",
+      "formula": "='Inputs_nAMD '!D30",
+      "raw": null,
+      "value": 20.7,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I3",
+      "formula": "='Inputs_nAMD '!D49",
+      "raw": null,
+      "value": 22.4,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A4",
+      "formula": null,
+      "raw": "Desprendimiento de retina ",
+      "value": "Desprendimiento de retina ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B4",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C4",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D4",
+      "formula": "='Inputs_nAMD '!D82",
+      "raw": null,
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E4",
+      "formula": "='Inputs_nAMD '!D97",
+      "raw": null,
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F4",
+      "formula": "='Inputs_nAMD '!D66",
+      "raw": null,
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G4",
+      "formula": "='Inputs_nAMD '!D15",
+      "raw": null,
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H4",
+      "formula": "='Inputs_nAMD '!D31",
+      "raw": null,
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I4",
+      "formula": "='Inputs_nAMD '!D50",
+      "raw": null,
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A5",
+      "formula": null,
+      "raw": "Infarto agudo de miocardio",
+      "value": "Infarto agudo de miocardio",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B5",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C5",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D5",
+      "formula": "='Inputs_nAMD '!D83",
+      "raw": null,
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E5",
+      "formula": "='Inputs_nAMD '!D98",
+      "raw": null,
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F5",
+      "formula": "='Inputs_nAMD '!D67",
+      "raw": null,
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G5",
+      "formula": "='Inputs_nAMD '!D16",
+      "raw": null,
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H5",
+      "formula": "='Inputs_nAMD '!D32",
+      "raw": null,
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I5",
+      "formula": "='Inputs_nAMD '!D51",
+      "raw": null,
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A6",
+      "formula": null,
+      "raw": "Endoftalmitis",
+      "value": "Endoftalmitis",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B6",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C6",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D6",
+      "formula": "='Inputs_nAMD '!D84",
+      "raw": null,
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E6",
+      "formula": "='Inputs_nAMD '!D99",
+      "raw": null,
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F6",
+      "formula": "='Inputs_nAMD '!D68",
+      "raw": null,
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G6",
+      "formula": "='Inputs_nAMD '!D17",
+      "raw": null,
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H6",
+      "formula": "='Inputs_nAMD '!D33",
+      "raw": null,
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I6",
+      "formula": "='Inputs_nAMD '!D52",
+      "raw": null,
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A7",
+      "formula": null,
+      "raw": "Supresión sistémica de VEGF",
+      "value": "Supresión sistémica de VEGF",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B7",
+      "formula": null,
+      "raw": "Prolongada",
+      "value": "Prolongada",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C7",
+      "formula": null,
+      "raw": "No prolongada",
+      "value": "No prolongada",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D7",
+      "formula": "='Inputs_nAMD '!D85",
+      "raw": null,
+      "value": "Prolongada",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E7",
+      "formula": "='Inputs_nAMD '!D100",
+      "raw": null,
+      "value": "Prolongada",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F7",
+      "formula": "='Inputs_nAMD '!D69",
+      "raw": null,
+      "value": "No prolongada",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G7",
+      "formula": "='Inputs_nAMD '!D18",
+      "raw": null,
+      "value": "Prolongada",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H7",
+      "formula": "='Inputs_nAMD '!D34",
+      "raw": null,
+      "value": "Prolongada",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I7",
+      "formula": "='Inputs_nAMD '!D53",
+      "raw": null,
+      "value": "NR",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A8",
+      "formula": null,
+      "raw": "Calidad de vida relacionada con la salud",
+      "value": "Calidad de vida relacionada con la salud",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B8",
+      "formula": null,
+      "raw": "NR",
+      "value": "NR",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C8",
+      "formula": null,
+      "raw": "Mejoría",
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D8",
+      "formula": "='Inputs_nAMD '!D86",
+      "raw": null,
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E8",
+      "formula": "='Inputs_nAMD '!D101",
+      "raw": null,
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F8",
+      "formula": "='Inputs_nAMD '!D70",
+      "raw": null,
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G8",
+      "formula": "='Inputs_nAMD '!D19",
+      "raw": null,
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H8",
+      "formula": "='Inputs_nAMD '!D35",
+      "raw": null,
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I8",
+      "formula": "='Inputs_nAMD '!D54",
+      "raw": null,
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A9",
+      "formula": null,
+      "raw": "Discapacidad / capacidad funcional",
+      "value": "Discapacidad / capacidad funcional",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B9",
+      "formula": null,
+      "raw": "NR",
+      "value": "NR",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C9",
+      "formula": null,
+      "raw": "NR",
+      "value": "NR",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D9",
+      "formula": "='Inputs_nAMD '!D87",
+      "raw": null,
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E9",
+      "formula": "='Inputs_nAMD '!D102",
+      "raw": null,
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F9",
+      "formula": "='Inputs_nAMD '!D71",
+      "raw": null,
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G9",
+      "formula": "='Inputs_nAMD '!D20",
+      "raw": null,
+      "value": "NR",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H9",
+      "formula": "='Inputs_nAMD '!D36",
+      "raw": null,
+      "value": "NR",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I9",
+      "formula": "='Inputs_nAMD '!D55",
+      "raw": null,
+      "value": "NR",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A10",
+      "formula": null,
+      "raw": "Estado de aprobación regulatoria",
+      "value": "Estado de aprobación regulatoria",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B10",
+      "formula": null,
+      "raw": "On-Label",
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C10",
+      "formula": null,
+      "raw": "On-Label",
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D10",
+      "formula": "='Inputs_nAMD '!D88",
+      "raw": null,
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E10",
+      "formula": "='Inputs_nAMD '!D103",
+      "raw": null,
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F10",
+      "formula": "='Inputs_nAMD '!D72",
+      "raw": null,
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G10",
+      "formula": "='Inputs_nAMD '!D21",
+      "raw": null,
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H10",
+      "formula": "='Inputs_nAMD '!D37",
+      "raw": null,
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I10",
+      "formula": "='Inputs_nAMD '!D56",
+      "raw": null,
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A11",
+      "formula": null,
+      "raw": "Inclusión en guías de práctica clínica",
+      "value": "Inclusión en guías de práctica clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B11",
+      "formula": null,
+      "raw": "Incluido",
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C11",
+      "formula": null,
+      "raw": "Incluido",
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D11",
+      "formula": "='Inputs_nAMD '!D89",
+      "raw": null,
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E11",
+      "formula": "='Inputs_nAMD '!D104",
+      "raw": null,
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F11",
+      "formula": "='Inputs_nAMD '!D73",
+      "raw": null,
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G11",
+      "formula": "='Inputs_nAMD '!D22",
+      "raw": null,
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H11",
+      "formula": "='Inputs_nAMD '!D38",
+      "raw": null,
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I11",
+      "formula": "='Inputs_nAMD '!D57",
+      "raw": null,
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    }
+  ]
+}

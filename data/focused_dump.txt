@@ -1,0 +1,173 @@
+
+
+############ RESUMEN SHEET ############
+
+====================================================================================================
+SHEET: "Resumen" rows=37 cols=67
+====================================================================================================
+R1: E1=1 | N1=2 | AH1=4 | BE1=7 | BO1=8
+R9: A9=DOMINIOS | D9=Aflibercept 2mg T&E | L9=Ranibizumab  0.5 mg  T&E | S9=Aflibercept 2mg (q4) | Z9=Aflibercept 2mg (q8) | AG9=Ranibizumab  0.5 mg  (q4) | AN9=Aflibercept 8mg (q16) | AT9=Aflibercept 8mg (q12) | AU9=Aflibercept 8mg (q12) | BA9=Faricimab 6mg (q16) | BB9=Faricimab 6mg (q16)
+R11: A11=Eficacia | D11=FORMULA | L11=FORMULA | S11=FORMULA | Z11=FORMULA | AG11=FORMULA | AN11=FORMULA | AU11=FORMULA | BB11=FORMULA
+R13: A13=Seguridad | D13=FORMULA | L13=FORMULA | S13=FORMULA | Z13=FORMULA | AG13=FORMULA | AN13=FORMULA | AU13=FORMULA | BB13=FORMULA
+R15: A15=PROs | D15=FORMULA | L15=FORMULA | S15=FORMULA | Z15=FORMULA | AG15=FORMULA | AN15=FORMULA | AU15=FORMULA | BB15=FORMULA
+R17: A17=Posicionamiento terapéutico | D17=FORMULA | L17=FORMULA | S17=FORMULA | Z17=FORMULA | AG17=FORMULA | AN17=FORMULA | AU17=FORMULA | BB17=FORMULA
+R19: A19=Total global obtenido | D19=FORMULA | L19=FORMULA | S19=FORMULA | Z19=FORMULA | AG19=FORMULA | AN19=FORMULA | AU19=FORMULA | BB19=FORMULA
+R21: A21=Costo anual tratamiento  | D21=FORMULA | L21=FORMULA | S21=FORMULA | Z21=FORMULA | AG21=FORMULA | AN21=FORMULA | AU21=FORMULA | BB21=FORMULA
+R23: A23=Costo por beneficio neto  | E23=FORMULA | L23=FORMULA | S23=FORMULA | Z23=FORMULA | AG23=FORMULA | AN23=FORMULA | AU23=FORMULA | BB23=FORMULA
+R27: A27=Criterio  | D27=1 | E27=2 | F27=3 | G27=4 | H27=5 | K27=1 | L27=2 | M27=3 | N27=4 | O27=5 | R27=1 | S27=2 | T27=3 | U27=4 | V27=5 | Y27=1 | Z27=2 | AA27=3 | AB27=4 | AC27=5 | AF27=1 | AG27=2 | AH27=3 | AI27=4 | AJ27=5 | AM27=1 | AN27=2 | AO27=3 | AP27=4 | AQ27=5 | AT27=1 | AU27=2 | AV27=3 | AW27=4 | AX27=5 | BA27=1 | BB27=2 | BC27=3 | BD27=4 | BE27=5
+R28: A28=Cambio medio en la agudeza visual corregida (BCVA) | B28=2 | D28=FORMULA | E28=FORMULA | F28=FORMULA | G28=FORMULA | H28=FORMULA | I28=2 | K28=FORMULA | L28=FORMULA | M28=FORMULA | N28=FORMULA | O28=FORMULA | P28=2 | R28=FORMULA | S28=FORMULA | T28=FORMULA | U28=FORMULA | V28=FORMULA | W28=2 | Y28=FORMULA | Z28=FORMULA | AA28=FORMULA | AB28=FORMULA | AC28=FORMULA | AD28=4 | AF28=FORMULA | AG28=FORMULA | AH28=FORMULA | AI28=FORMULA | AJ28=FORMULA | AK28=2 | AM28=FORMULA | AN28=FORMULA | AO28=FORMULA | AP28=FORMULA | AQ28=FORMULA | AR28=2 | AT28=FORMULA | AU28=FORMULA | AV28=FORMULA | AW28=FORMULA | AX28=FORMULA | AY28=1 | BA28=FORMULA | BB28=FORMULA | BC28=FORMULA | BD28=FORMULA | BE28=FORMULA
+R29: A29=Pacientes con ganancia ≥15 letras en BCVA | B29=3 | D29=FORMULA | E29=FORMULA | F29=FORMULA | G29=FORMULA | H29=FORMULA | I29=3 | K29=FORMULA | L29=FORMULA | M29=FORMULA | N29=FORMULA | O29=FORMULA | P29=5 | R29=FORMULA | S29=FORMULA | T29=FORMULA | U29=FORMULA | V29=FORMULA | W29=5 | Y29=FORMULA | Z29=FORMULA | AA29=FORMULA | AB29=FORMULA | AC29=FORMULA | AD29=5 | AF29=FORMULA | AG29=FORMULA | AH29=FORMULA | AI29=FORMULA | AJ29=FORMULA | AK29=3 | AM29=FORMULA | AN29=FORMULA | AO29=FORMULA | AP29=FORMULA | AQ29=FORMULA | AR29=3 | AT29=FORMULA | AU29=FORMULA | AV29=FORMULA | AW29=FORMULA | AX29=FORMULA | AY29=3 | BA29=FORMULA | BB29=FORMULA | BC29=FORMULA | BD29=FORMULA | BE29=FORMULA
+R30: A30=Desprendimiento de retina  | B30=1 | D30=FORMULA | E30=FORMULA | F30=FORMULA | G30=FORMULA | H30=FORMULA | I30=1 | K30=FORMULA | L30=FORMULA | M30=FORMULA | N30=FORMULA | O30=FORMULA | P30=1 | R30=FORMULA | S30=FORMULA | T30=FORMULA | U30=FORMULA | V30=FORMULA | W30=5 | Y30=FORMULA | Z30=FORMULA | AA30=FORMULA | AB30=FORMULA | AC30=FORMULA | AD30=5 | AF30=FORMULA | AG30=FORMULA | AH30=FORMULA | AI30=FORMULA | AJ30=FORMULA | AK30=1 | AM30=FORMULA | AN30=FORMULA | AO30=FORMULA | AP30=FORMULA | AQ30=FORMULA | AR30=1 | AT30=FORMULA | AU30=FORMULA | AV30=FORMULA | AW30=FORMULA | AX30=FORMULA | AY30=5 | BA30=FORMULA | BB30=FORMULA | BC30=FORMULA | BD30=FORMULA | BE30=FORMULA
+R31: A31=Infarto agudo de miocardio | B31=5 | D31=FORMULA | E31=FORMULA | F31=FORMULA | G31=FORMULA | H31=FORMULA | I31=1 | K31=FORMULA | L31=FORMULA | M31=FORMULA | N31=FORMULA | O31=FORMULA | P31=1 | R31=FORMULA | S31=FORMULA | T31=FORMULA | U31=FORMULA | V31=FORMULA | W31=1 | Y31=FORMULA | Z31=FORMULA | AA31=FORMULA | AB31=FORMULA | AC31=FORMULA | AD31=1 | AF31=FORMULA | AG31=FORMULA | AH31=FORMULA | AI31=FORMULA | AJ31=FORMULA | AK31=5 | AM31=FORMULA | AN31=FORMULA | AO31=FORMULA | AP31=FORMULA | AQ31=FORMULA | AR31=1 | AT31=FORMULA | AU31=FORMULA | AV31=FORMULA | AW31=FORMULA | AX31=FORMULA | AY31=1 | BA31=FORMULA | BB31=FORMULA | BC31=FORMULA | BD31=FORMULA | BE31=FORMULA
+R32: A32=Endoftalmitis | B32=5 | D32=FORMULA | E32=FORMULA | F32=FORMULA | G32=FORMULA | H32=FORMULA | I32=5 | K32=FORMULA | L32=FORMULA | M32=FORMULA | N32=FORMULA | O32=FORMULA | P32=1 | R32=FORMULA | S32=FORMULA | T32=FORMULA | U32=FORMULA | V32=FORMULA | W32=5 | Y32=FORMULA | Z32=FORMULA | AA32=FORMULA | AB32=FORMULA | AC32=FORMULA | AD32=1 | AF32=FORMULA | AG32=FORMULA | AH32=FORMULA | AI32=FORMULA | AJ32=FORMULA | AK32=5 | AM32=FORMULA | AN32=FORMULA | AO32=FORMULA | AP32=FORMULA | AQ32=FORMULA | AR32=5 | AT32=FORMULA | AU32=FORMULA | AV32=FORMULA | AW32=FORMULA | AX32=FORMULA | AY32=1 | BA32=FORMULA | BB32=FORMULA | BC32=FORMULA | BD32=FORMULA | BE32=FORMULA
+R33: A33=Supresión sistémica de VEGF | B33=1 | D33=FORMULA | E33=FORMULA | F33=FORMULA | G33=FORMULA | H33=FORMULA | I33=5 | K33=FORMULA | L33=FORMULA | M33=FORMULA | N33=FORMULA | O33=FORMULA | P33=1 | R33=FORMULA | S33=FORMULA | T33=FORMULA | U33=FORMULA | V33=FORMULA | W33=1 | Y33=FORMULA | Z33=FORMULA | AA33=FORMULA | AB33=FORMULA | AC33=FORMULA | AD33=5 | AF33=FORMULA | AG33=FORMULA | AH33=FORMULA | AI33=FORMULA | AJ33=FORMULA | AK33=1 | AM33=FORMULA | AN33=FORMULA | AO33=FORMULA | AP33=FORMULA | AQ33=FORMULA | AR33=1 | AT33=FORMULA | AU33=FORMULA | AV33=FORMULA | AW33=FORMULA | AX33=FORMULA | AY33=0 | BA33=FORMULA | BB33=FORMULA | BC33=FORMULA | BD33=FORMULA | BE33=FORMULA
+R34: A34=Calidad de vida relacionada con la salud | B34=0 | D34=FORMULA | E34=FORMULA | F34=FORMULA | G34=FORMULA | H34=FORMULA | I34=5 | K34=FORMULA | L34=FORMULA | M34=FORMULA | N34=FORMULA | O34=FORMULA | P34=5 | R34=FORMULA | S34=FORMULA | T34=FORMULA | U34=FORMULA | V34=FORMULA | W34=5 | Y34=FORMULA | Z34=FORMULA | AA34=FORMULA | AB34=FORMULA | AC34=FORMULA | AD34=5 | AF34=FORMULA | AG34=FORMULA | AH34=FORMULA | AI34=FORMULA | AJ34=FORMULA | AK34=5 | AM34=FORMULA | AN34=FORMULA | AO34=FORMULA | AP34=FORMULA | AQ34=FORMULA | AR34=5 | AT34=FORMULA | AU34=FORMULA | AV34=FORMULA | AW34=FORMULA | AX34=FORMULA | AY34=5 | BA34=FORMULA | BB34=FORMULA | BC34=FORMULA | BD34=FORMULA | BE34=FORMULA
+R35: A35=Discapacidad / capacidad funcional | B35=0 | D35=FORMULA | E35=FORMULA | F35=FORMULA | G35=FORMULA | H35=FORMULA | I35=0 | K35=FORMULA | L35=FORMULA | M35=FORMULA | N35=FORMULA | O35=FORMULA | P35=5 | R35=FORMULA | S35=FORMULA | T35=FORMULA | U35=FORMULA | V35=FORMULA | W35=5 | Y35=FORMULA | Z35=FORMULA | AA35=FORMULA | AB35=FORMULA | AC35=FORMULA | AD35=5 | AF35=FORMULA | AG35=FORMULA | AH35=FORMULA | AI35=FORMULA | AJ35=FORMULA | AK35=0 | AM35=FORMULA | AN35=FORMULA | AO35=FORMULA | AP35=FORMULA | AQ35=FORMULA | AR35=0 | AT35=FORMULA | AU35=FORMULA | AV35=FORMULA | AW35=FORMULA | AX35=FORMULA | AY35=0 | BA35=FORMULA | BB35=FORMULA | BC35=FORMULA | BD35=FORMULA | BE35=FORMULA
+R36: A36=Estado de aprobación regulatoria | B36=5 | D36=FORMULA | E36=FORMULA | F36=FORMULA | G36=FORMULA | H36=FORMULA | I36=5 | K36=FORMULA | L36=FORMULA | M36=FORMULA | N36=FORMULA | O36=FORMULA | P36=5 | R36=FORMULA | S36=FORMULA | T36=FORMULA | U36=FORMULA | V36=FORMULA | W36=5 | Y36=FORMULA | Z36=FORMULA | AA36=FORMULA | AB36=FORMULA | AC36=FORMULA | AD36=5 | AF36=FORMULA | AG36=FORMULA | AH36=FORMULA | AI36=FORMULA | AJ36=FORMULA | AK36=5 | AM36=FORMULA | AN36=FORMULA | AO36=FORMULA | AP36=FORMULA | AQ36=FORMULA | AR36=5 | AT36=FORMULA | AU36=FORMULA | AV36=FORMULA | AW36=FORMULA | AX36=FORMULA | AY36=5 | BA36=FORMULA | BB36=FORMULA | BC36=FORMULA | BD36=FORMULA | BE36=FORMULA
+R37: A37=Inclusión en guías de práctica clínica | B37=5 | D37=FORMULA | E37=FORMULA | F37=FORMULA | G37=FORMULA | H37=FORMULA | I37=5 | K37=FORMULA | L37=FORMULA | M37=FORMULA | N37=FORMULA | O37=FORMULA | P37=5 | R37=FORMULA | S37=FORMULA | T37=FORMULA | U37=FORMULA | V37=FORMULA | W37=5 | Y37=FORMULA | Z37=FORMULA | AA37=FORMULA | AB37=FORMULA | AC37=FORMULA | AD37=5 | AF37=FORMULA | AG37=FORMULA | AH37=FORMULA | AI37=FORMULA | AJ37=FORMULA | AK37=5 | AM37=FORMULA | AN37=FORMULA | AO37=FORMULA | AP37=FORMULA | AQ37=FORMULA | AR37=5 | AT37=FORMULA | AU37=FORMULA | AV37=FORMULA | AW37=FORMULA | AX37=FORMULA | AY37=5 | BA37=FORMULA | BB37=FORMULA | BC37=FORMULA | BD37=FORMULA | BE37=FORMULA
+
+
+############ REFERENCIAS SHEET ############
+
+====================================================================================================
+SHEET: "Referencias" rows=70 cols=3
+====================================================================================================
+R4: B4=Referencias 
+R9: B9=Aflibercept 2mg T&E
+R11: A11=Eficacia  | B11=1. Silva, Rufino, et al. "Treat-and-extend versus monthly re
+R12: A12=Seguridad  | B12=2. Clinical trials-ARIES:NCT02581891
+R13: A13=Supresión VEGF  | B13=3.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A
+R14: B14=4. Sharma, Sourabh et al. “Evidence-Based Guidelines for Int
+R15: A15=Posicionamiento terpéutico  | B15=5. INVIMA 2025MBT-0000160
+R16: B16=6. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Yin
+R19: B19=Ranibizumab  0.5 mg  T&E
+R21: A21=Eficacia, Seguridad, PROs  | B21=1. Clinical trials-TREND: NCT01948830
+R22: A22=Supresión VEGF  | B22=2.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A
+R23: B23=3. Sharma, Sourabh et al. “Evidence-Based Guidelines for Int
+R24: A24=Posicionamiento terpéutico  | B24=4. INVIMA 2018M-0007158-R1
+R25: B25=5. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Yin
+R28: B28=Aflibercept 2mg (q8)
+R29: A29=Eficacia, Seguridad, PROs  | B29=1. Schmidt-Erfurth, Ursula, et al. "Intravitreal aflibercept
+R30: A30=Supresión VEGF  | B30=4.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A
+R31: B31=5. Sharma, Sourabh et al. “Evidence-Based Guidelines for Int
+R32: A32=Posicionamiento terpéutico  | B32=6. INVIMA 2025MBT-0000160
+R33: B33=7. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Yin
+R36: B36=Aflibercept 2mg (q4)
+R37: A37=Eficacia, Seguridad, PROs  | B37=1. Schmidt-Erfurth, Ursula, et al. "Intravitreal aflibercept
+R38: A38=Supresión VEGF  | B38=4.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A
+R39: B39=5. Sharma, Sourabh et al. “Evidence-Based Guidelines for Int
+R40: A40=Posicionamiento terpéutico  | B40=6. INVIMA 2025MBT-0000160
+R41: B41=7. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Yin
+R44: B44=Ranibizumab  0.5 mg  (q4)
+R45: A45=Eficacia, Seguridad, PROs  | B45=1. Brown, David M., et al. "Ranibizumab versus verteporfin p
+R46: A46=Supresión VEGF  | B46=3.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A
+R47: B47=4. Sharma, Sourabh et al. “Evidence-Based Guidelines for Int
+R48: A48=Posicionamiento terpéutico  | B48=5.INVIMA 2018M-0007158-R1
+R49: B49=6. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Yin
+R51: B51=Faricimab 6mg (q16)
+R52: A52=Eficacia, Seguridad, PROs  | B52=1. Clinical trials NCT03823300
+2. EPAR-EMA
+3. Khanani AM, Ko
+R53: A53=Supresión VEGF  | B53=5.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A
+R54: B54=6. Sharma, Sourabh et al. “Evidence-Based Guidelines for Int
+R55: A55=Posicionamiento terpéutico  | B55=7. IINVIMA 2024MBT-0000108
+R56: B56=6. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Yin
+R58: B58=Aflibercept 8mg (q12)
+R59: A59=Eficacia, Seguridad, PROs  | B59=1. Korobelnik, Jean-François, et al. "Intravitreal afliberce
+R60: A60=Supresión VEGF  | B60=3.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A
+R61: B61=4. Sharma, Sourabh et al. “Evidence-Based Guidelines for Int
+R62: A62=Posicionamiento terpéutico  | B62=5.INVIMA 2025MBT-0000160
+R63: B63=6. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Yin
+R65: B65=Aflibercept 8mg (q16)
+R66: A66=Eficacia, Seguridad, PROs  | B66=1. Korobelnik, Jean-François, et al. "Intravitreal afliberce
+R67: A67=Supresión VEGF  | B67=3.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A
+R68: B68=4. Sharma, Sourabh et al. “Evidence-Based Guidelines for Int
+R69: A69=Posicionamiento terpéutico  | B69=5.INVIMA 2025MBT-0000160
+R70: B70=6. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Yin
+
+
+############ MCDA ADVANCED DASHBOARD ############
+
+====================================================================================================
+SHEET: "MCDA Advanced Dashboard" rows=30 cols=18
+====================================================================================================
+R9: B9=Modelo de valor adaptado | D9=MEDICAMENTO BAJO EVALUACIÓN: | E9=FORMULA
+R10: D10=Ranibizumab  0.5 mg  T&E
+R12: E12=PUNTAJE GLOBAL OBTENIDO
+R14: B14=Dominio / Criterio | C14=Peso (%) | D14=Resultado | E14=Valor  | F14=Puntaje Ponderado | G14=% | H14=1 | I14=2 | J14=3 | K14=4 | L14=5 | P14=INFORMACIÓN ECONÓMICA | R14=VALOR
+R15: B15=Eficacia 
+R16: B16=Cambio medio en la agudeza visual corregida (BCVA) | C16=20.5 | D16=FORMULA | E16=FORMULA | F16=FORMULA | G16=FORMULA | H16=FORMULA | I16=FORMULA | J16=FORMULA | K16=FORMULA | L16=FORMULA | P16=COSTO ANUAL INYECCIONES  | R16=FORMULA
+R17: B17=Pacientes con ganancia ≥15 letras en BCVA | C17=14.5 | D17=FORMULA | E17=FORMULA | F17=FORMULA | H17=FORMULA | I17=FORMULA | J17=FORMULA | K17=FORMULA | L17=FORMULA
+R18: B18=Seguridad  | P18=COSTO ANUAL DE ADMINISTRACIÓN | R18=FORMULA
+R19: B19=Desprendimiento de retina  | C19=16.8 | D19=FORMULA | E19=FORMULA | F19=FORMULA | G19=FORMULA | H19=FORMULA | I19=FORMULA | J19=FORMULA | K19=FORMULA | L19=FORMULA
+R20: B20=Infarto agudo de miocardio | C20=13.7 | D20=FORMULA | E20=FORMULA | F20=FORMULA | H20=FORMULA | I20=FORMULA | J20=FORMULA | K20=FORMULA | L20=FORMULA | P20=COSTO TOTAL ANUAL  | R20=FORMULA
+R21: B21=Endoftalmitis | C21=13.7 | D21=FORMULA | E21=FORMULA | F21=FORMULA | H21=FORMULA | I21=FORMULA | J21=FORMULA | K21=FORMULA | L21=FORMULA
+R22: B22=Supresión sistémica de VEGF | C22=2.8 | D22=FORMULA | E22=FORMULA | F22=FORMULA | H22=FORMULA | I22=FORMULA | J22=FORMULA | K22=FORMULA | L22=FORMULA | P22=COSTO POR UNIDAD DE BENEFICIO NETO  | R22=FORMULA
+R23: B23=Desenlaces reportados por pacientes (PROs)
+R24: B24=Calidad de vida relacionada con la salud | C24=6 | D24=FORMULA | E24=FORMULA | F24=FORMULA | G24=FORMULA | H24=FORMULA | I24=FORMULA | J24=FORMULA | K24=FORMULA | L24=FORMULA
+R25: B25=Discapacidad / capacidad funcional | C25=5 | D25=FORMULA | E25=FORMULA | F25=FORMULA | H25=FORMULA | I25=FORMULA | J25=FORMULA | K25=FORMULA | L25=FORMULA
+R26: B26=Posicionamiento terapéutico
+R27: B27=Estado de aprobación regulatoria | C27=4 | D27=FORMULA | E27=FORMULA | F27=FORMULA | G27=FORMULA | H27=FORMULA | I27=FORMULA | J27=FORMULA | K27=FORMULA | L27=FORMULA
+R28: B28=Inclusión en guías de práctica clínica | C28=3 | D28=FORMULA | E28=FORMULA | F28=FORMULA | H28=FORMULA | I28=FORMULA | J28=FORMULA | K28=FORMULA | L28=FORMULA
+R30: E30=TOTAL GLOBAL | F30=FORMULA
+
+
+############ INPUTS_nAMD (first 75 rows) ############
+
+====================================================================================================
+SHEET: "Inputs_nAMD " rows=75 cols=8
+====================================================================================================
+R8: C8=Aflibercept 8mg (q16)
+R12: C12=Desenlace de interés | D12=Resultado  | E12=Valor  | F12=Tiempo de seguimiento  | G12=Referencia  | H12=Comentarios
+R13: C13=Cambio medio en la agudeza visual corregida (BCVA) | D13=5.6 | E13=FORMULA | F13=96 semanas  | G13=Korobelnik, Jean-François, et al. "Intravitreal aflibercept 
+R14: C14=Pacientes con ganancia ≥15 letras en BCVA | D14=21.7 | E14=FORMULA | F14=96 semanas  | G14=Clinical trials: NCT04423718
+R15: C15=Desprendimiento de retina  | D15=Ocurrencia | E15=FORMULA | F15=96 semanas  | G15=Clinical trials: NCT04423718 | H15=Evento adverso serio3/338 (0.89%)	
+R16: C16=Infarto agudo de miocardio | D16=No ocurrencia | E16=FORMULA | F16=96 semanas  | G16=Clinical trials: NCT04423718
+R17: C17=Endoftalmitis | D17=No ocurrencia | E17=FORMULA | F17=96 semanas  | G17=Clinical trials: NCT04423718
+R18: C18=Supresión sistémica de VEGF | D18=Prolongada | E18=FORMULA | G18=* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A
+R19: C19=Calidad de vida relacionada con la salud | D19=Mejoría | E19=FORMULA | F19=48 semanas  | G19=Clinical trials: NCT04423718 | H19=NEI VFQ-25
+R20: C20=Discapacidad / capacidad funcional | D20=NR | E20=FORMULA
+R21: C21=Estado de aprobación regulatoria | D21=On-Label | E21=FORMULA | G21=INVIMA 2025MBT-0000160
+R22: C22=Inclusión en guías de práctica clínica | D22=Incluido | E22=FORMULA | G22=*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying 
+R25: C25=Aflibercept 8mg (q12)
+R28: C28=Desenlace de interés | D28=Resultado  | E28=Valor  | F28=Tiempo de seguimiento  | G28=Referencia  | H28=Comentarios
+R29: C29=Cambio medio en la agudeza visual corregida (BCVA) | D29=5.9 | E29=FORMULA | F29=96 semanas  | G29=Korobelnik, Jean-François, et al. "Intravitreal aflibercept 
+R30: C30=Pacientes con ganancia ≥15 letras en BCVA | D30=20.7 | E30=FORMULA | F30=48 semanas  | G30=Clinical trials: NCT04423718
+R31: C31=Desprendimiento de retina  | D31=Ocurrencia | E31=FORMULA | F31=96 semanas  | G31=Clinical trials: NCT04423718 | H31=Evento adverso serio: 2/335 (0.60%)	
+R32: C32=Infarto agudo de miocardio | D32=Ocurrencia | E32=FORMULA | F32=96 semanas  | G32=Clinical trials: NCT04423718 | H32=Evento adverso serio: 1/335 (0.30%)	
+R33: C33=Endoftalmitis | D33=No ocurrencia | E33=FORMULA | F33=96 semanas  | G33=Clinical trials: NCT04423718
+R34: C34=Supresión sistémica de VEGF | D34=Prolongada | E34=FORMULA | G34=* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A
+R35: C35=Calidad de vida relacionada con la salud | D35=Mejoría | E35=FORMULA | F35=48 semanas  | G35=Clinical trials: NCT04423718 | H35=NEI VFQ-25
+R36: C36=Discapacidad / capacidad funcional | D36=NR | E36=FORMULA
+R37: C37=Estado de aprobación regulatoria | D37=On-Label | E37=FORMULA | G37=INVIMA 2025MBT-0000160 | H37=Aprobación FDA 
+R38: C38=Inclusión en guías de práctica clínica | D38=Incluido | E38=FORMULA | G38=*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying 
+R44: C44=Faricimab 6mg (q16)
+R47: C47=Desenlace de interés | D47=Resultado  | E47=Valor  | F47=Tiempo de seguimiento  | G47=Referencia  | H47=Comentarios
+R48: C48=Cambio medio en la agudeza visual corregida (BCVA) | D48=5 | E48=FORMULA | F48=112 semanas  | G48=Clinical trials NCT03823300
+EPAR-EMA
+Khanani AM, Kotecha A, 
+R49: C49=Pacientes con ganancia ≥15 letras en BCVA | D49=22.4 | E49=FORMULA | F49=112 semanas  | G49=Clinical trials NCT03823300
+EPAR-EMA
+Khanani AM, Kotecha A, 
+R50: C50=Desprendimiento de retina  | D50=No ocurrencia | E50=FORMULA | F50=112 semanas  | G50=Clinical trials NCT03823300 | H50=Evento adverso serio: 1/331 (0.30%)
+R51: C51=Infarto agudo de miocardio | D51=Ocurrencia | E51=FORMULA | F51=112 semanas  | G51=Clinical trials NCT03823300
+R52: C52=Endoftalmitis | D52=Ocurrencia | E52=FORMULA | F52=112 semanas  | G52=Clinical trials NCT03823300 | H52=Evento adverso serio: 2/331 (0.60%)
+R53: C53=Supresión sistémica de VEGF | D53=NR | E53=FORMULA
+R54: C54=Calidad de vida relacionada con la salud | D54=Mejoría | E54=FORMULA | F54=48 semanas  | G54=CADTH Reimbursement Review
+Faricimab (Vabysmo)
+Sponsor: Hoff
+R55: C55=Discapacidad / capacidad funcional | D55=NR | E55=FORMULA
+R56: C56=Estado de aprobación regulatoria | D56=On-Label | E56=FORMULA | G56=INVIMA 2024MBT-0000108
+R57: C57=Inclusión en guías de práctica clínica | D57=Incluido | E57=FORMULA | G57=*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying 
+R60: C60=Ranibizumab  0.5 mg  (q4)
+R63: C63=Desenlace de interés | D63=Resultado  | E63=Valor  | F63=Tiempo de seguimiento  | G63=Referencia  | H63=Comentarios
+R64: C64=Cambio medio en la agudeza visual corregida (BCVA) | D64=10.7 | E64=FORMULA | F64=2 AÑOS | G64=Brown, David M., et al. "Ranibizumab versus verteporfin phot
+R65: C65=Pacientes con ganancia ≥15 letras en BCVA | D65=41 | E65=FORMULA | F65=2 AÑOS | G65=Brown, David M., et al. "Ranibizumab versus verteporfin phot
+R66: C66=Desprendimiento de retina  | D66=No ocurrencia | E66=FORMULA | F66=2 AÑOS | G66=Brown, David M., et al. "Ranibizumab versus verteporfin phot
+R67: C67=Infarto agudo de miocardio | D67=Ocurrencia | E67=FORMULA | F67=2 AÑOS | G67=Brown, David M., et al. "Ranibizumab versus verteporfin phot | H67=No se especifica el grado y si es agudo 5/140(3.6)
+R68: C68=Endoftalmitis | D68=Ocurrencia | E68=FORMULA | F68=2 AÑOS | G68=Brown, David M., et al. "Ranibizumab versus verteporfin phot | H68=Evento adverso  serio 3/140 (2.1)
+R69: C69=Supresión sistémica de VEGF | D69=No prolongada | E69=FORMULA | F69=  | G69=* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A
+R70: C70=Calidad de vida relacionada con la salud | D70=Mejoría | E70=FORMULA | F70=12 meses  | G70=Bressler, Neil M., et al. "Improved vision-related function 
+R71: C71=Discapacidad / capacidad funcional | D71=Mejoría | E71=FORMULA | F71=12 meses  | G71=Bressler, Neil M., et al. "Improved vision-related function 
+R72: C72=Estado de aprobación regulatoria | D72=On-Label | E72=FORMULA | G72=INVIMA 2018M-0007158-R1
+R73: C73=Inclusión en guías de práctica clínica | D73=Incluido | E73=FORMULA | G73=*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying 

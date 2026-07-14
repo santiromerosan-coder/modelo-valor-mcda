@@ -1,0 +1,454 @@
+{
+  "name": "Modelo de valor",
+  "state": "visible",
+  "dimensions": "N2:Q23",
+  "max_row": 23,
+  "max_col": 17,
+  "merged_ranges": [
+    "N9:O9"
+  ],
+  "cells": [
+    {
+      "ref": "N2",
+      "formula": null,
+      "raw": "Detallado ",
+      "value": "Detallado ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "N3",
+      "formula": null,
+      "raw": "Comparativo ",
+      "value": "Comparativo ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "N4",
+      "formula": null,
+      "raw": "Referencias ",
+      "value": "Referencias ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "N5",
+      "formula": null,
+      "raw": "Inputs costos ",
+      "value": "Inputs costos ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "N6",
+      "formula": null,
+      "raw": "Inputs evidencia ",
+      "value": "Inputs evidencia ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "N7",
+      "formula": null,
+      "raw": "Definiciones ",
+      "value": "Definiciones ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "N9",
+      "formula": null,
+      "raw": "Molecula",
+      "value": "Molecula",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "P9",
+      "formula": null,
+      "raw": "Columna",
+      "value": "Columna",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "N10",
+      "formula": null,
+      "raw": "Aflibercept 2mg T&E",
+      "value": "Aflibercept 2mg T&E",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "P10",
+      "formula": null,
+      "raw": "D-H",
+      "value": "D-H",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "Q10",
+      "formula": null,
+      "raw": true,
+      "value": true,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "N11",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  T&E",
+      "value": "Ranibizumab  0.5 mg  T&E",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "P11",
+      "formula": null,
+      "raw": "K-O",
+      "value": "K-O",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "Q11",
+      "formula": null,
+      "raw": true,
+      "value": true,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "N12",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q4)",
+      "value": "Aflibercept 2mg (q4)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "P12",
+      "formula": null,
+      "raw": "R-V",
+      "value": "R-V",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "Q12",
+      "formula": null,
+      "raw": true,
+      "value": true,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "N13",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q8)",
+      "value": "Aflibercept 2mg (q8)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "P13",
+      "formula": null,
+      "raw": "Y-AC",
+      "value": "Y-AC",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "Q13",
+      "formula": null,
+      "raw": true,
+      "value": true,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "N14",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  (q4)",
+      "value": "Ranibizumab  0.5 mg  (q4)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "P14",
+      "formula": null,
+      "raw": "AF-AJ",
+      "value": "AF-AJ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "Q14",
+      "formula": null,
+      "raw": true,
+      "value": true,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "N15",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q16)",
+      "value": "Aflibercept 8mg (q16)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "P15",
+      "formula": null,
+      "raw": "AM-AQ",
+      "value": "AM-AQ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "Q15",
+      "formula": null,
+      "raw": true,
+      "value": true,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "N16",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q12)",
+      "value": "Aflibercept 8mg (q12)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "P16",
+      "formula": null,
+      "raw": "AT-AX",
+      "value": "AT-AX",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "Q16",
+      "formula": null,
+      "raw": true,
+      "value": true,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "N17",
+      "formula": null,
+      "raw": "Faricimab 6mg (q16)",
+      "value": "Faricimab 6mg (q16)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "P17",
+      "formula": null,
+      "raw": "BA-BE",
+      "value": "BA-BE",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "Q17",
+      "formula": null,
+      "raw": true,
+      "value": true,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "N23",
+      "formula": null,
+      "raw": "Descuento",
+      "value": "Descuento",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "O23",
+      "formula": null,
+      "raw": 0,
+      "value": 0,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 11.0,
+        "number_format": "0%"
+      }
+    }
+  ]
+}

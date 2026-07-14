@@ -1,0 +1,1790 @@
+{
+  "name": "MCDA Advanced Dashboard",
+  "state": "visible",
+  "dimensions": "B9:R30",
+  "max_row": 30,
+  "max_col": 18,
+  "merged_ranges": [
+    "E12:F12",
+    "G27:G28",
+    "P24:R24",
+    "B23:G23",
+    "E9:F11",
+    "B26:G26",
+    "B18:G18",
+    "G24:G25",
+    "G16:G17",
+    "B15:G15",
+    "G19:G22"
+  ],
+  "cells": [
+    {
+      "ref": "B9",
+      "formula": null,
+      "raw": "Modelo de valor adaptado",
+      "value": "Modelo de valor adaptado",
+      "style": {
+        "fill": null,
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 18.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D9",
+      "formula": null,
+      "raw": "MEDICAMENTO BAJO EVALUACIÓN:",
+      "value": "MEDICAMENTO BAJO EVALUACIÓN:",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E9",
+      "formula": "=F30",
+      "raw": null,
+      "value": 52.5,
+      "style": {
+        "fill": "FFF4F7FC",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 36.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D10",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  T&E",
+      "value": "Ranibizumab  0.5 mg  T&E",
+      "style": {
+        "fill": "FFFFF2CC",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E12",
+      "formula": null,
+      "raw": "PUNTAJE GLOBAL OBTENIDO",
+      "value": "PUNTAJE GLOBAL OBTENIDO",
+      "style": {
+        "fill": "FFE1EDFA",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B14",
+      "formula": null,
+      "raw": "Dominio / Criterio",
+      "value": "Dominio / Criterio",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C14",
+      "formula": null,
+      "raw": "Peso (%)",
+      "value": "Peso (%)",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D14",
+      "formula": null,
+      "raw": "Resultado",
+      "value": "Resultado",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E14",
+      "formula": null,
+      "raw": "Valor ",
+      "value": "Valor ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F14",
+      "formula": null,
+      "raw": "Puntaje Ponderado",
+      "value": "Puntaje Ponderado",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G14",
+      "formula": null,
+      "raw": "%",
+      "value": "%",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H14",
+      "formula": null,
+      "raw": 1,
+      "value": 1,
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I14",
+      "formula": null,
+      "raw": 2,
+      "value": 2,
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "J14",
+      "formula": null,
+      "raw": 3,
+      "value": 3,
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "K14",
+      "formula": null,
+      "raw": 4,
+      "value": 4,
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "L14",
+      "formula": null,
+      "raw": 5,
+      "value": 5,
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "P14",
+      "formula": null,
+      "raw": "INFORMACIÓN ECONÓMICA",
+      "value": "INFORMACIÓN ECONÓMICA",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "R14",
+      "formula": null,
+      "raw": "VALOR",
+      "value": "VALOR",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B15",
+      "formula": null,
+      "raw": "Eficacia ",
+      "value": "Eficacia ",
+      "style": {
+        "fill": "FFE1EDFA",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B16",
+      "formula": null,
+      "raw": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C16",
+      "formula": null,
+      "raw": 20.5,
+      "value": 20.5,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D16",
+      "formula": "=\"La ganancia media de BCVA con \" & $D$10 & \" fue de \" & VLOOKUP(B16, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE) & \" letras, de acuerdo con lo reportado en la literatura científica.\"",
+      "raw": null,
+      "value": "La ganancia media de BCVA con Ranibizumab  0.5 mg  T&E fue de 6,6 letras, de acuerdo con lo reportado en la literatura científica.",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E16",
+      "formula": "=VLOOKUP(B16, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)",
+      "raw": null,
+      "value": 2,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F16",
+      "formula": "=(C16 * (E16/5))",
+      "raw": null,
+      "value": 8.200000000000001,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G16",
+      "formula": "=(F16+F17)/(C16+C17)*100",
+      "raw": null,
+      "value": 48.285714285714285,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "H16",
+      "formula": "=IF(COLUMNS($H16:H16)<=$E16, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "I16",
+      "formula": "=IF(COLUMNS($H16:I16)<=$E16, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "J16",
+      "formula": "=IF(COLUMNS($H16:J16)<=$E16, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "K16",
+      "formula": "=IF(COLUMNS($H16:K16)<=$E16, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "L16",
+      "formula": "=IF(COLUMNS($H16:L16)<=$E16, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "P16",
+      "formula": null,
+      "raw": "COSTO ANUAL INYECCIONES ",
+      "value": "COSTO ANUAL INYECCIONES ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "R16",
+      "formula": "=IFERROR(_xlfn.XLOOKUP($D$10,Input_costo2!$C:$C,Input_costo2!$I:$I,\"\",0),\"\")",
+      "raw": null,
+      "value": 14881527,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 18.0,
+        "number_format": "_-[$$-240A]\\ * #,##0_-;\\-[$$-240A]\\ * #,##0_-;_-[$$-240A]\\ * \"-\"_-;_-@_-"
+      }
+    },
+    {
+      "ref": "B17",
+      "formula": null,
+      "raw": "Pacientes con ganancia ≥15 letras en BCVA",
+      "value": "Pacientes con ganancia ≥15 letras en BCVA",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C17",
+      "formula": null,
+      "raw": 14.5,
+      "value": 14.5,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D17",
+      "formula": "=\"La proporción de pacientes con ganancia ≥15 letras en BCVA fue de \" & VLOOKUP(B17, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE) & \"% con \" & $D$10 & \" según el tiempo reportado en la literatura. (1)\"",
+      "raw": null,
+      "value": "La proporción de pacientes con ganancia ≥15 letras en BCVA fue de 23% con Ranibizumab  0.5 mg  T&E según el tiempo reportado en la literatura. (1)",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E17",
+      "formula": "=VLOOKUP(B17, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)",
+      "raw": null,
+      "value": 3,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F17",
+      "formula": "=(C17 * (E17/5))",
+      "raw": null,
+      "value": 8.7,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H17",
+      "formula": "=IF(COLUMNS($H17:H17)<=$E17, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "I17",
+      "formula": "=IF(COLUMNS($H17:I17)<=$E17, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "J17",
+      "formula": "=IF(COLUMNS($H17:J17)<=$E17, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "K17",
+      "formula": "=IF(COLUMNS($H17:K17)<=$E17, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "L17",
+      "formula": "=IF(COLUMNS($H17:L17)<=$E17, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "B18",
+      "formula": null,
+      "raw": "Seguridad ",
+      "value": "Seguridad ",
+      "style": {
+        "fill": "FFE1EDFA",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "P18",
+      "formula": null,
+      "raw": "COSTO ANUAL DE ADMINISTRACIÓN",
+      "value": "COSTO ANUAL DE ADMINISTRACIÓN",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "R18",
+      "formula": "=IFERROR(_xlfn.XLOOKUP($D$10,Input_costo2!$C:$C,Input_costo2!$M:$M,\"\",0),\"\")",
+      "raw": null,
+      "value": 17621811,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 18.0,
+        "number_format": "_-[$$-240A]\\ * #,##0_-;\\-[$$-240A]\\ * #,##0_-;_-[$$-240A]\\ * \"-\"_-;_-@_-"
+      }
+    },
+    {
+      "ref": "B19",
+      "formula": null,
+      "raw": "Desprendimiento de retina ",
+      "value": "Desprendimiento de retina ",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C19",
+      "formula": null,
+      "raw": 16.8,
+      "value": 16.8,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D19",
+      "formula": "=IF(VLOOKUP(B19, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"No ocurrencia\", \"Para \" & $D$10 & \" no se reportó el evento de \" & LOWER(B19) & \" en el tiempo de seguimiento clínico reportado en el estudio fuente.\", IF(VLOOKUP(B19, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"Ocurrencia\", \"Se reportó el evento de \" & LOWER(B19) & \" con una frecuencia muy baja con \" & $D$10 & \", según la literatura fuente.\", \"Información No Reportada (NR)\"))",
+      "raw": null,
+      "value": "Se reportó el evento de desprendimiento de retina  con una frecuencia muy baja con Ranibizumab  0.5 mg  T&E, según la literatura fuente.",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E19",
+      "formula": "=VLOOKUP(B19, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F19",
+      "formula": "=(C19 * (E19/5))",
+      "raw": null,
+      "value": 3.3600000000000003,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G19",
+      "formula": "=(F19+F20+F21+F22)/(C19+C20+C21+C22)*100",
+      "raw": null,
+      "value": 48.08510638297873,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "H19",
+      "formula": "=IF(COLUMNS($H19:H19)<=$E19, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "I19",
+      "formula": "=IF(COLUMNS($H19:I19)<=$E19, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "J19",
+      "formula": "=IF(COLUMNS($H19:J19)<=$E19, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "K19",
+      "formula": "=IF(COLUMNS($H19:K19)<=$E19, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "L19",
+      "formula": "=IF(COLUMNS($H19:L19)<=$E19, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "B20",
+      "formula": null,
+      "raw": "Infarto agudo de miocardio",
+      "value": "Infarto agudo de miocardio",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C20",
+      "formula": null,
+      "raw": 13.7,
+      "value": 13.7,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D20",
+      "formula": "=IF(VLOOKUP(B20, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"No ocurrencia\", \"Para \" & $D$10 & \" no se reportó el evento de \" & LOWER(B20) & \" en el tiempo de seguimiento clínico reportado en el estudio fuente.\", IF(VLOOKUP(B20, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"Ocurrencia\", \"Se reportó el evento de \" & LOWER(B20) & \" con una frecuencia muy baja con \" & $D$10 & \", según la literatura fuente.\", \"Información No Reportada (NR)\"))",
+      "raw": null,
+      "value": "Se reportó el evento de infarto agudo de miocardio con una frecuencia muy baja con Ranibizumab  0.5 mg  T&E, según la literatura fuente.",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E20",
+      "formula": "=VLOOKUP(B20, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F20",
+      "formula": "=(C20 * (E20/5))",
+      "raw": null,
+      "value": 2.74,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H20",
+      "formula": "=IF(COLUMNS($H20:H20)<=$E20, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "I20",
+      "formula": "=IF(COLUMNS($H20:I20)<=$E20, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "J20",
+      "formula": "=IF(COLUMNS($H20:J20)<=$E20, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "K20",
+      "formula": "=IF(COLUMNS($H20:K20)<=$E20, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "L20",
+      "formula": "=IF(COLUMNS($H20:L20)<=$E20, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "P20",
+      "formula": null,
+      "raw": "COSTO TOTAL ANUAL ",
+      "value": "COSTO TOTAL ANUAL ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "R20",
+      "formula": "=IFERROR(_xlfn.XLOOKUP($D$10,Input_costo2!$C:$C,Input_costo2!$Q:$Q,\"\",0),\"\")",
+      "raw": null,
+      "value": 32503338,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 18.0,
+        "number_format": "_-[$$-240A]\\ * #,##0_-;\\-[$$-240A]\\ * #,##0_-;_-[$$-240A]\\ * \"-\"_-;_-@_-"
+      }
+    },
+    {
+      "ref": "B21",
+      "formula": null,
+      "raw": "Endoftalmitis",
+      "value": "Endoftalmitis",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C21",
+      "formula": null,
+      "raw": 13.7,
+      "value": 13.7,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D21",
+      "formula": "=IF(VLOOKUP(B21, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"No ocurrencia\", \"Para \" & $D$10 & \" no se reportó el evento de \" & LOWER(B21) & \" en el tiempo de seguimiento clínico reportado en el estudio fuente.\", IF(VLOOKUP(B21, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"Ocurrencia\", \"Se reportó el evento de \" & LOWER(B21) & \" con una frecuencia muy baja con \" & $D$10 & \", según la literatura fuente.\", \"Información No Reportada (NR)\"))",
+      "raw": null,
+      "value": "Para Ranibizumab  0.5 mg  T&E no se reportó el evento de endoftalmitis en el tiempo de seguimiento clínico reportado en el estudio fuente.",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E21",
+      "formula": "=VLOOKUP(B21, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F21",
+      "formula": "=(C21 * (E21/5))",
+      "raw": null,
+      "value": 13.7,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H21",
+      "formula": "=IF(COLUMNS($H21:H21)<=$E21, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "I21",
+      "formula": "=IF(COLUMNS($H21:I21)<=$E21, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "J21",
+      "formula": "=IF(COLUMNS($H21:J21)<=$E21, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "K21",
+      "formula": "=IF(COLUMNS($H21:K21)<=$E21, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "L21",
+      "formula": "=IF(COLUMNS($H21:L21)<=$E21, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "B22",
+      "formula": null,
+      "raw": "Supresión sistémica de VEGF",
+      "value": "Supresión sistémica de VEGF",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C22",
+      "formula": null,
+      "raw": 2.8,
+      "value": 2.8,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D22",
+      "formula": "=IF(VLOOKUP(B22, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"No prolongada\", \"Supresión sistémica baja. ; perfil seguro y de elección en riesgo renal , según la guía fuente.\", IF(VLOOKUP(B22, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"Prolongada\", \"Supresión sistémica prolongada. Restringido si TFGe < 60 ml/min  de acuerdo con la guía fuente ).\", \"PRECAUCIÓN: Mecanismo biespecífico actualmente bajo investigación. Datos clínicos limitados a largo plazo en nefropatía.\"))",
+      "raw": null,
+      "value": "Supresión sistémica baja. ; perfil seguro y de elección en riesgo renal , según la guía fuente.",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E22",
+      "formula": "=VLOOKUP(B22, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F22",
+      "formula": "=(C22 * (E22/5))",
+      "raw": null,
+      "value": 2.8,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H22",
+      "formula": "=IF(COLUMNS($H22:H22)<=$E22, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "I22",
+      "formula": "=IF(COLUMNS($H22:I22)<=$E22, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "J22",
+      "formula": "=IF(COLUMNS($H22:J22)<=$E22, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "K22",
+      "formula": "=IF(COLUMNS($H22:K22)<=$E22, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "L22",
+      "formula": "=IF(COLUMNS($H22:L22)<=$E22, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "P22",
+      "formula": null,
+      "raw": "COSTO POR UNIDAD DE BENEFICIO NETO ",
+      "value": "COSTO POR UNIDAD DE BENEFICIO NETO ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "R22",
+      "formula": "=R20/E9",
+      "raw": null,
+      "value": 619111.2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 18.0,
+        "number_format": "_-[$$-240A]\\ * #,##0_-;\\-[$$-240A]\\ * #,##0_-;_-[$$-240A]\\ * \"-\"_-;_-@_-"
+      }
+    },
+    {
+      "ref": "B23",
+      "formula": null,
+      "raw": "Desenlaces reportados por pacientes (PROs)",
+      "value": "Desenlaces reportados por pacientes (PROs)",
+      "style": {
+        "fill": "FFE1EDFA",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B24",
+      "formula": null,
+      "raw": "Calidad de vida relacionada con la salud",
+      "value": "Calidad de vida relacionada con la salud",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C24",
+      "formula": null,
+      "raw": 6,
+      "value": 6,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D24",
+      "formula": "=IF(VLOOKUP(B24, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"Mejoría\", \"  La evidencia sugiere una mejora en la calidad de vida  global del paciente, tras el tratamiento con \" & $D$10 & \", según la literatura fuente del modelo.\", IF(VLOOKUP(B24, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"Empeoramiento\", \"Alerta: Restricción en la calidad de vida con \" & $D$10 & \". Evidencia reporta deterioro significativo en los ámbitos laboral, social o funcional.\", IF(VLOOKUP(B24, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"Sin efecto\", \"Estabilidad clínica: No se reportaron cambios significativos en la calidad de vida ni en el desempeño diario del paciente con \" & $D$10 & \".\", \"Información No Reportada (NR) sobre calidad de vida.\")))",
+      "raw": null,
+      "value": "  La evidencia sugiere una mejora en la calidad de vida  global del paciente, tras el tratamiento con Ranibizumab  0.5 mg  T&E, según la literatura fuente del modelo.",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E24",
+      "formula": "=VLOOKUP(B24, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F24",
+      "formula": "=(C24 * (E24/5))",
+      "raw": null,
+      "value": 6,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G24",
+      "formula": "=(F24+F25)/(C24+C25)*100",
+      "raw": null,
+      "value": 54.54545454545454,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "H24",
+      "formula": "=IF(COLUMNS($H24:H24)<=$E24, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "I24",
+      "formula": "=IF(COLUMNS($H24:I24)<=$E24, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "J24",
+      "formula": "=IF(COLUMNS($H24:J24)<=$E24, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "K24",
+      "formula": "=IF(COLUMNS($H24:K24)<=$E24, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "L24",
+      "formula": "=IF(COLUMNS($H24:L24)<=$E24, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "B25",
+      "formula": null,
+      "raw": "Discapacidad / capacidad funcional",
+      "value": "Discapacidad / capacidad funcional",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C25",
+      "formula": null,
+      "raw": 5,
+      "value": 5,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D25",
+      "formula": "=IF(VLOOKUP(B25, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"Mejoría\", \" La evidencia disponible muestra una mejora en los dominios relacionados con la capacidad funcional o  el desempeño de los pacientes en las actividades de la vida diaria tras el tratamiento con \" & $D$10 & \".\", IF(VLOOKUP(B25, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"Empeoramiento\", \"Alerta de deterioro funcional: Se evidencia un incremento en el grado de discapacidad o restricciones severas para realizar actividades de la vida diaria con \" & $D$10 & \".\", IF(VLOOKUP(B25, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"Sin efecto\", \"Estabilidad funcional: No se reportaron cambios significativos en el grado de discapacidad basal ni en el desempeño diario del paciente con \" & $D$10 & \".\", \"No se encontraron datos disponibles para dominios relacionados con la capacidad funcional del paciente y a su desempeño en las actividades de la vida diaria; para \" & $D$10 & \" solo se encuentran datos para la calidad de vida global.\")))",
+      "raw": null,
+      "value": "No se encontraron datos disponibles para dominios relacionados con la capacidad funcional del paciente y a su desempeño en las actividades de la vida diaria; para Ranibizumab  0.5 mg  T&E solo se encuentran datos para la calidad de vida global.",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E25",
+      "formula": "=VLOOKUP(B25, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F25",
+      "formula": "=(C25 * (E25/5))",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H25",
+      "formula": "=IF(COLUMNS($H25:H25)<=$E25, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "I25",
+      "formula": "=IF(COLUMNS($H25:I25)<=$E25, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "J25",
+      "formula": "=IF(COLUMNS($H25:J25)<=$E25, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "K25",
+      "formula": "=IF(COLUMNS($H25:K25)<=$E25, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "L25",
+      "formula": "=IF(COLUMNS($H25:L25)<=$E25, 1, \"\")",
+      "raw": null,
+      "value": null,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "B26",
+      "formula": null,
+      "raw": "Posicionamiento terapéutico",
+      "value": "Posicionamiento terapéutico",
+      "style": {
+        "fill": "FFE1EDFA",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B27",
+      "formula": null,
+      "raw": "Estado de aprobación regulatoria",
+      "value": "Estado de aprobación regulatoria",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C27",
+      "formula": null,
+      "raw": 4,
+      "value": 4,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D27",
+      "formula": "=IF(VLOOKUP(B27, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"On-Label\", \"Aprobación vigente: La tecnología \" & $D$10 & \" cuenta con una indicación formalmente aprobada por la agencia de salud para esta patología y dispone de registro sanitario activo en el país, respaldando su uso clínico .\", IF(VLOOKUP(B27, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"Off-label\", \"Uso fuera de indicación (Off-Label): La tecnología \" & $D$10 & \" no cuenta con un registro sanitario específico ni indicación autorizada por la agencia de salud para el manejo de esta enfermedad en el país.\", \"Estado regulatorio no reportado o en proceso de evaluación sanitaria para \" & $D$10 & \".\"))",
+      "raw": null,
+      "value": "Aprobación vigente: La tecnología Ranibizumab  0.5 mg  T&E cuenta con una indicación formalmente aprobada por la agencia de salud para esta patología y dispone de registro sanitario activo en el país, respaldando su uso clínico .",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E27",
+      "formula": "=VLOOKUP(B27, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F27",
+      "formula": "=(C27 * (E27/5))",
+      "raw": null,
+      "value": 4,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G27",
+      "formula": "=(F27+F28)/(C27+C28)*100",
+      "raw": null,
+      "value": 100,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "H27",
+      "formula": "=IF(COLUMNS($H27:H27)<=$E27, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "I27",
+      "formula": "=IF(COLUMNS($H27:I27)<=$E27, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "J27",
+      "formula": "=IF(COLUMNS($H27:J27)<=$E27, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "K27",
+      "formula": "=IF(COLUMNS($H27:K27)<=$E27, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "L27",
+      "formula": "=IF(COLUMNS($H27:L27)<=$E27, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "B28",
+      "formula": null,
+      "raw": "Inclusión en guías de práctica clínica",
+      "value": "Inclusión en guías de práctica clínica",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C28",
+      "formula": null,
+      "raw": 3,
+      "value": 3,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D28",
+      "formula": "=IF(VLOOKUP(B28, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"Incluido\", \"\" & $D$10 & \" está incluido como una opción de tratamiento en las guías de práctica clínica de referencia, teniendo un  posicionamiento actual en el  algoritmo terapéutico.\", IF(VLOOKUP(B28, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)=\"No incluido\", \"Sin recomendación formal: La tecnología \" & $D$10 & \" no está incluida en las guías de práctica clínica de referencia para esta enfermedad, lo que evidencia una falta de consenso o adopción en los esquemas de tratamiento estándar.\", \"Evidencia no disponible o pendiente de actualización sobre la inclusión de \" & $D$10 & \" en guías de práctica clínica.\"))",
+      "raw": null,
+      "value": "Ranibizumab  0.5 mg  T&E está incluido como una opción de tratamiento en las guías de práctica clínica de referencia, teniendo un  posicionamiento actual en el  algoritmo terapéutico.",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E28",
+      "formula": "=VLOOKUP(B28, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F28",
+      "formula": "=(C28 * (E28/5))",
+      "raw": null,
+      "value": 3,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H28",
+      "formula": "=IF(COLUMNS($H28:H28)<=$E28, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "I28",
+      "formula": "=IF(COLUMNS($H28:I28)<=$E28, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "J28",
+      "formula": "=IF(COLUMNS($H28:J28)<=$E28, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "K28",
+      "formula": "=IF(COLUMNS($H28:K28)<=$E28, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "L28",
+      "formula": "=IF(COLUMNS($H28:L28)<=$E28, 1, \"\")",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": ";;;"
+      }
+    },
+    {
+      "ref": "E30",
+      "formula": null,
+      "raw": "TOTAL GLOBAL",
+      "value": "TOTAL GLOBAL",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F30",
+      "formula": "=F16+F17+F19+F20+F21+F22+F24+F25+F27+F28",
+      "raw": null,
+      "value": 52.5,
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1001 @@
+====================================================================================================
+SHEET: "_Listas"  |  state=veryHidden  |  dims=A1:A8  |  rows=8  cols=1
+Merged ranges: 0
+====================================================================================================
+              A
+---------------
+R   1: Afliber…
+R   2: Ranibiz…
+R   3: Afliber…
+R   4: Afliber…
+R   5: Ranibiz…
+R   6: Afliber…
+R   7: Afliber…
+R   8: Faricim…
+
+====================================================================================================
+SHEET: "Modelo de valor"  |  state=visible  |  dims=N2:Q23  |  rows=23  cols=17
+Merged ranges: 1
+====================================================================================================
+              A |        B |        C |        D |        E |        F |        G |        H |        I |        J |        K |        L |        M |        N |        O |        P |        Q
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+R   1:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   2:          |          |          |          |          |          |          |          |          |          |          |          |          | Detalla… |          |          |         
+R   3:          |          |          |          |          |          |          |          |          |          |          |          |          | Compara… |          |          |         
+R   4:          |          |          |          |          |          |          |          |          |          |          |          |          | Referen… |          |          |         
+R   5:          |          |          |          |          |          |          |          |          |          |          |          |          | Inputs … |          |          |         
+R   6:          |          |          |          |          |          |          |          |          |          |          |          |          | Inputs … |          |          |         
+R   7:          |          |          |          |          |          |          |          |          |          |          |          |          | Definic… |          |          |         
+R   8:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   9:          |          |          |          |          |          |          |          |          |          |          |          |          | Molecula |          |  Columna |         
+R  10:          |          |          |          |          |          |          |          |          |          |          |          |          | Afliber… |          |      D-H |     True
+R  11:          |          |          |          |          |          |          |          |          |          |          |          |          | Ranibiz… |          |      K-O |     True
+R  12:          |          |          |          |          |          |          |          |          |          |          |          |          | Afliber… |          |      R-V |     True
+R  13:          |          |          |          |          |          |          |          |          |          |          |          |          | Afliber… |          |     Y-AC |     True
+R  14:          |          |          |          |          |          |          |          |          |          |          |          |          | Ranibiz… |          |    AF-AJ |     True
+R  15:          |          |          |          |          |          |          |          |          |          |          |          |          | Afliber… |          |    AM-AQ |     True
+R  16:          |          |          |          |          |          |          |          |          |          |          |          |          | Afliber… |          |    AT-AX |     True
+R  17:          |          |          |          |          |          |          |          |          |          |          |          |          | Faricim… |          |    BA-BE |     True
+R  18:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  19:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  20:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  21:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  22:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  23:          |          |          |          |          |          |          |          |          |          |          |          |          | Descuen… |        0 |          |         
+
+====================================================================================================
+SHEET: "Definiciones "  |  state=visible  |  dims=A4:D14  |  rows=14  cols=4
+Merged ranges: 0
+====================================================================================================
+              A |        B |        C |        D
+------------------------------------------------
+R   1:          |          |          |         
+R   2:          |          |          |         
+R   3:          |          |          |         
+R   4:  Dominio | Criterio | Definic… | Valores…
+R   5: Eficaci… | Cambio … | Magnitu… | 0–5 let…
+R   6: Eficaci… | Pacient… | Proporc… | 0–15% =…
+R   7: Segurid… | Despren… | Presenc… | Ocurren…
+R   8: Segurid… | Infarto… | Presenc… | Ocurren…
+R   9: Segurid… | Endofta… | Presenc… | Ocurren…
+R  10: Segurid… | Supresi… | Duració… | Prolong…
+R  11:     PROs | Calidad… | Cambio … | Empeora…
+R  12:     PROs | Discapa… | Cambio … | Empeora…
+R  13: Posicio… | Estado … | Condici… | Off-lab…
+R  14: Posicio… | Inclusi… | Presenc… | No incl…
+
+====================================================================================================
+SHEET: "Parametros"  |  state=hidden  |  dims=A5:D31  |  rows=31  cols=4
+Merged ranges: 0
+====================================================================================================
+              A |        B |        C |        D
+------------------------------------------------
+R   1:          |          |          |         
+R   2:          |          |          |         
+R   3:          |          |          |         
+R   4:          |          |          |         
+R   5:  Dominio | Criterio |    Nivel |    Valor
+R   6: Eficaci… | Cambio … | 0–5 let… |        1
+R   7: Eficaci… | Cambio … | 6–10 le… |        2
+R   8: Eficaci… | Cambio … | 11–15 l… |        4
+R   9: Eficaci… | Cambio … | >15 let… |        5
+R  10: Eficaci… | Pacient… | 0–15% p… |        1
+R  11: Eficaci… | Pacient… | 16–30% … |        3
+R  12: Eficaci… | Pacient… | >30% pa… |        5
+R  13: Segurid… | Despren… | Ocurren… |        1
+R  14: Segurid… | Despren… | No ocur… |        5
+R  15: Segurid… | Infarto… | Ocurren… |        1
+R  16: Segurid… | Infarto… | No ocur… |        5
+R  17: Segurid… | Endofta… | Ocurren… |        1
+R  18: Segurid… | Endofta… | No ocur… |        5
+R  19: Farmaco… | Supresi… | Prolong… |        1
+R  20: Farmaco… | Supresi… | No prol… |        5
+R  21:     PROs | Calidad… | Empeora… |        1
+R  22:     PROs | Calidad… | Sin efe… |        3
+R  23:     PROs | Calidad… |  Mejoría |        5
+R  24:     PROs | Discapa… | Empeora… |        1
+R  25:     PROs | Discapa… | Sin efe… |        3
+R  26:     PROs | Discapa… |  Mejoría |        5
+R  27: Organiz… | Estado … | Off-lab… |        1
+R  28: Organiz… | Estado … | On-label |        5
+R  29: Organiz… | Inclusi… | No incl… |        1
+R  30: Organiz… | Inclusi… | Incluido |        5
+R  31:          |          |          |         
+
+--- Data validations: 1 ---
+  cells=C21 type=list formula1="Emperoamiento, Sin efecto, Mejoría, NR"
+
+====================================================================================================
+SHEET: "MCDA Advanced Dashboard"  |  state=visible  |  dims=B9:R30  |  rows=30  cols=18
+Merged ranges: 11
+====================================================================================================
+              A |        B |        C |        D |        E |        F |        G |        H |        I |        J |        K |        L |        M |        N |        O |        P |        Q |        R
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+R   1:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   2:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   3:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   4:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   5:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   6:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   7:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   8:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   9:          | Modelo … |          | MEDICAM… |     =F30 |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  10:          |          |          | Ranibiz… |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  11:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  12:          |          |          |          | PUNTAJE… |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  13:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  14:          | Dominio… | Peso (%) | Resulta… |   Valor  | Puntaje… |        % |        1 |        2 |        3 |        4 |        5 |          |          |          | INFORMA… |          |    VALOR
+R  15:          | Eficaci… |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  16:          | Cambio … |     20.5 | ="La gan | =VLOOKUP | =(C16 *  | =(F16+F1 | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          | COSTO A… |          | =IFERROR
+R  17:          | Pacient… |     14.5 | ="La pro | =VLOOKUP | =(C17 *  |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |         
+R  18:          | Segurid… |          |          |          |          |          |          |          |          |          |          |          |          |          | COSTO A… |          | =IFERROR
+R  19:          | Despren… |     16.8 | =IF(VLOO | =VLOOKUP | =(C19 *  | =(F19+F2 | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |         
+R  20:          | Infarto… |     13.7 | =IF(VLOO | =VLOOKUP | =(C20 *  |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          | COSTO T… |          | =IFERROR
+R  21:          | Endofta… |     13.7 | =IF(VLOO | =VLOOKUP | =(C21 *  |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |         
+R  22:          | Supresi… |      2.8 | =IF(VLOO | =VLOOKUP | =(C22 *  |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          | COSTO P… |          |  =R20/E9
+R  23:          | Desenla… |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  24:          | Calidad… |        6 | =IF(VLOO | =VLOOKUP | =(C24 *  | =(F24+F2 | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |         
+R  25:          | Discapa… |        5 | =IF(VLOO | =VLOOKUP | =(C25 *  |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |         
+R  26:          | Posicio… |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  27:          | Estado … |        4 | =IF(VLOO | =VLOOKUP | =(C27 *  | =(F27+F2 | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |         
+R  28:          | Inclusi… |        3 | =IF(VLOO | =VLOOKUP | =(C28 *  |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |         
+R  29:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  30:          |          |          |          | TOTAL G… | =F16+F17 |          |          |          |          |          |          |          |          |          |          |          |         
+
+--- Formulas (90 total) ---
+  E9: =F30
+  D16: ="La ganancia media de BCVA con " & $D$10 & " fue de " & VLOOKUP(B16, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, 
+  E16: =VLOOKUP(B16, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)
+  F16: =(C16 * (E16/5))
+  G16: =(F16+F17)/(C16+C17)*100
+  H16: =IF(COLUMNS($H16:H16)<=$E16, 1, "")
+  I16: =IF(COLUMNS($H16:I16)<=$E16, 1, "")
+  J16: =IF(COLUMNS($H16:J16)<=$E16, 1, "")
+  K16: =IF(COLUMNS($H16:K16)<=$E16, 1, "")
+  L16: =IF(COLUMNS($H16:L16)<=$E16, 1, "")
+  R16: =IFERROR(_xlfn.XLOOKUP($D$10,Input_costo2!$C:$C,Input_costo2!$I:$I,"",0),"")
+  D17: ="La proporción de pacientes con ganancia ≥15 letras en BCVA fue de " & VLOOKUP(B17, Matriz_Resultados_Crudos!$A$1:$I$11
+  E17: =VLOOKUP(B17, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)
+  F17: =(C17 * (E17/5))
+  H17: =IF(COLUMNS($H17:H17)<=$E17, 1, "")
+  I17: =IF(COLUMNS($H17:I17)<=$E17, 1, "")
+  J17: =IF(COLUMNS($H17:J17)<=$E17, 1, "")
+  K17: =IF(COLUMNS($H17:K17)<=$E17, 1, "")
+  L17: =IF(COLUMNS($H17:L17)<=$E17, 1, "")
+  R18: =IFERROR(_xlfn.XLOOKUP($D$10,Input_costo2!$C:$C,Input_costo2!$M:$M,"",0),"")
+  D19: =IF(VLOOKUP(B19, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)="No oc
+  E19: =VLOOKUP(B19, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)
+  F19: =(C19 * (E19/5))
+  G19: =(F19+F20+F21+F22)/(C19+C20+C21+C22)*100
+  H19: =IF(COLUMNS($H19:H19)<=$E19, 1, "")
+  I19: =IF(COLUMNS($H19:I19)<=$E19, 1, "")
+  J19: =IF(COLUMNS($H19:J19)<=$E19, 1, "")
+  K19: =IF(COLUMNS($H19:K19)<=$E19, 1, "")
+  L19: =IF(COLUMNS($H19:L19)<=$E19, 1, "")
+  D20: =IF(VLOOKUP(B20, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)="No oc
+  E20: =VLOOKUP(B20, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)
+  F20: =(C20 * (E20/5))
+  H20: =IF(COLUMNS($H20:H20)<=$E20, 1, "")
+  I20: =IF(COLUMNS($H20:I20)<=$E20, 1, "")
+  J20: =IF(COLUMNS($H20:J20)<=$E20, 1, "")
+  K20: =IF(COLUMNS($H20:K20)<=$E20, 1, "")
+  L20: =IF(COLUMNS($H20:L20)<=$E20, 1, "")
+  R20: =IFERROR(_xlfn.XLOOKUP($D$10,Input_costo2!$C:$C,Input_costo2!$Q:$Q,"",0),"")
+  D21: =IF(VLOOKUP(B21, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)="No oc
+  E21: =VLOOKUP(B21, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)
+  F21: =(C21 * (E21/5))
+  H21: =IF(COLUMNS($H21:H21)<=$E21, 1, "")
+  I21: =IF(COLUMNS($H21:I21)<=$E21, 1, "")
+  J21: =IF(COLUMNS($H21:J21)<=$E21, 1, "")
+  K21: =IF(COLUMNS($H21:K21)<=$E21, 1, "")
+  L21: =IF(COLUMNS($H21:L21)<=$E21, 1, "")
+  D22: =IF(VLOOKUP(B22, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)="No pr
+  E22: =VLOOKUP(B22, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)
+  F22: =(C22 * (E22/5))
+  H22: =IF(COLUMNS($H22:H22)<=$E22, 1, "")
+  I22: =IF(COLUMNS($H22:I22)<=$E22, 1, "")
+  J22: =IF(COLUMNS($H22:J22)<=$E22, 1, "")
+  K22: =IF(COLUMNS($H22:K22)<=$E22, 1, "")
+  L22: =IF(COLUMNS($H22:L22)<=$E22, 1, "")
+  R22: =R20/E9
+  D24: =IF(VLOOKUP(B24, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)="Mejor
+  E24: =VLOOKUP(B24, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)
+  F24: =(C24 * (E24/5))
+  G24: =(F24+F25)/(C24+C25)*100
+  H24: =IF(COLUMNS($H24:H24)<=$E24, 1, "")
+  I24: =IF(COLUMNS($H24:I24)<=$E24, 1, "")
+  J24: =IF(COLUMNS($H24:J24)<=$E24, 1, "")
+  K24: =IF(COLUMNS($H24:K24)<=$E24, 1, "")
+  L24: =IF(COLUMNS($H24:L24)<=$E24, 1, "")
+  D25: =IF(VLOOKUP(B25, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)="Mejor
+  E25: =VLOOKUP(B25, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)
+  F25: =(C25 * (E25/5))
+  H25: =IF(COLUMNS($H25:H25)<=$E25, 1, "")
+  I25: =IF(COLUMNS($H25:I25)<=$E25, 1, "")
+  J25: =IF(COLUMNS($H25:J25)<=$E25, 1, "")
+  K25: =IF(COLUMNS($H25:K25)<=$E25, 1, "")
+  L25: =IF(COLUMNS($H25:L25)<=$E25, 1, "")
+  D27: =IF(VLOOKUP(B27, Matriz_Resultados_Crudos!$A$1:$I$11, MATCH($D$10, Matriz_Resultados_Crudos!$A$1:$I$1, 0), FALSE)="On-La
+  E27: =VLOOKUP(B27, Matriz_Medicamentos!$A$2:$I$11, MATCH($D$10, Matriz_Medicamentos!$A$1:$I$1, 0), FALSE)
+  F27: =(C27 * (E27/5))
+  G27: =(F27+F28)/(C27+C28)*100
+  H27: =IF(COLUMNS($H27:H27)<=$E27, 1, "")
+  I27: =IF(COLUMNS($H27:I27)<=$E27, 1, "")
+  J27: =IF(COLUMNS($H27:J27)<=$E27, 1, "")
+  K27: =IF(COLUMNS($H27:K27)<=$E27, 1, "")
+  ... and 10 more
+
+--- Charts: 1 ---
+  Chart type: DoughnutChart, title: None
+
+--- Conditional formatting: 5 ranges ---
+
+--- Data validations: 1 ---
+  cells=D10 type=list formula1=Lista_Moleculas_Seleccionadas
+
+====================================================================================================
+SHEET: "Resumen"  |  state=visible  |  dims=A1:BO37  |  rows=37  cols=67
+Merged ranges: 63
+====================================================================================================
+              A |        B |        C |        D |        E |        F |        G |        H |        I |        J |        K |        L |        M |        N |        O |        P |        Q |        R |        S |        T |        U |        V |        W |        X |        Y |        Z |       AA |       AB |       AC |       AD |       AE |       AF |       AG |       AH |       AI |       AJ |       AK |       AL |       AM |       AN |       AO |       AP |       AQ |       AR |       AS |       AT |       AU |       AV |       AW |       AX |       AY |       AZ |       BA |       BB |       BC |       BD |       BE |       BF |       BG |       BH |       BI |       BJ |       BK |       BL |       BM |       BN |       BO
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+R   1:          |          |          |          |        1 |          |          |          |          |          |          |          |          |        2 |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |        4 |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |        7 |          |          |          |          |          |          |          |          |          |        8
+R   2:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   3:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   4:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   5:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   6:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   7:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   8:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   9: DOMINIOS |          |          | Afliber… |          |          |          |          |          |          |          | Ranibiz… |          |          |          |          |          |          | Afliber… |          |          |          |          |          |          | Afliber… |          |          |          |          |          |          | Ranibiz… |          |          |          |          |          |          | Afliber… |          |          |          |          |          | Afliber… | Afliber… |          |          |          |          |          | Faricim… | Faricim… |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  10:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  11: Eficacia |          |          | =T_resul |          |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  12:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  13: Segurid… |          |          | =T_resul |          |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  14:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  15:     PROs |          |          | =T_resul |          |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  16:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  17: Posicio… |          |          | =T_resul |          |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  18:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  19: Total g… |          |          | =T_resul |          |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          | =T_resul |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  20:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  21: Costo a… |          |          | =Input_c |          |          |          |          |          |          |          | =Input_c |          |          |          |          |          |          | =Input_c |          |          |          |          |          |          | =Input_c |          |          |          |          |          |          | =Input_c |          |          |          |          |          |          | =Input_c |          |          |          |          |          |          | =Input_c |          |          |          |          |          |          | =Input_c |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  22:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  23: Costo p… |          |          |          | =D21/D19 |          |          |          |          |          |          | =L21/L19 |          |          |          |          |          |          | =S21/S19 |          |          |          |          |          |          | =Z21/Z19 |          |          |          |          |          |          | =AG21/AG |          |          |          |          |          |          | =AN21/AN |          |          |          |          |          |          | =AU21/AU |          |          |          |          |          |          | =BB21/BB |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  24:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  25:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  26:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  27: Criteri… |          |          |        1 |        2 |        3 |        4 |        5 |          |          |        1 |        2 |        3 |        4 |        5 |          |          |        1 |        2 |        3 |        4 |        5 |          |          |        1 |        2 |        3 |        4 |        5 |          |          |        1 |        2 |        3 |        4 |        5 |          |          |        1 |        2 |        3 |        4 |        5 |          |          |        1 |        2 |        3 |        4 |        5 |          |          |        1 |        2 |        3 |        4 |        5 |          |          |          |          |          |          |          |          |          |         
+R  28: Cambio … |        2 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        2 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        2 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        2 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        4 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        2 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        2 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |          |          |          |          |         
+R  29: Pacient… |        3 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        3 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        3 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        3 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        3 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |          |          |          |          |         
+R  30: Despren… |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |          |          |          |          |         
+R  31: Infarto… |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |          |          |          |          |         
+R  32: Endofta… |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |          |          |          |          |         
+R  33: Supresi… |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        1 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        0 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |          |          |          |          |         
+R  34: Calidad… |        0 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |          |          |          |          |         
+R  35: Discapa… |        0 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        0 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        0 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        0 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        0 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |          |          |          |          |         
+R  36: Estado … |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |          |          |          |          |         
+R  37: Inclusi… |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |        5 |          | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU | =IF(COLU |          |          |          |          |          |          |          |          |          |         
+
+--- Formulas (456 total) ---
+  D11: =T_results!E6
+  L11: =T_results!E7
+  S11: =T_results!E8
+  Z11: =T_results!E9
+  AG11: =T_results!E10
+  AN11: =T_results!E11
+  AU11: =T_results!E12
+  BB11: =T_results!E13
+  D13: =T_results!F6
+  L13: =T_results!F7
+  S13: =T_results!F8
+  Z13: =T_results!F9
+  AG13: =T_results!F10
+  AN13: =T_results!F11
+  AU13: =T_results!F12
+  BB13: =T_results!F13
+  D15: =T_results!G6
+  L15: =T_results!G7
+  S15: =T_results!G8
+  Z15: =T_results!G8
+  AG15: =T_results!G10
+  AN15: =T_results!G11
+  AU15: =T_results!G12
+  BB15: =T_results!G13
+  D17: =T_results!H6
+  L17: =T_results!H7
+  S17: =T_results!H8
+  Z17: =T_results!H9
+  AG17: =T_results!H10
+  AN17: =T_results!H11
+  AU17: =T_results!H12
+  BB17: =T_results!H13
+  D19: =T_results!I6
+  L19: =T_results!I7
+  S19: =T_results!I8
+  Z19: =T_results!I9
+  AG19: =T_results!I10
+  AN19: =T_results!I11
+  AU19: =T_results!I12
+  BB19: =T_results!I13
+  D21: =Input_costo2!Q23
+  L21: =Input_costo2!Q21
+  S21: =Input_costo2!Q19
+  Z21: =Input_costo2!Q11
+  AG21: =Input_costo2!Q13
+  AN21: =Input_costo2!Q15
+  AU21: =Input_costo2!Q17
+  BB21: =Input_costo2!Q9
+  E23: =D21/D19
+  L23: =L21/L19
+  S23: =S21/S19
+  Z23: =Z21/Z19
+  AG23: =AG21/AG19
+  AN23: =AN21/AN19
+  AU23: =AU21/AU19
+  BB23: =BB21/BB19
+  D28: =IF(COLUMNS(D28:$D28)<=$B28, 1, "")
+  E28: =IF(COLUMNS($D28:E28)<=$B28, 1, "")
+  F28: =IF(COLUMNS($D28:F28)<=$B28, 1, "")
+  G28: =IF(COLUMNS($D28:G28)<=$B28, 1, "")
+  H28: =IF(COLUMNS($D28:H28)<=$B28, 1, "")
+  K28: =IF(COLUMNS($K28:K28)<=$I28, 1, "")
+  L28: =IF(COLUMNS($K28:L28)<=$I28, 1, "")
+  M28: =IF(COLUMNS($K28:M28)<=$I28, 1, "")
+  N28: =IF(COLUMNS($K28:N28)<=$I28, 1, "")
+  O28: =IF(COLUMNS($K28:O28)<=$I28, 1, "")
+  R28: =IF(COLUMNS($R28:R28)<=$P28, 1, "")
+  S28: =IF(COLUMNS($R28:S28)<=$P28, 1, "")
+  T28: =IF(COLUMNS($R28:T28)<=$P28, 1, "")
+  U28: =IF(COLUMNS($R28:U28)<=$P28, 1, "")
+  V28: =IF(COLUMNS($R28:V28)<=$P28, 1, "")
+  Y28: =IF(COLUMNS($Y28:Y28)<=$W28, 1, "")
+  Z28: =IF(COLUMNS($Y28:Z28)<=$W28, 1, "")
+  AA28: =IF(COLUMNS($Y28:AA28)<=$W28, 1, "")
+  AB28: =IF(COLUMNS($Y28:AB28)<=$W28, 1, "")
+  AC28: =IF(COLUMNS($Y28:AC28)<=$W28, 1, "")
+  AF28: =IF(COLUMNS($AF28:AF28)<=$AD28, 1, "")
+  AG28: =IF(COLUMNS($AF28:AG28)<=$AD28, 1, "")
+  AH28: =IF(COLUMNS($AF28:AH28)<=$AD28, 1, "")
+  AI28: =IF(COLUMNS($AF28:AI28)<=$AD28, 1, "")
+  ... and 376 more
+
+--- Conditional formatting: 87 ranges ---
+
+====================================================================================================
+SHEET: "Input_costo2"  |  state=visible  |  dims=C7:Q29  |  rows=29  cols=17
+Merged ranges: 0
+====================================================================================================
+              A |        B |        C |        D |        E |        F |        G |        H |        I |        J |        K |        L |        M |        N |        O |        P |        Q
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+R   1:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   2:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   3:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   4:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   5:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   6:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   7:          |          | Tecnolo… |          | N° inye… |          |  Precio  |          | Costo x… |          | Costo a… |          | Costo a… |          | Costo a… |          | Costo a…
+R   8:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R   9:          |          | Faricim… |          |        6 |          |  2402568 |          |   =E9*G9 |          |  1957979 |          |   =E9*K9 |          |   =I9+M9 |          |      =O9
+R  10:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  11:          |          | Afliber… |          |        8 |          |  1926878 |          | =E11*G11 |          |  1957979 |          | =E11*K11 |          | =I11+M11 |          |     =O11
+R  12:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  13:          |          | Ranibiz… |          |       12 |          |  1653503 |          | =E13*G13 |          |  1957979 |          | =E13*K13 |          | =I13+M13 |          |     =O13
+R  14:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  15:          |          | Afliber… |          |        5 |          |  1926878 |          | =E15*G15 |          |  1957979 |          | =E15*K15 |          | =I15+M15 |          |     =O15
+R  16:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  17:          |          | Afliber… |          |        6 |          |  1926878 |          | =E17*G17 |          |  1957979 |          | =E17*K17 |          | =I17+M17 |          |     =O17
+R  18:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  19:          |          | Afliber… |          |       12 |          |  1926878 |          | =E19*G19 |          |  1957979 |          | =E19*K19 |          | =I19+M19 |          |     =O19
+R  20:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  21:          |          | Ranibiz… |          |        9 |          |  1653503 |          | =E21*G21 |          |  1957979 |          | =E21*K21 |          | =I21+M21 |          |     =O21
+R  22:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  23:          |          | Afliber… |          |        7 |          |  1926878 |          | =E23*G23 |          |  1957979 |          | =E23*K23 |          | =I23+M23 |          |     =O23
+R  24:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  25:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  26:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  27:          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  28:          |          | *El cos… |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+R  29:          |          | Celdas … |          |          |          |          |          |          |          |          |          |          |          |          |          |         
+
+--- Formulas (32 total) ---
+  I9: =E9*G9
+  M9: =E9*K9
+  O9: =I9+M9
+  Q9: =O9
+  I11: =E11*G11
+  M11: =E11*K11
+  O11: =I11+M11
+  Q11: =O11
+  I13: =E13*G13*(1-'Modelo de valor'!O23)
+  M13: =E13*K13
+  O13: =I13+M13
+  Q13: =O13
+  I15: =E15*G15
+  M15: =E15*K15
+  O15: =I15+M15
+  Q15: =O15
+  I17: =E17*G17
+  M17: =E17*K17
+  O17: =I17+M17
+  Q17: =O17
+  I19: =E19*G19
+  M19: =E19*K19
+  O19: =I19+M19
+  Q19: =O19
+  I21: =E21*G21*(1-'Modelo de valor'!O23)
+  M21: =E21*K21
+  O21: =I21+M21
+  Q21: =O21
+  I23: =E23*G23
+  M23: =E23*K23
+  O23: =I23+M23
+  Q23: =O23
+
+====================================================================================================
+SHEET: "Inputs_nAMD "  |  state=visible  |  dims=C7:H138  |  rows=138  cols=8
+Merged ranges: 0
+====================================================================================================
+              A |        B |        C |        D |        E |        F |        G |        H
+--------------------------------------------------------------------------------------------
+R   1:          |          |          |          |          |          |          |         
+R   2:          |          |          |          |          |          |          |         
+R   3:          |          |          |          |          |          |          |         
+R   4:          |          |          |          |          |          |          |         
+R   5:          |          |          |          |          |          |          |         
+R   6:          |          |          |          |          |          |          |         
+R   7:          |          |          |          |          |          |          |         
+R   8:          |          | Afliber… |          |          |          |          |         
+R   9:          |          |          |          |          |          |          |         
+R  10:          |          |          |          |          |          |          |         
+R  11:          |          |          |          |          |          |          |         
+R  12:          |          | Desenla… | Resulta… |   Valor  | Tiempo … | Referen… | Comenta…
+R  13:          |          | Cambio … |      5.6 | =IF(D13= | 96 sema… | Korobel… |         
+R  14:          |          | Pacient… |     21.7 | =IF(D14= | 96 sema… | Clinica… |         
+R  15:          |          | Despren… | Ocurren… | =IF(D15= | 96 sema… | Clinica… | Evento …
+R  16:          |          | Infarto… | No ocur… | =IF(D16= | 96 sema… | Clinica… |         
+R  17:          |          | Endofta… | No ocur… | =IF(D17= | 96 sema… | Clinica… |         
+R  18:          |          | Supresi… | Prolong… | =IF(D18= |          | * Venka… |         
+R  19:          |          | Calidad… |  Mejoría | =IF(D19= | 48 sema… | Clinica… | NEI VFQ…
+R  20:          |          | Discapa… |       NR | =IF(D20= |          |          |         
+R  21:          |          | Estado … | On-Label | =IF(D21= |          | INVIMA … |         
+R  22:          |          | Inclusi… | Incluido | =IF(D22= |          | *Vemula… |         
+R  23:          |          |          |          |          |          |          |         
+R  24:          |          |          |          |          |          |          |         
+R  25:          |          | Afliber… |          |          |          |          |         
+R  26:          |          |          |          |          |          |          |         
+R  27:          |          |          |          |          |          |          |         
+R  28:          |          | Desenla… | Resulta… |   Valor  | Tiempo … | Referen… | Comenta…
+R  29:          |          | Cambio … |      5.9 | =IF(D29= | 96 sema… | Korobel… |         
+R  30:          |          | Pacient… |     20.7 | =IF(D30= | 48 sema… | Clinica… |         
+R  31:          |          | Despren… | Ocurren… | =IF(D31= | 96 sema… | Clinica… | Evento …
+R  32:          |          | Infarto… | Ocurren… | =IF(D32= | 96 sema… | Clinica… | Evento …
+R  33:          |          | Endofta… | No ocur… | =IF(D33= | 96 sema… | Clinica… |         
+R  34:          |          | Supresi… | Prolong… | =IF(D34= |          | * Venka… |         
+R  35:          |          | Calidad… |  Mejoría | =IF(D35= | 48 sema… | Clinica… | NEI VFQ…
+R  36:          |          | Discapa… |       NR | =IF(D36= |          |          |         
+R  37:          |          | Estado … | On-Label | =IF(D37= |          | INVIMA … | Aprobac…
+R  38:          |          | Inclusi… | Incluido | =IF(D38= |          | *Vemula… |         
+R  39:          |          |          |          |          |          |          |         
+R  40:          |          |          |          |          |          |          |         
+R  41:          |          |          |          |          |          |          |         
+R  42:          |          |          |          |          |          |          |         
+R  43:          |          |          |          |          |          |          |         
+R  44:          |          | Faricim… |          |          |          |          |         
+R  45:          |          |          |          |          |          |          |         
+R  46:          |          |          |          |          |          |          |         
+R  47:          |          | Desenla… | Resulta… |   Valor  | Tiempo … | Referen… | Comenta…
+R  48:          |          | Cambio … |        5 | =IF(D48= | 112 sem… | Clinica… |         
+R  49:          |          | Pacient… |     22.4 | =IF(D49= | 112 sem… | Clinica… |         
+R  50:          |          | Despren… | No ocur… | =IF(D50= | 112 sem… | Clinica… | Evento …
+R  51:          |          | Infarto… | Ocurren… | =IF(D51= | 112 sem… | Clinica… |         
+R  52:          |          | Endofta… | Ocurren… | =IF(D52= | 112 sem… | Clinica… | Evento …
+R  53:          |          | Supresi… |       NR | =IF(D53= |          |          |         
+R  54:          |          | Calidad… |  Mejoría | =IF(D54= | 48 sema… | CADTH R… |         
+R  55:          |          | Discapa… |       NR | =IF(D55= |          |          |         
+R  56:          |          | Estado … | On-Label | =IF(D56= |          | INVIMA … |         
+R  57:          |          | Inclusi… | Incluido | =IF(D57= |          | *Vemula… |         
+R  58:          |          |          |          |          |          |          |         
+R  59:          |          |          |          |          |          |          |         
+R  60:          |          | Ranibiz… |          |          |          |          |         
+R  61:          |          |          |          |          |          |          |         
+R  62:          |          |          |          |          |          |          |         
+R  63:          |          | Desenla… | Resulta… |   Valor  | Tiempo … | Referen… | Comenta…
+R  64:          |          | Cambio … |     10.7 | =IF(D64= |   2 AÑOS | Brown, … |         
+R  65:          |          | Pacient… |       41 | =IF(D65= |   2 AÑOS | Brown, … |         
+R  66:          |          | Despren… | No ocur… | =IF(D66= |   2 AÑOS | Brown, … |         
+R  67:          |          | Infarto… | Ocurren… | =IF(D67= |   2 AÑOS | Brown, … | No se e…
+R  68:          |          | Endofta… | Ocurren… | =IF(D68= |   2 AÑOS | Brown, … | Evento …
+R  69:          |          | Supresi… | No prol… | =IF(D69= |          | * Venka… |         
+R  70:          |          | Calidad… |  Mejoría | =IF(D70= | 12 mese… | Bressle… |         
+R  71:          |          | Discapa… |  Mejoría | =IF(D71= | 12 mese… | Bressle… |         
+R  72:          |          | Estado … | On-Label | =IF(D72= |          | INVIMA … |         
+R  73:          |          | Inclusi… | Incluido | =IF(D73= |          | *Vemula… |         
+R  74:          |          |          |          |          |          |          |         
+R  75:          |          |          |          |          |          |          |         
+R  76:          |          |          |          |          |          |          |         
+R  77:          |          | Afliber… |          |          |          |          |         
+R  78:          |          |          |          |          |          |          |         
+R  79:          |          | Desenla… | Resulta… |   Valor  | Tiempo … | Referen… | Comenta…
+R  80:          |          | Cambio … |      7.6 | =IF(D80= | 96 sema… | Schmidt… |         
+R  81:          |          | Pacient… |     31.2 | =IF(D81= | 96 sema… | Schmidt… |         
+R  82:          |          | Despren… | Ocurren… | =IF(D82= | 96 sema… | Schmidt… | Evento …
+R  83:          |          | Infarto… | Ocurren… | =IF(D83= |      NR  | Clinica… | Evento …
+R  84:          |          | Endofta… | Ocurren… | =IF(D84= | 96 sema… | Schmidt… | Evento …
+R  85:          |          | Supresi… | Prolong… | =IF(D85= |          | * Venka… |         
+R  86:          |          | Calidad… |  Mejoría | =IF(D86= | 52 sema… | Clinica… |         
+R  87:          |          | Discapa… |  Mejoría | =IF(D87= | 52 sema… | Clinica… |         
+R  88:          |          | Estado … | On-Label | =IF(D88= |          | INVIMA … |         
+R  89:          |          | Inclusi… | Incluido | =IF(D89= |          | *Vemula… |         
+R  90:          |          |          |          |          |          |          |         
+R  91:          |          |          |          |          |          |          |         
+R  92:          |          | Afliber… |          |          |          |          |         
+R  93:          |          |          |          |          |          |          |         
+R  94:          |          | Desenla… | Resulta… |   Valor  | Tiempo … | Referen… | Comenta…
+R  95:          |          | Cambio … |      7.6 | =IF(D95= | 96 sema… | Schmidt… |         
+R  96:          |          | Pacient… |     33.4 | =IF(D96= | 96 sema… | Schmidt… |         
+R  97:          |          | Despren… | No ocur… | =IF(D97= | 96 sema… | Schmidt… |         
+R  98:          |          | Infarto… | Ocurren… | =IF(D98= |      NR  | Schmidt… | Evento …
+R  99:          |          | Endofta… | No ocur… | =IF(D99= | 96 sema… | Schmidt… |         
+R 100:          |          | Supresi… | Prolong… | =IF(D100 |          | * Venka… |         
+R 101:          |          | Calidad… |  Mejoría | =IF(D101 | 52 sema… | Clinica… |         
+R 102:          |          | Discapa… |  Mejoría | =IF(D102 | 52 sema… | Clinica… |         
+R 103:          |          | Estado … | On-Label | =IF(D103 |          | INVIMA … |         
+R 104:          |          | Inclusi… | Incluido | =IF(D104 |          | *Vemula… |         
+R 105:          |          |          |          |          |          |          |         
+R 106:          |          |          |          |          |          |          |         
+R 107:          |          |          |          |          |          |          |         
+R 108:          |          |          |          |          |          |          |         
+R 109:          |          | Ranibiz… |          |          |          |          |         
+R 110:          |          |          |          |          |          |          |         
+R 111:          |          |          |          |          |          |          |         
+R 112:          |          | Desenla… | Resulta… |   Valor  | Tiempo … | Referen… | Comenta…
+R 113:          |          | Cambio … |      6.6 | =IF(D113 | 12 meses | Clinica… |         
+R 114:          |          | Pacient… |       23 | =IF(D114 | 12 meses | Clinica… |         
+R 115:          |          | Despren… | Ocurren… | =IF(D115 | 12 meses | Clinica… | Evento …
+R 116:          |          | Infarto… | Ocurren… | =IF(D116 | 12 meses | Clinica… | Evento …
+R 117:          |          | Endofta… | No ocur… | =IF(D117 | 12 meses | Clinica… |         
+R 118:          |          | Supresi… | No prol… | =IF(D118 |          | * Venka… |         
+R 119:          |          | Calidad… |  Mejoría | =IF(D119 | 12 meses | Clinica… |         
+R 120:          |          | Discapa… |       NR | =IF(D120 | 12 meses | Clinica… |         
+R 121:          |          | Estado … | On-Label | =IF(D121 |          | INVIMA … |         
+R 122:          |          | Inclusi… | Incluido | =IF(D122 |          | *Vemula… |         
+R 123:          |          |          |          |          |          |          |         
+R 124:          |          |          |          |          |          |          |         
+R 125:          |          | Afliber… |          |          |          |          |         
+R 126:          |          |          |          |          |          |          |         
+R 127:          |          |          |          |          |          |          |         
+R 128:          |          | Desenla… | Resulta… |   Valor  | Tiempo … | Referen… | Comenta…
+R 129:          |          | Cambio … |      7.8 | =IF(D129 | 52 sema… | Silva, … |         
+R 130:          |          | Pacient… |       19 | =IF(D130 | 52 sema… | Silva, … |         
+R 131:          |          | Despren… | Ocurren… | =IF(D131 | 104 sem… | Clinica… |         
+R 132:          |          | Infarto… | No ocur… | =IF(D132 | 104 sem… | Clinica… |         
+R 133:          |          | Endofta… | No ocur… | =IF(D133 | 104 sem… | Clinica… |         
+R 134:          |          | Supresi… | Prolong… | =IF(D134 |          | * Venka… |         
+R 135:          |          | Calidad… |       NR | =IF(D135 |          |          |         
+R 136:          |          | Discapa… |       NR | =IF(D136 |          |          |         
+R 137:          |          | Estado … | On-Label | =IF(D137 |          | INVIMA … |         
+R 138:          |          | Inclusi… | Incluido | =IF(D138 |          | *Vemula… |         
+
+--- Formulas (80 total) ---
+  E13: =IF(D13="",0,IF(D13<=5,1,IF(D13<=10,2,IF(D13<=15,4,5))))
+  E14: =IF(D14="",0,IF(D14<=15,1,IF(D14<=30,3,5)))
+  E15: =IF(D15="Ocurrencia",1,IF(D15="No ocurrencia",5,""))
+  E16: =IF(D16="Ocurrencia",1,IF(D16="No ocurrencia",5,""))
+  E17: =IF(D17="Ocurrencia",1,IF(D17="No ocurrencia",5,""))
+  E18: =IF(D18="Prolongada",1,IF(D18="No prolongada",5,IF(D18="NR",0,"")))
+  E19: =IF(D19="Empeoramiento",1,IF(D19="Sin efecto",3,IF(D19="Mejoría",5,IF(D19="NR",0,""))))
+  E20: =IF(D20="Empeoramiento",1,IF(D20="Sin efecto",3,IF(D20="Mejoría",5,IF(D20="NR",0,""))))
+  E21: =IF(D21="Off-label",1,IF(D21="On-label",5,""))
+  E22: =IF(D22="No incluido",1,IF(D22="Incluido",5,""))
+  E29: =IF(D29="",0,IF(D29<=5,1,IF(D29<=10,2,IF(D29<=15,4,5))))
+  E30: =IF(D30="",0,IF(D30<=15,1,IF(D30<=30,3,5)))
+  E31: =IF(D31="Ocurrencia",1,IF(D31="No ocurrencia",5,""))
+  E32: =IF(D32="Ocurrencia",1,IF(D32="No ocurrencia",5,""))
+  E33: =IF(D33="Ocurrencia",1,IF(D33="No ocurrencia",5,""))
+  E34: =IF(D34="Prolongada",1,IF(D34="No prolongada",5,IF(D34="NR",0,"")))
+  E35: =IF(D35="Empeoramiento",1,IF(D35="Sin efecto",3,IF(D35="Mejoría",5,IF(D35="NR",0,""))))
+  E36: =IF(D36="Empeoramiento",1,IF(D36="Sin efecto",3,IF(D36="Mejoría",5,IF(D36="NR",0,""))))
+  E37: =IF(D37="Off-label",1,IF(D37="On-label",5,""))
+  E38: =IF(D38="No incluido",1,IF(D38="Incluido",5,""))
+  E48: =IF(D48="",0,IF(D48<=5,1,IF(D48<=10,2,IF(D48<=15,4,5))))
+  E49: =IF(D49="",0,IF(D49<=15,1,IF(D49<=30,3,5)))
+  E50: =IF(D50="Ocurrencia",1,IF(D50="No ocurrencia",5,""))
+  E51: =IF(D51="Ocurrencia",1,IF(D51="No ocurrencia",5,""))
+  E52: =IF(D52="Ocurrencia",1,IF(D52="No ocurrencia",5,""))
+  E53: =IF(D53="Prolongada",1,IF(D53="No prolongada",5,IF(D53="NR",0,"")))
+  E54: =IF(D54="Empeoramiento",1,IF(D54="Sin efecto",3,IF(D54="Mejoría",5,IF(D54="NR",0,""))))
+  E55: =IF(D55="Empeoramiento",1,IF(D55="Sin efecto",3,IF(D55="Mejoría",5,IF(D55="NR",0,""))))
+  E56: =IF(D56="Off-label",1,IF(D56="On-label",5,""))
+  E57: =IF(D57="No incluido",1,IF(D57="Incluido",5,""))
+  E64: =IF(D64="",0,IF(D64<=5,1,IF(D64<=10,2,IF(D64<=15,4,5))))
+  E65: =IF(D65="",0,IF(D65<=15,1,IF(D65<=30,3,5)))
+  E66: =IF(D66="Ocurrencia",1,IF(D66="No ocurrencia",5,""))
+  E67: =IF(D67="Ocurrencia",1,IF(D67="No ocurrencia",5,""))
+  E68: =IF(D68="Ocurrencia",1,IF(D68="No ocurrencia",5,""))
+  E69: =IF(D69="Prolongada",1,IF(D69="No prolongada",5,IF(D69="NR",0,"")))
+  E70: =IF(D70="Empeoramiento",1,IF(D70="Sin efecto",3,IF(D70="Mejoría",5,IF(D70="NR",0,""))))
+  E71: =IF(D71="Empeoramiento",1,IF(D71="Sin efecto",3,IF(D71="Mejoría",5,IF(D71="NR",0,""))))
+  E72: =IF(D72="Off-label",1,IF(D72="On-label",5,""))
+  E73: =IF(D73="No incluido",1,IF(D73="Incluido",5,""))
+  E80: =IF(D80="",0,IF(D80<=5,1,IF(D80<=10,2,IF(D80<=15,4,5))))
+  E81: =IF(D81="",0,IF(D81<=15,1,IF(D81<=30,3,5)))
+  E82: =IF(D82="Ocurrencia",1,IF(D82="No ocurrencia",5,""))
+  E83: =IF(D83="Ocurrencia",1,IF(D83="No ocurrencia",5,""))
+  E84: =IF(D84="Ocurrencia",1,IF(D84="No ocurrencia",5,""))
+  E85: =IF(D85="Prolongada",1,IF(D85="No prolongada",5,IF(D85="NR",0,"")))
+  E86: =IF(D86="Empeoramiento",1,IF(D86="Sin efecto",3,IF(D86="Mejoría",5,IF(D86="NR",0,""))))
+  E87: =IF(D87="Empeoramiento",1,IF(D87="Sin efecto",3,IF(D87="Mejoría",5,IF(D87="NR",0,""))))
+  E88: =IF(D88="Off-label",1,IF(D88="On-label",5,""))
+  E89: =IF(D89="No incluido",1,IF(D89="Incluido",5,""))
+  E95: =IF(D95="",0,IF(D95<=5,1,IF(D95<=10,2,IF(D95<=15,4,5))))
+  E96: =IF(D96="",0,IF(D96<=15,1,IF(D96<=30,3,5)))
+  E97: =IF(D97="Ocurrencia",1,IF(D97="No ocurrencia",5,""))
+  E98: =IF(D98="Ocurrencia",1,IF(D98="No ocurrencia",5,""))
+  E99: =IF(D99="Ocurrencia",1,IF(D99="No ocurrencia",5,""))
+  E100: =IF(D100="Prolongada",1,IF(D100="No prolongada",5,IF(D100="NR",0,"")))
+  E101: =IF(D101="Empeoramiento",1,IF(D101="Sin efecto",3,IF(D101="Mejoría",5,IF(D101="NR",0,""))))
+  E102: =IF(D102="Empeoramiento",1,IF(D102="Sin efecto",3,IF(D102="Mejoría",5,IF(D102="NR",0,""))))
+  E103: =IF(D103="Off-label",1,IF(D103="On-label",5,""))
+  E104: =IF(D104="No incluido",1,IF(D104="Incluido",5,""))
+  E113: =IF(D113="",0,IF(D113<=5,1,IF(D113<=10,2,IF(D113<=15,4,5))))
+  E114: =IF(D114="",0,IF(D114<=15,1,IF(D114<=30,3,5)))
+  E115: =IF(D115="Ocurrencia",1,IF(D115="No ocurrencia",5,""))
+  E116: =IF(D116="Ocurrencia",1,IF(D116="No ocurrencia",5,""))
+  E117: =IF(D117="Ocurrencia",1,IF(D117="No ocurrencia",5,""))
+  E118: =IF(D118="Prolongada",1,IF(D118="No prolongada",5,IF(D118="NR",0,"")))
+  E119: =IF(D119="Empeoramiento",1,IF(D119="Sin efecto",3,IF(D119="Mejoría",5,IF(D119="NR",0,""))))
+  E120: =IF(D120="Empeoramiento",1,IF(D120="Sin efecto",3,IF(D120="Mejoría",5,IF(D120="NR",0,""))))
+  E121: =IF(D121="Off-label",1,IF(D121="On-label",5,""))
+  E122: =IF(D122="No incluido",1,IF(D122="Incluido",5,""))
+  E129: =IF(D129="",0,IF(D129<=5,1,IF(D129<=10,2,IF(D129<=15,4,5))))
+  E130: =IF(D130="",0,IF(D130<=15,1,IF(D130<=30,3,5)))
+  E131: =IF(D131="Ocurrencia",1,IF(D131="No ocurrencia",5,""))
+  E132: =IF(D132="Ocurrencia",1,IF(D132="No ocurrencia",5,""))
+  E133: =IF(D133="Ocurrencia",1,IF(D133="No ocurrencia",5,""))
+  E134: =IF(D134="Prolongada",1,IF(D134="No prolongada",5,IF(D134="NR",0,"")))
+  E135: =IF(D135="Empeoramiento",1,IF(D135="Sin efecto",3,IF(D135="Mejoría",5,IF(D135="NR",0,""))))
+  E136: =IF(D136="Empeoramiento",1,IF(D136="Sin efecto",3,IF(D136="Mejoría",5,IF(D136="NR",0,""))))
+  E137: =IF(D137="Off-label",1,IF(D137="On-label",5,""))
+  E138: =IF(D138="No incluido",1,IF(D138="Incluido",5,""))
+
+--- Data validations: 5 ---
+  cells=D21 D37 D56 D72 D88 D103 D121 D137 type=list formula1="On-Label, Off-Label"
+  cells=D15:D17 D31:D33 D50:D52 D66:D68 D82:D84 D97:D99 D115:D117 D131:D133 type=list formula1="No ocurrencia, Ocurrencia, NR"
+  cells=D18 D34 D53 D69 D85 D100 D118 D134 type=list formula1="Prolongada, No prolongada, NR"
+  cells=D19:D20 D35:D36 D54:D55 D70:D71 D86:D87 D101:D102 D119:D120 D135:D136 type=list formula1="Empeoramiento, Sin efecto, Mejoría, NR"
+  cells=D22 D38 D57 D73 D89 D104 D122 D138 type=list formula1="Incluido, No incluido"
+
+====================================================================================================
+SHEET: "Referencias"  |  state=visible  |  dims=A4:C70  |  rows=70  cols=3
+Merged ranges: 66
+====================================================================================================
+              A |        B |        C
+-------------------------------------
+R   1:          |          |         
+R   2:          |          |         
+R   3:          |          |         
+R   4:          | Referen… |         
+R   5:          |          |         
+R   6:          |          |         
+R   7:          |          |         
+R   8:          |          |         
+R   9:          | Afliber… |         
+R  10:          |          |         
+R  11: Eficaci… | 1. Silv… |         
+R  12: Segurid… | 2. Clin… |         
+R  13: Supresi… | 3.Venka… |         
+R  14:          | 4. Shar… |         
+R  15: Posicio… | 5. INVI… |         
+R  16:          | 6. Vemu… |         
+R  17:          |          |         
+R  18:          |          |         
+R  19:          | Ranibiz… |         
+R  20:          |          |         
+R  21: Eficaci… | 1. Clin… |         
+R  22: Supresi… | 2.Venka… |         
+R  23:          | 3. Shar… |         
+R  24: Posicio… | 4. INVI… |         
+R  25:          | 5. Vemu… |         
+R  26:          |          |         
+R  27:          |          |         
+R  28:          | Afliber… |         
+R  29: Eficaci… | 1. Schm… |         
+R  30: Supresi… | 4.Venka… |         
+R  31:          | 5. Shar… |         
+R  32: Posicio… | 6. INVI… |         
+R  33:          | 7. Vemu… |         
+R  34:          |          |         
+R  35:          |          |         
+R  36:          | Afliber… |         
+R  37: Eficaci… | 1. Schm… |         
+R  38: Supresi… | 4.Venka… |         
+R  39:          | 5. Shar… |         
+R  40: Posicio… | 6. INVI… |         
+R  41:          | 7. Vemu… |         
+R  42:          |          |         
+R  43:          |          |         
+R  44:          | Ranibiz… |         
+R  45: Eficaci… | 1. Brow… |         
+R  46: Supresi… | 3.Venka… |         
+R  47:          | 4. Shar… |         
+R  48: Posicio… | 5.INVIM… |         
+R  49:          | 6. Vemu… |         
+R  50:          |          |         
+R  51:          | Faricim… |         
+R  52: Eficaci… | 1. Clin… |         
+R  53: Supresi… | 5.Venka… |         
+R  54:          | 6. Shar… |         
+R  55: Posicio… | 7. IINV… |         
+R  56:          | 6. Vemu… |         
+R  57:          |          |         
+R  58:          | Afliber… |         
+R  59: Eficaci… | 1. Koro… |         
+R  60: Supresi… | 3.Venka… |         
+R  61:          | 4. Shar… |         
+R  62: Posicio… | 5.INVIM… |         
+R  63:          | 6. Vemu… |         
+R  64:          |          |         
+R  65:          | Afliber… |         
+R  66: Eficaci… | 1. Koro… |         
+R  67: Supresi… | 3.Venka… |         
+R  68:          | 4. Shar… |         
+R  69: Posicio… | 5.INVIM… |         
+R  70:          | 6. Vemu… |         
+
+====================================================================================================
+SHEET: "T_results"  |  state=hidden  |  dims=D5:L26  |  rows=26  cols=12
+Merged ranges: 0
+====================================================================================================
+              A |        B |        C |        D |        E |        F |        G |        H |        I |        J |        K |        L
+----------------------------------------------------------------------------------------------------------------------------------------
+R   1:          |          |          |          |          |          |          |          |          |          |          |         
+R   2:          |          |          |          |          |          |          |          |          |          |          |         
+R   3:          |          |          |          |          |          |          |          |          |          |          |         
+R   4:          |          |          |          |          |          |          |          |          |          |          |         
+R   5:          |          |          | Compara… | Eficacia | Segurid… |     PROs | Posicio… | Total g… | Costo a… | Costo p… |         
+R   6:          |          |          | Afliber… |    48.29 |    66.64 |        0 |      100 |    55.22 | =Input_c |   =J6/I6 |         
+R   7:          |          |          | Ranibiz… |    48.29 |    48.09 |    54.55 |      100 |     52.5 | =Input_c |   =J7/I7 |         
+R   8:          |          |          | Afliber… |    64.86 |       20 |      100 |      100 |     50.1 | =Input_c |   =J8/I8 |         
+R   9:          |          |          | Afliber… |    64.86 |    71.91 |      100 |      100 |     74.5 | =Input_c |   =J9/I9 |         
+R  10:          |          |          | Ranibiz… |    88.29 |    53.36 |      100 |      100 |    73.98 | =Input_c | =J10/I10 |         
+R  11:          |          |          | Afliber… |    48.29 |    66.64 |    54.55 |      100 |    61.22 | =Input_c | =J11/I11 |         
+R  12:          |          |          | Afliber… |    48.29 |    43.32 |    54.55 |      100 |    50.26 | =Input_c | =J12/I12 |         
+R  13:          |          |          | Faricim… |    36.57 |     47.4 |    54.55 |      100 |    48.08 | =Input_c | =J13/I13 |         
+R  14:          |          |          |          |          |          |          |          |          |          |          |         
+R  15:          |          |          |          |          |          |          |          |          |          |          |         
+R  16:          |          |          | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_
+R  17:          |          |          | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_
+R  18:          |          |          | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_
+R  19:          |          |          | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_
+R  20:          |          |          | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_
+R  21:          |          |          | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_
+R  22:          |          |          | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_
+R  23:          |          |          | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_
+R  24:          |          |          | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_
+R  25:          |          |          | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_
+R  26:          |          |          | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_ | =Matriz_
+
+--- Formulas (115 total) ---
+  J6: =Input_costo2!O23
+  K6: =J6/I6
+  J7: =Input_costo2!O21
+  K7: =J7/I7
+  J8: =Input_costo2!O19
+  K8: =J8/I8
+  J9: =Input_costo2!O11
+  K9: =J9/I9
+  J10: =Input_costo2!O13
+  K10: =J10/I10
+  J11: =Input_costo2!O15
+  K11: =J11/I11
+  J12: =Input_costo2!O17
+  K12: =J12/I12
+  J13: =Input_costo2!O9
+  K13: =J13/I13
+  D16: =Matriz_Medicamentos!A1
+  E16: =Matriz_Medicamentos!B1
+  F16: =Matriz_Medicamentos!C1
+  G16: =Matriz_Medicamentos!D1
+  H16: =Matriz_Medicamentos!E1
+  I16: =Matriz_Medicamentos!F1
+  J16: =Matriz_Medicamentos!G1
+  K16: =Matriz_Medicamentos!H1
+  L16: =Matriz_Medicamentos!I1
+  D17: =Matriz_Medicamentos!A2
+  E17: =Matriz_Medicamentos!B2
+  F17: =Matriz_Medicamentos!C2
+  G17: =Matriz_Medicamentos!D2
+  H17: =Matriz_Medicamentos!E2
+  I17: =Matriz_Medicamentos!F2
+  J17: =Matriz_Medicamentos!G2
+  K17: =Matriz_Medicamentos!H2
+  L17: =Matriz_Medicamentos!I2
+  D18: =Matriz_Medicamentos!A3
+  E18: =Matriz_Medicamentos!B3
+  F18: =Matriz_Medicamentos!C3
+  G18: =Matriz_Medicamentos!D3
+  H18: =Matriz_Medicamentos!E3
+  I18: =Matriz_Medicamentos!F3
+  J18: =Matriz_Medicamentos!G3
+  K18: =Matriz_Medicamentos!H3
+  L18: =Matriz_Medicamentos!I3
+  D19: =Matriz_Medicamentos!A4
+  E19: =Matriz_Medicamentos!B4
+  F19: =Matriz_Medicamentos!C4
+  G19: =Matriz_Medicamentos!D4
+  H19: =Matriz_Medicamentos!E4
+  I19: =Matriz_Medicamentos!F4
+  J19: =Matriz_Medicamentos!G4
+  K19: =Matriz_Medicamentos!H4
+  L19: =Matriz_Medicamentos!I4
+  D20: =Matriz_Medicamentos!A5
+  E20: =Matriz_Medicamentos!B5
+  F20: =Matriz_Medicamentos!C5
+  G20: =Matriz_Medicamentos!D5
+  H20: =Matriz_Medicamentos!E5
+  I20: =Matriz_Medicamentos!F5
+  J20: =Matriz_Medicamentos!G5
+  K20: =Matriz_Medicamentos!H5
+  L20: =Matriz_Medicamentos!I5
+  D21: =Matriz_Medicamentos!A6
+  E21: =Matriz_Medicamentos!B6
+  F21: =Matriz_Medicamentos!C6
+  G21: =Matriz_Medicamentos!D6
+  H21: =Matriz_Medicamentos!E6
+  I21: =Matriz_Medicamentos!F6
+  J21: =Matriz_Medicamentos!G6
+  K21: =Matriz_Medicamentos!H6
+  L21: =Matriz_Medicamentos!I6
+  D22: =Matriz_Medicamentos!A7
+  E22: =Matriz_Medicamentos!B7
+  F22: =Matriz_Medicamentos!C7
+  G22: =Matriz_Medicamentos!D7
+  H22: =Matriz_Medicamentos!E7
+  I22: =Matriz_Medicamentos!F7
+  J22: =Matriz_Medicamentos!G7
+  K22: =Matriz_Medicamentos!H7
+  L22: =Matriz_Medicamentos!I7
+  D23: =Matriz_Medicamentos!A8
+  ... and 35 more
+
+====================================================================================================
+SHEET: "Matriz_Medicamentos"  |  state=hidden  |  dims=A1:I11  |  rows=11  cols=9
+Merged ranges: 0
+====================================================================================================
+              A |        B |        C |        D |        E |        F |        G |        H |        I
+-------------------------------------------------------------------------------------------------------
+R   1: Criterio | Afliber… | Ranibiz… | Afliber… | Afliber… | Ranibiz… | Afliber… | Afliber… | Faricim…
+R   2: Cambio … |        2 |        2 |        2 |        2 | ='Inputs |        2 |        2 |        1
+R   3: Pacient… |        3 |        3 |        5 |        5 | ='Inputs |        3 |        3 |        3
+R   4: Despren… |        1 |        1 |        1 |        5 | ='Inputs |        1 |        1 |        5
+R   5: Infarto… |        5 |        1 |        1 |        1 | ='Inputs |        5 |        1 |        1
+R   6: Endofta… |        5 |        5 |        1 |        5 | ='Inputs |        5 |        5 |        1
+R   7: Supresi… |        1 |        5 |        1 |        1 | ='Inputs |        1 |        1 |        0
+R   8: Calidad… |        0 |        5 |        5 |        5 | ='Inputs |        5 |        5 |        5
+R   9: Discapa… |        0 |        0 |        5 |        5 | ='Inputs |        0 |        0 |        0
+R  10: Estado … |        5 |        5 |        5 |        5 | ='Inputs |        5 |        5 |        5
+R  11: Inclusi… |        5 |        5 |        5 |        5 | ='Inputs |        5 |        5 |        5
+
+--- Formulas (10 total) ---
+  F2: ='Inputs_nAMD '!E64
+  F3: ='Inputs_nAMD '!E65
+  F4: ='Inputs_nAMD '!E66
+  F5: ='Inputs_nAMD '!E67
+  F6: ='Inputs_nAMD '!E68
+  F7: ='Inputs_nAMD '!E69
+  F8: ='Inputs_nAMD '!E70
+  F9: ='Inputs_nAMD '!E71
+  F10: ='Inputs_nAMD '!E72
+  F11: ='Inputs_nAMD '!E73
+
+====================================================================================================
+SHEET: "Matriz_Resultados_Crudos"  |  state=hidden  |  dims=A1:I11  |  rows=11  cols=9
+Merged ranges: 0
+====================================================================================================
+              A |        B |        C |        D |        E |        F |        G |        H |        I
+-------------------------------------------------------------------------------------------------------
+R   1: Criterio | Afliber… | Ranibiz… | Afliber… | Afliber… | Ranibiz… | Afliber… | Afliber… | Faricim…
+R   2: Cambio … |      7.8 |      6.6 | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs
+R   3: Pacient… |       19 |       23 | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs
+R   4: Despren… | Ocurren… | Ocurren… | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs
+R   5: Infarto… | No ocur… | Ocurren… | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs
+R   6: Endofta… | No ocur… | No ocur… | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs
+R   7: Supresi… | Prolong… | No prol… | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs
+R   8: Calidad… |       NR |  Mejoría | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs
+R   9: Discapa… |       NR |       NR | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs
+R  10: Estado … | On-Label | On-Label | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs
+R  11: Inclusi… | Incluido | Incluido | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs | ='Inputs
+
+--- Formulas (60 total) ---
+  D2: ='Inputs_nAMD '!D80
+  E2: ='Inputs_nAMD '!D95
+  F2: ='Inputs_nAMD '!D64
+  G2: ='Inputs_nAMD '!D13
+  H2: ='Inputs_nAMD '!D29
+  I2: ='Inputs_nAMD '!D48
+  D3: ='Inputs_nAMD '!D81
+  E3: ='Inputs_nAMD '!D96
+  F3: ='Inputs_nAMD '!D65
+  G3: ='Inputs_nAMD '!D14
+  H3: ='Inputs_nAMD '!D30
+  I3: ='Inputs_nAMD '!D49
+  D4: ='Inputs_nAMD '!D82
+  E4: ='Inputs_nAMD '!D97
+  F4: ='Inputs_nAMD '!D66
+  G4: ='Inputs_nAMD '!D15
+  H4: ='Inputs_nAMD '!D31
+  I4: ='Inputs_nAMD '!D50
+  D5: ='Inputs_nAMD '!D83
+  E5: ='Inputs_nAMD '!D98
+  F5: ='Inputs_nAMD '!D67
+  G5: ='Inputs_nAMD '!D16
+  H5: ='Inputs_nAMD '!D32
+  I5: ='Inputs_nAMD '!D51
+  D6: ='Inputs_nAMD '!D84
+  E6: ='Inputs_nAMD '!D99
+  F6: ='Inputs_nAMD '!D68
+  G6: ='Inputs_nAMD '!D17
+  H6: ='Inputs_nAMD '!D33
+  I6: ='Inputs_nAMD '!D52
+  D7: ='Inputs_nAMD '!D85
+  E7: ='Inputs_nAMD '!D100
+  F7: ='Inputs_nAMD '!D69
+  G7: ='Inputs_nAMD '!D18
+  H7: ='Inputs_nAMD '!D34
+  I7: ='Inputs_nAMD '!D53
+  D8: ='Inputs_nAMD '!D86
+  E8: ='Inputs_nAMD '!D101
+  F8: ='Inputs_nAMD '!D70
+  G8: ='Inputs_nAMD '!D19
+  H8: ='Inputs_nAMD '!D35
+  I8: ='Inputs_nAMD '!D54
+  D9: ='Inputs_nAMD '!D87
+  E9: ='Inputs_nAMD '!D102
+  F9: ='Inputs_nAMD '!D71
+  G9: ='Inputs_nAMD '!D20
+  H9: ='Inputs_nAMD '!D36
+  I9: ='Inputs_nAMD '!D55
+  D10: ='Inputs_nAMD '!D88
+  E10: ='Inputs_nAMD '!D103
+  F10: ='Inputs_nAMD '!D72
+  G10: ='Inputs_nAMD '!D21
+  H10: ='Inputs_nAMD '!D37
+  I10: ='Inputs_nAMD '!D56
+  D11: ='Inputs_nAMD '!D89
+  E11: ='Inputs_nAMD '!D104
+  F11: ='Inputs_nAMD '!D73
+  G11: ='Inputs_nAMD '!D22
+  H11: ='Inputs_nAMD '!D38
+  I11: ='Inputs_nAMD '!D57
+
+====================================================================================================
+SHEET: "Equivalencia"  |  state=hidden  |  dims=B3:E11  |  rows=11  cols=5
+Merged ranges: 0
+====================================================================================================
+              A |        B |        C |        D |        E
+-----------------------------------------------------------
+R   1:          |          |          |          |         
+R   2:          |          |          |          |         
+R   3:          | Medicam… | Nombre … |          |         
+R   4:          | Afliber… | Afliber… |          |  #VALUE!
+R   5:          | Afliber… | Afliber… |          |         
+R   6:          | Afliber… | Afliber… |          |         
+R   7:          | Ranibiz… | Ranibiz… |          |         
+R   8:          | Afliber… | Afliber… |          |         
+R   9:          | Afliber… | Afliber… |          |         
+R  10:          | Faricim… | Faricim… |          |         
+R  11:          |          |          |          |  #VALUE!
+
+====================================================================================================
+SHEET: "ChartData"  |  state=hidden  |  dims=A1:B2  |  rows=2  cols=2
+Merged ranges: 0
+====================================================================================================
+              A |        B
+--------------------------
+R   1:    Score | Remaini…
+R   2: ='MCDA A |  =100-A2
+
+--- Formulas (2 total) ---
+  A2: ='MCDA Advanced Dashboard'!F30
+  B2: =100-A2

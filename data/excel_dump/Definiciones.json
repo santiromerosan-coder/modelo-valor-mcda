@@ -1,0 +1,582 @@
+{
+  "name": "Definiciones ",
+  "state": "visible",
+  "dimensions": "A4:D14",
+  "max_row": 14,
+  "max_col": 4,
+  "merged_ranges": [],
+  "cells": [
+    {
+      "ref": "A4",
+      "formula": null,
+      "raw": "Dominio",
+      "value": "Dominio",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B4",
+      "formula": null,
+      "raw": "Criterio",
+      "value": "Criterio",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C4",
+      "formula": null,
+      "raw": "Definición operacional",
+      "value": "Definición operacional",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D4",
+      "formula": null,
+      "raw": "Valores posibles",
+      "value": "Valores posibles",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A5",
+      "formula": null,
+      "raw": "Eficacia ",
+      "value": "Eficacia ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B5",
+      "formula": null,
+      "raw": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C5",
+      "formula": null,
+      "raw": "Magnitud del cambio promedio en letras de BCVA después del tratamiento, comparado con el valor basal . Refleja la ganancia funcional visual promedio atribuible a la intervención.",
+      "value": "Magnitud del cambio promedio en letras de BCVA después del tratamiento, comparado con el valor basal . Refleja la ganancia funcional visual promedio atribuible a la intervención.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D5",
+      "formula": null,
+      "raw": "0–5 letras = 1; 6–10 letras = 2; 11–15 letras = 4; >15 letras = 5",
+      "value": "0–5 letras = 1; 6–10 letras = 2; 11–15 letras = 4; >15 letras = 5",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A6",
+      "formula": null,
+      "raw": "Eficacia ",
+      "value": "Eficacia ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B6",
+      "formula": null,
+      "raw": "Pacientes con ganancia ≥15 letras en BCVA",
+      "value": "Pacientes con ganancia ≥15 letras en BCVA",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C6",
+      "formula": null,
+      "raw": "Proporción de pacientes que alcanzan una mejoría clínicamente relevante de al menos 15 letras en BCVA durante el seguimiento del estudio. Este desenlace representa una recuperación visual significativa.",
+      "value": "Proporción de pacientes que alcanzan una mejoría clínicamente relevante de al menos 15 letras en BCVA durante el seguimiento del estudio. Este desenlace representa una recuperación visual significativa.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D6",
+      "formula": null,
+      "raw": "0–15% = 1; 16–30% = 3; >30% = 5",
+      "value": "0–15% = 1; 16–30% = 3; >30% = 5",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A7",
+      "formula": null,
+      "raw": "Seguridad",
+      "value": "Seguridad",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B7",
+      "formula": null,
+      "raw": "Desprendimiento de retina",
+      "value": "Desprendimiento de retina",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C7",
+      "formula": null,
+      "raw": "Presencia o ausencia de eventos de desprendimiento de retina reportados durante el seguimiento del tratamiento. Se considera un evento adverso ocular grave.",
+      "value": "Presencia o ausencia de eventos de desprendimiento de retina reportados durante el seguimiento del tratamiento. Se considera un evento adverso ocular grave.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D7",
+      "formula": null,
+      "raw": "Ocurrencia = 1; No ocurrencia = 5",
+      "value": "Ocurrencia = 1; No ocurrencia = 5",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A8",
+      "formula": null,
+      "raw": "Seguridad",
+      "value": "Seguridad",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B8",
+      "formula": null,
+      "raw": "Infarto agudo de miocardio",
+      "value": "Infarto agudo de miocardio",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C8",
+      "formula": null,
+      "raw": "Presencia o ausencia de infarto agudo de miocardio reportado como evento adverso durante el seguimiento del tratamiento.",
+      "value": "Presencia o ausencia de infarto agudo de miocardio reportado como evento adverso durante el seguimiento del tratamiento.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D8",
+      "formula": null,
+      "raw": "Ocurrencia = 1; No ocurrencia = 5",
+      "value": "Ocurrencia = 1; No ocurrencia = 5",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A9",
+      "formula": null,
+      "raw": "Seguridad",
+      "value": "Seguridad",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B9",
+      "formula": null,
+      "raw": "Endoftalmitis",
+      "value": "Endoftalmitis",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C9",
+      "formula": null,
+      "raw": "Presencia o ausencia de endoftalmitis reportada durante el seguimiento.",
+      "value": "Presencia o ausencia de endoftalmitis reportada durante el seguimiento.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D9",
+      "formula": null,
+      "raw": "Ocurrencia = 1; No ocurrencia = 5",
+      "value": "Ocurrencia = 1; No ocurrencia = 5",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A10",
+      "formula": null,
+      "raw": "Seguridad ",
+      "value": "Seguridad ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B10",
+      "formula": null,
+      "raw": "Supresión sistémica de VEGF",
+      "value": "Supresión sistémica de VEGF",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C10",
+      "formula": null,
+      "raw": "Duración o persistencia de la reducción de VEGF sistémico posterior a la administración del medicamento. Evalúa el potencial efecto sistémico del tratamiento sobre la vía VEGF.",
+      "value": "Duración o persistencia de la reducción de VEGF sistémico posterior a la administración del medicamento. Evalúa el potencial efecto sistémico del tratamiento sobre la vía VEGF.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D10",
+      "formula": null,
+      "raw": "Prolongada = 1; No prolongada = 5",
+      "value": "Prolongada = 1; No prolongada = 5",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A11",
+      "formula": null,
+      "raw": "PROs",
+      "value": "PROs",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B11",
+      "formula": null,
+      "raw": "Calidad de vida relacionada con la salud",
+      "value": "Calidad de vida relacionada con la salud",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C11",
+      "formula": null,
+      "raw": "Cambio reportado en instrumentos de calidad de vida relacionada con la salud, incluyendo dominios visuales, funcionales o generales. Se clasifica según si el tratamiento empeora, no modifica o mejora la calidad de vida.",
+      "value": "Cambio reportado en instrumentos de calidad de vida relacionada con la salud, incluyendo dominios visuales, funcionales o generales. Se clasifica según si el tratamiento empeora, no modifica o mejora la calidad de vida.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D11",
+      "formula": null,
+      "raw": "Empeoramiento = 1; Sin efecto = 3; Mejoría = 5",
+      "value": "Empeoramiento = 1; Sin efecto = 3; Mejoría = 5",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A12",
+      "formula": null,
+      "raw": "PROs",
+      "value": "PROs",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B12",
+      "formula": null,
+      "raw": "Discapacidad / capacidad funcional",
+      "value": "Discapacidad / capacidad funcional",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C12",
+      "formula": null,
+      "raw": "Cambio en la capacidad del paciente para realizar actividades cotidianas o mantener independencia funcional, medido mediante escalas funcionales, dominios visuales o reportes de desempeño.",
+      "value": "Cambio en la capacidad del paciente para realizar actividades cotidianas o mantener independencia funcional, medido mediante escalas funcionales, dominios visuales o reportes de desempeño.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D12",
+      "formula": null,
+      "raw": "Empeoramiento = 1; Sin efecto = 3; Mejoría = 5",
+      "value": "Empeoramiento = 1; Sin efecto = 3; Mejoría = 5",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A13",
+      "formula": null,
+      "raw": "Posicionamiento terapéutico ",
+      "value": "Posicionamiento terapéutico ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B13",
+      "formula": null,
+      "raw": "Estado de aprobación regulatoria",
+      "value": "Estado de aprobación regulatoria",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C13",
+      "formula": null,
+      "raw": "Condición regulatoria de uso del medicamento para la indicación evaluada. Diferencia si el tratamiento está aprobado específicamente para esa indicación o si su uso corresponde a una indicación no aprobada.",
+      "value": "Condición regulatoria de uso del medicamento para la indicación evaluada. Diferencia si el tratamiento está aprobado específicamente para esa indicación o si su uso corresponde a una indicación no aprobada.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D13",
+      "formula": null,
+      "raw": "Off-label = 1; On-label = 5",
+      "value": "Off-label = 1; On-label = 5",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A14",
+      "formula": null,
+      "raw": "Posicionamiento terapéutico ",
+      "value": "Posicionamiento terapéutico ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B14",
+      "formula": null,
+      "raw": "Inclusión en guías de práctica clínica",
+      "value": "Inclusión en guías de práctica clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C14",
+      "formula": null,
+      "raw": "Presencia del medicamento o estrategia terapéutica en guías de práctica clínica relevantes para la indicación evaluada. Refleja el respaldo de recomendaciones clínicas formales.",
+      "value": "Presencia del medicamento o estrategia terapéutica en guías de práctica clínica relevantes para la indicación evaluada. Refleja el respaldo de recomendaciones clínicas formales.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D14",
+      "formula": null,
+      "raw": "No incluido = 1; Incluido = 5",
+      "value": "No incluido = 1; Incluido = 5",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "sheets": [
+    {
+      "name": "_Listas",
+      "state": "veryHidden",
+      "dimensions": "A1:A8",
+      "max_row": 8,
+      "max_col": 1,
+      "merged_count": 0,
+      "cell_count": 8
+    },
+    {
+      "name": "Modelo de valor",
+      "state": "visible",
+      "dimensions": "N2:Q23",
+      "max_row": 23,
+      "max_col": 17,
+      "merged_count": 1,
+      "cell_count": 34
+    },
+    {
+      "name": "Definiciones ",
+      "state": "visible",
+      "dimensions": "A4:D14",
+      "max_row": 14,
+      "max_col": 4,
+      "merged_count": 0,
+      "cell_count": 44
+    },
+    {
+      "name": "Parametros",
+      "state": "hidden",
+      "dimensions": "A5:D31",
+      "max_row": 31,
+      "max_col": 4,
+      "merged_count": 0,
+      "cell_count": 104
+    },
+    {
+      "name": "MCDA Advanced Dashboard",
+      "state": "visible",
+      "dimensions": "B9:R30",
+      "max_row": 30,
+      "max_col": 18,
+      "merged_count": 11,
+      "cell_count": 136
+    },
+    {
+      "name": "Resumen",
+      "state": "visible",
+      "dimensions": "A1:BO37",
+      "max_row": 37,
+      "max_col": 67,
+      "merged_count": 63,
+      "cell_count": 610
+    },
+    {
+      "name": "Input_costo2",
+      "state": "visible",
+      "dimensions": "C7:Q29",
+      "max_row": 29,
+      "max_col": 17,
+      "merged_count": 0,
+      "cell_count": 74
+    },
+    {
+      "name": "Inputs_nAMD ",
+      "state": "visible",
+      "dimensions": "C7:H138",
+      "max_row": 138,
+      "max_col": 8,
+      "merged_count": 0,
+      "cell_count": 438
+    },
+    {
+      "name": "Referencias",
+      "state": "visible",
+      "dimensions": "A4:C70",
+      "max_row": 70,
+      "max_col": 3,
+      "merged_count": 66,
+      "cell_count": 75
+    },
+    {
+      "name": "T_results",
+      "state": "hidden",
+      "dimensions": "D5:L26",
+      "max_row": 26,
+      "max_col": 12,
+      "merged_count": 0,
+      "cell_count": 171
+    },
+    {
+      "name": "Matriz_Medicamentos",
+      "state": "hidden",
+      "dimensions": "A1:I11",
+      "max_row": 11,
+      "max_col": 9,
+      "merged_count": 0,
+      "cell_count": 99
+    },
+    {
+      "name": "Matriz_Resultados_Crudos",
+      "state": "hidden",
+      "dimensions": "A1:I11",
+      "max_row": 11,
+      "max_col": 9,
+      "merged_count": 0,
+      "cell_count": 99
+    },
+    {
+      "name": "Equivalencia",
+      "state": "hidden",
+      "dimensions": "B3:E11",
+      "max_row": 11,
+      "max_col": 5,
+      "merged_count": 0,
+      "cell_count": 18
+    },
+    {
+      "name": "ChartData",
+      "state": "hidden",
+      "dimensions": "A1:B2",
+      "max_row": 2,
+      "max_col": 2,
+      "merged_count": 0,
+      "cell_count": 4
+    }
+  ],
+  "defined_names": [
+    {
+      "name": "Lista_Moleculas_Seleccionadas",
+      "value": "_Listas!$A$1:$A$8"
+    },
+    {
+      "name": "ListaEconomica",
+      "value": "_xlfn.ANCHORARRAY(Equivalencia!$E$4)"
+    }
+  ]
+}

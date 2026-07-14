@@ -1,0 +1,167 @@
+{
+  "name": "Equivalencia",
+  "state": "hidden",
+  "dimensions": "B3:E11",
+  "max_row": 11,
+  "max_col": 5,
+  "merged_ranges": [],
+  "cells": [
+    {
+      "ref": "B3",
+      "formula": null,
+      "raw": "Medicamento",
+      "value": "Medicamento"
+    },
+    {
+      "ref": "C3",
+      "formula": null,
+      "raw": "Nombre en Input_Costo",
+      "value": "Nombre en Input_Costo",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B4",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q4)",
+      "value": "Aflibercept 2mg (q4)"
+    },
+    {
+      "ref": "C4",
+      "formula": null,
+      "raw": "Aflibercept 2 mg q4w",
+      "value": "Aflibercept 2 mg q4w",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E4",
+      "formula": null,
+      "raw": "<openpyxl.worksheet.formula.ArrayFormula object at 0x7f546dfc2030>",
+      "value": "#VALUE!",
+      "style": {
+        "fill": null,
+        "font_bold": true,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B5",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q8)",
+      "value": "Aflibercept 2mg (q8)"
+    },
+    {
+      "ref": "C5",
+      "formula": null,
+      "raw": "Aflibercept 2 mg T&E",
+      "value": "Aflibercept 2 mg T&E",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B6",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q8)",
+      "value": "Aflibercept 2mg (q8)"
+    },
+    {
+      "ref": "C6",
+      "formula": null,
+      "raw": "Aflibercept 2 mg q8w",
+      "value": "Aflibercept 2 mg q8w"
+    },
+    {
+      "ref": "B7",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  (q4)",
+      "value": "Ranibizumab  0.5 mg  (q4)"
+    },
+    {
+      "ref": "C7",
+      "formula": null,
+      "raw": "Ranibizumab 0,5 mg q4w",
+      "value": "Ranibizumab 0,5 mg q4w"
+    },
+    {
+      "ref": "B8",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q16)",
+      "value": "Aflibercept 8mg (q16)"
+    },
+    {
+      "ref": "C8",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q16) ",
+      "value": "Aflibercept 8mg (q16) ",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B9",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q12)",
+      "value": "Aflibercept 8mg (q12)"
+    },
+    {
+      "ref": "C9",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q12) ",
+      "value": "Aflibercept 8mg (q12) ",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B10",
+      "formula": null,
+      "raw": "Faricimab 6mg (q16)",
+      "value": "Faricimab 6mg (q16)"
+    },
+    {
+      "ref": "C10",
+      "formula": null,
+      "raw": "Faricimab 6 mg  q16w ",
+      "value": "Faricimab 6 mg  q16w ",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E11",
+      "formula": null,
+      "raw": "<openpyxl.worksheet.formula.ArrayFormula object at 0x7f546dfc16a0>",
+      "value": "#VALUE!"
+    }
+  ]
+}

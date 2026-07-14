@@ -1,0 +1,972 @@
+{
+  "name": "Input_costo2",
+  "state": "visible",
+  "dimensions": "C7:Q29",
+  "max_row": 29,
+  "max_col": 17,
+  "merged_ranges": [],
+  "cells": [
+    {
+      "ref": "C7",
+      "formula": null,
+      "raw": "Tecnología ",
+      "value": "Tecnología ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E7",
+      "formula": null,
+      "raw": "N° inyecciones al año ",
+      "value": "N° inyecciones al año ",
+      "style": {
+        "fill": "FF00B0F0",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G7",
+      "formula": null,
+      "raw": "Precio ",
+      "value": "Precio ",
+      "style": {
+        "fill": "FF00B0F0",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I7",
+      "formula": null,
+      "raw": "Costo x n° inyecciónes ",
+      "value": "Costo x n° inyecciónes ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "K7",
+      "formula": null,
+      "raw": "Costo administración ",
+      "value": "Costo administración ",
+      "style": {
+        "fill": "FF00B0F0",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "M7",
+      "formula": null,
+      "raw": "Costo anual  administración ",
+      "value": "Costo anual  administración ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "O7",
+      "formula": null,
+      "raw": "Costo anual  *",
+      "value": "Costo anual  *",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "Q7",
+      "formula": null,
+      "raw": "Costo anual  *",
+      "value": "Costo anual  *",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C9",
+      "formula": null,
+      "raw": "Faricimab 6mg (q16)",
+      "value": "Faricimab 6mg (q16)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E9",
+      "formula": null,
+      "raw": 6,
+      "value": 6,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G9",
+      "formula": null,
+      "raw": 2402568,
+      "value": 2402568,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "I9",
+      "formula": "=E9*G9",
+      "raw": null,
+      "value": 14415408,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K9",
+      "formula": null,
+      "raw": 1957979,
+      "value": 1957979,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "M9",
+      "formula": "=E9*K9",
+      "raw": null,
+      "value": 11747874,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "O9",
+      "formula": "=I9+M9",
+      "raw": null,
+      "value": 26163282,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "Q9",
+      "formula": "=O9",
+      "raw": null,
+      "value": 26163282,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "C11",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q8)",
+      "value": "Aflibercept 2mg (q8)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E11",
+      "formula": null,
+      "raw": 8,
+      "value": 8,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G11",
+      "formula": null,
+      "raw": 1926878,
+      "value": 1926878,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "I11",
+      "formula": "=E11*G11",
+      "raw": null,
+      "value": 15415024,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K11",
+      "formula": null,
+      "raw": 1957979,
+      "value": 1957979,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "M11",
+      "formula": "=E11*K11",
+      "raw": null,
+      "value": 15663832,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "O11",
+      "formula": "=I11+M11",
+      "raw": null,
+      "value": 31078856,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "Q11",
+      "formula": "=O11",
+      "raw": null,
+      "value": 31078856,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "C13",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  (q4)",
+      "value": "Ranibizumab  0.5 mg  (q4)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E13",
+      "formula": null,
+      "raw": 12,
+      "value": 12,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G13",
+      "formula": null,
+      "raw": 1653503,
+      "value": 1653503,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "I13",
+      "formula": "=E13*G13*(1-'Modelo de valor'!O23)",
+      "raw": null,
+      "value": 19842036,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K13",
+      "formula": null,
+      "raw": 1957979,
+      "value": 1957979,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "M13",
+      "formula": "=E13*K13",
+      "raw": null,
+      "value": 23495748,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "O13",
+      "formula": "=I13+M13",
+      "raw": null,
+      "value": 43337784,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "Q13",
+      "formula": "=O13",
+      "raw": null,
+      "value": 43337784,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "C15",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q16)",
+      "value": "Aflibercept 8mg (q16)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E15",
+      "formula": null,
+      "raw": 5,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G15",
+      "formula": null,
+      "raw": 1926878,
+      "value": 1926878,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "I15",
+      "formula": "=E15*G15",
+      "raw": null,
+      "value": 9634390,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K15",
+      "formula": null,
+      "raw": 1957979,
+      "value": 1957979,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "M15",
+      "formula": "=E15*K15",
+      "raw": null,
+      "value": 9789895,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "O15",
+      "formula": "=I15+M15",
+      "raw": null,
+      "value": 19424285,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "Q15",
+      "formula": "=O15",
+      "raw": null,
+      "value": 19424285,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "C17",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q12)",
+      "value": "Aflibercept 8mg (q12)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E17",
+      "formula": null,
+      "raw": 6,
+      "value": 6,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G17",
+      "formula": null,
+      "raw": 1926878,
+      "value": 1926878,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "I17",
+      "formula": "=E17*G17",
+      "raw": null,
+      "value": 11561268,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K17",
+      "formula": null,
+      "raw": 1957979,
+      "value": 1957979,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "M17",
+      "formula": "=E17*K17",
+      "raw": null,
+      "value": 11747874,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "O17",
+      "formula": "=I17+M17",
+      "raw": null,
+      "value": 23309142,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "Q17",
+      "formula": "=O17",
+      "raw": null,
+      "value": 23309142,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "C19",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q4)",
+      "value": "Aflibercept 2mg (q4)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E19",
+      "formula": null,
+      "raw": 12,
+      "value": 12,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G19",
+      "formula": null,
+      "raw": 1926878,
+      "value": 1926878,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "I19",
+      "formula": "=E19*G19",
+      "raw": null,
+      "value": 23122536,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K19",
+      "formula": null,
+      "raw": 1957979,
+      "value": 1957979,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "M19",
+      "formula": "=E19*K19",
+      "raw": null,
+      "value": 23495748,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "O19",
+      "formula": "=I19+M19",
+      "raw": null,
+      "value": 46618284,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "Q19",
+      "formula": "=O19",
+      "raw": null,
+      "value": 46618284,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "C21",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  T&E",
+      "value": "Ranibizumab  0.5 mg  T&E",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E21",
+      "formula": null,
+      "raw": 9,
+      "value": 9,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G21",
+      "formula": null,
+      "raw": 1653503,
+      "value": 1653503,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "I21",
+      "formula": "=E21*G21*(1-'Modelo de valor'!O23)",
+      "raw": null,
+      "value": 14881527,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K21",
+      "formula": null,
+      "raw": 1957979,
+      "value": 1957979,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "M21",
+      "formula": "=E21*K21",
+      "raw": null,
+      "value": 17621811,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "O21",
+      "formula": "=I21+M21",
+      "raw": null,
+      "value": 32503338,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "Q21",
+      "formula": "=O21",
+      "raw": null,
+      "value": 32503338,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "C23",
+      "formula": null,
+      "raw": "Aflibercept 2mg T&E",
+      "value": "Aflibercept 2mg T&E",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E23",
+      "formula": null,
+      "raw": 7,
+      "value": 7,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G23",
+      "formula": null,
+      "raw": 1926878,
+      "value": 1926878,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "I23",
+      "formula": "=E23*G23",
+      "raw": null,
+      "value": 13488146,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K23",
+      "formula": null,
+      "raw": 1957979,
+      "value": 1957979,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "M23",
+      "formula": "=E23*K23",
+      "raw": null,
+      "value": 13705853,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "O23",
+      "formula": "=I23+M23",
+      "raw": null,
+      "value": 27193999,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "Q23",
+      "formula": "=O23",
+      "raw": null,
+      "value": 27193999,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "C28",
+      "formula": null,
+      "raw": "*El costo total anual corresponde al costo del medicamento más el costo anual de administración.",
+      "value": "*El costo total anual corresponde al costo del medicamento más el costo anual de administración.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C29",
+      "formula": null,
+      "raw": "Celdas editables ",
+      "value": "Celdas editables ",
+      "style": {
+        "fill": "FF00B0F0",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    }
+  ]
+}

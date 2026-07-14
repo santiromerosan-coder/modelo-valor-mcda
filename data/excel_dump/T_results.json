@@ -1,0 +1,2233 @@
+{
+  "name": "T_results",
+  "state": "hidden",
+  "dimensions": "D5:L26",
+  "max_row": 26,
+  "max_col": 12,
+  "merged_ranges": [],
+  "cells": [
+    {
+      "ref": "D5",
+      "formula": null,
+      "raw": "Comparador",
+      "value": "Comparador",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E5",
+      "formula": null,
+      "raw": "Eficacia",
+      "value": "Eficacia",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F5",
+      "formula": null,
+      "raw": "Seguridad",
+      "value": "Seguridad",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G5",
+      "formula": null,
+      "raw": "PROs",
+      "value": "PROs",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H5",
+      "formula": null,
+      "raw": "Posicionamiento terapéutico",
+      "value": "Posicionamiento terapéutico",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I5",
+      "formula": null,
+      "raw": "Total global obtenido",
+      "value": "Total global obtenido",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "J5",
+      "formula": null,
+      "raw": "Costo anual tratamiento ",
+      "value": "Costo anual tratamiento ",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "K5",
+      "formula": null,
+      "raw": "Costo por beneficio neto ",
+      "value": "Costo por beneficio neto ",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D6",
+      "formula": null,
+      "raw": "Aflibercept 2mg T&E",
+      "value": "Aflibercept 2mg T&E",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E6",
+      "formula": null,
+      "raw": 48.29,
+      "value": 48.29,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "F6",
+      "formula": null,
+      "raw": 66.64,
+      "value": 66.64,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "G6",
+      "formula": null,
+      "raw": 0,
+      "value": 0,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "H6",
+      "formula": null,
+      "raw": 100,
+      "value": 100,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "I6",
+      "formula": null,
+      "raw": 55.22,
+      "value": 55.22,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "J6",
+      "formula": "=Input_costo2!O23",
+      "raw": null,
+      "value": 27193999,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-\"$\"\\ * #,##0.00_-;\\-\"$\"\\ * #,##0.00_-;_-\"$\"\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K6",
+      "formula": "=J6/I6",
+      "raw": null,
+      "value": 492466.4795363999,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "D7",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  T&E",
+      "value": "Ranibizumab  0.5 mg  T&E",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E7",
+      "formula": null,
+      "raw": 48.29,
+      "value": 48.29,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "F7",
+      "formula": null,
+      "raw": 48.09,
+      "value": 48.09,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "G7",
+      "formula": null,
+      "raw": 54.55,
+      "value": 54.55,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "H7",
+      "formula": null,
+      "raw": 100,
+      "value": 100,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "I7",
+      "formula": null,
+      "raw": 52.5,
+      "value": 52.5,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "J7",
+      "formula": "=Input_costo2!O21",
+      "raw": null,
+      "value": 32503338,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-\"$\"\\ * #,##0.00_-;\\-\"$\"\\ * #,##0.00_-;_-\"$\"\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K7",
+      "formula": "=J7/I7",
+      "raw": null,
+      "value": 619111.2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "D8",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q4)",
+      "value": "Aflibercept 2mg (q4)",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E8",
+      "formula": null,
+      "raw": 64.86,
+      "value": 64.86,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "F8",
+      "formula": null,
+      "raw": 20,
+      "value": 20,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "G8",
+      "formula": null,
+      "raw": 100,
+      "value": 100,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "H8",
+      "formula": null,
+      "raw": 100,
+      "value": 100,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "I8",
+      "formula": null,
+      "raw": 50.1,
+      "value": 50.1,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "J8",
+      "formula": "=Input_costo2!O19",
+      "raw": null,
+      "value": 46618284,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-\"$\"\\ * #,##0.00_-;\\-\"$\"\\ * #,##0.00_-;_-\"$\"\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K8",
+      "formula": "=J8/I8",
+      "raw": null,
+      "value": 930504.6706586826,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "D9",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q8)",
+      "value": "Aflibercept 2mg (q8)",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E9",
+      "formula": null,
+      "raw": 64.86,
+      "value": 64.86,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "F9",
+      "formula": null,
+      "raw": 71.91,
+      "value": 71.91,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "G9",
+      "formula": null,
+      "raw": 100,
+      "value": 100,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "H9",
+      "formula": null,
+      "raw": 100,
+      "value": 100,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "I9",
+      "formula": null,
+      "raw": 74.5,
+      "value": 74.5,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "J9",
+      "formula": "=Input_costo2!O11",
+      "raw": null,
+      "value": 31078856,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-\"$\"\\ * #,##0.00_-;\\-\"$\"\\ * #,##0.00_-;_-\"$\"\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K9",
+      "formula": "=J9/I9",
+      "raw": null,
+      "value": 417165.8523489933,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "D10",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  (q4)",
+      "value": "Ranibizumab  0.5 mg  (q4)",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E10",
+      "formula": null,
+      "raw": 88.29,
+      "value": 88.29,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "F10",
+      "formula": null,
+      "raw": 53.36,
+      "value": 53.36,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "G10",
+      "formula": null,
+      "raw": 100,
+      "value": 100,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "H10",
+      "formula": null,
+      "raw": 100,
+      "value": 100,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "I10",
+      "formula": null,
+      "raw": 73.98,
+      "value": 73.98,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "J10",
+      "formula": "=Input_costo2!O13",
+      "raw": null,
+      "value": 43337784,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-\"$\"\\ * #,##0.00_-;\\-\"$\"\\ * #,##0.00_-;_-\"$\"\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K10",
+      "formula": "=J10/I10",
+      "raw": null,
+      "value": 585804.0551500405,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "D11",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q16)",
+      "value": "Aflibercept 8mg (q16)",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E11",
+      "formula": null,
+      "raw": 48.29,
+      "value": 48.29,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "F11",
+      "formula": null,
+      "raw": 66.64,
+      "value": 66.64,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "G11",
+      "formula": null,
+      "raw": 54.55,
+      "value": 54.55,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "H11",
+      "formula": null,
+      "raw": 100,
+      "value": 100,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "I11",
+      "formula": null,
+      "raw": 61.22,
+      "value": 61.22,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "J11",
+      "formula": "=Input_costo2!O15",
+      "raw": null,
+      "value": 19424285,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-\"$\"\\ * #,##0.00_-;\\-\"$\"\\ * #,##0.00_-;_-\"$\"\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K11",
+      "formula": "=J11/I11",
+      "raw": null,
+      "value": 317286.58934988565,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "D12",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q12)",
+      "value": "Aflibercept 8mg (q12)",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E12",
+      "formula": null,
+      "raw": 48.29,
+      "value": 48.29,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "F12",
+      "formula": null,
+      "raw": 43.32,
+      "value": 43.32,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "G12",
+      "formula": null,
+      "raw": 54.55,
+      "value": 54.55,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "H12",
+      "formula": null,
+      "raw": 100,
+      "value": 100,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "I12",
+      "formula": null,
+      "raw": 50.26,
+      "value": 50.26,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "J12",
+      "formula": "=Input_costo2!O17",
+      "raw": null,
+      "value": 23309142,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-\"$\"\\ * #,##0.00_-;\\-\"$\"\\ * #,##0.00_-;_-\"$\"\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K12",
+      "formula": "=J12/I12",
+      "raw": null,
+      "value": 463771.22960604855,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "D13",
+      "formula": null,
+      "raw": "Faricimab 6mg (q16)",
+      "value": "Faricimab 6mg (q16)",
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E13",
+      "formula": null,
+      "raw": 36.57,
+      "value": 36.57,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "F13",
+      "formula": null,
+      "raw": 47.4,
+      "value": 47.4,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "G13",
+      "formula": null,
+      "raw": 54.55,
+      "value": 54.55,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "H13",
+      "formula": null,
+      "raw": 100,
+      "value": 100,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "I13",
+      "formula": null,
+      "raw": 48.08,
+      "value": 48.08,
+      "style": {
+        "fill": null,
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "0.00"
+      }
+    },
+    {
+      "ref": "J13",
+      "formula": "=Input_costo2!O9",
+      "raw": null,
+      "value": 26163282,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 12.0,
+        "number_format": "_-\"$\"\\ * #,##0.00_-;\\-\"$\"\\ * #,##0.00_-;_-\"$\"\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "K13",
+      "formula": "=J13/I13",
+      "raw": null,
+      "value": 544161.4392678869,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "_-[$$-240A]\\ * #,##0.00_-;\\-[$$-240A]\\ * #,##0.00_-;_-[$$-240A]\\ * \"-\"??_-;_-@_-"
+      }
+    },
+    {
+      "ref": "D16",
+      "formula": "=Matriz_Medicamentos!A1",
+      "raw": null,
+      "value": "Criterio",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E16",
+      "formula": "=Matriz_Medicamentos!B1",
+      "raw": null,
+      "value": "Aflibercept 2mg T&E",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F16",
+      "formula": "=Matriz_Medicamentos!C1",
+      "raw": null,
+      "value": "Ranibizumab  0.5 mg  T&E",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G16",
+      "formula": "=Matriz_Medicamentos!D1",
+      "raw": null,
+      "value": "Aflibercept 2mg (q4)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H16",
+      "formula": "=Matriz_Medicamentos!E1",
+      "raw": null,
+      "value": "Aflibercept 2mg (q8)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I16",
+      "formula": "=Matriz_Medicamentos!F1",
+      "raw": null,
+      "value": "Ranibizumab  0.5 mg  (q4)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "J16",
+      "formula": "=Matriz_Medicamentos!G1",
+      "raw": null,
+      "value": "Aflibercept 8mg (q16)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "K16",
+      "formula": "=Matriz_Medicamentos!H1",
+      "raw": null,
+      "value": "Aflibercept 8mg (q12)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "L16",
+      "formula": "=Matriz_Medicamentos!I1",
+      "raw": null,
+      "value": "Faricimab 6mg (q16)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D17",
+      "formula": "=Matriz_Medicamentos!A2",
+      "raw": null,
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E17",
+      "formula": "=Matriz_Medicamentos!B2",
+      "raw": null,
+      "value": 2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F17",
+      "formula": "=Matriz_Medicamentos!C2",
+      "raw": null,
+      "value": 2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G17",
+      "formula": "=Matriz_Medicamentos!D2",
+      "raw": null,
+      "value": 2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H17",
+      "formula": "=Matriz_Medicamentos!E2",
+      "raw": null,
+      "value": 2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I17",
+      "formula": "=Matriz_Medicamentos!F2",
+      "raw": null,
+      "value": 4,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "J17",
+      "formula": "=Matriz_Medicamentos!G2",
+      "raw": null,
+      "value": 2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "K17",
+      "formula": "=Matriz_Medicamentos!H2",
+      "raw": null,
+      "value": 2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "L17",
+      "formula": "=Matriz_Medicamentos!I2",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D18",
+      "formula": "=Matriz_Medicamentos!A3",
+      "raw": null,
+      "value": "Pacientes con ganancia ≥15 letras en BCVA",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E18",
+      "formula": "=Matriz_Medicamentos!B3",
+      "raw": null,
+      "value": 3,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F18",
+      "formula": "=Matriz_Medicamentos!C3",
+      "raw": null,
+      "value": 3,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G18",
+      "formula": "=Matriz_Medicamentos!D3",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H18",
+      "formula": "=Matriz_Medicamentos!E3",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I18",
+      "formula": "=Matriz_Medicamentos!F3",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "J18",
+      "formula": "=Matriz_Medicamentos!G3",
+      "raw": null,
+      "value": 3,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "K18",
+      "formula": "=Matriz_Medicamentos!H3",
+      "raw": null,
+      "value": 3,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "L18",
+      "formula": "=Matriz_Medicamentos!I3",
+      "raw": null,
+      "value": 3,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D19",
+      "formula": "=Matriz_Medicamentos!A4",
+      "raw": null,
+      "value": "Desprendimiento de retina ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E19",
+      "formula": "=Matriz_Medicamentos!B4",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F19",
+      "formula": "=Matriz_Medicamentos!C4",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G19",
+      "formula": "=Matriz_Medicamentos!D4",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H19",
+      "formula": "=Matriz_Medicamentos!E4",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I19",
+      "formula": "=Matriz_Medicamentos!F4",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "J19",
+      "formula": "=Matriz_Medicamentos!G4",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "K19",
+      "formula": "=Matriz_Medicamentos!H4",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "L19",
+      "formula": "=Matriz_Medicamentos!I4",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D20",
+      "formula": "=Matriz_Medicamentos!A5",
+      "raw": null,
+      "value": "Infarto agudo de miocardio",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E20",
+      "formula": "=Matriz_Medicamentos!B5",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F20",
+      "formula": "=Matriz_Medicamentos!C5",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G20",
+      "formula": "=Matriz_Medicamentos!D5",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H20",
+      "formula": "=Matriz_Medicamentos!E5",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I20",
+      "formula": "=Matriz_Medicamentos!F5",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "J20",
+      "formula": "=Matriz_Medicamentos!G5",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "K20",
+      "formula": "=Matriz_Medicamentos!H5",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "L20",
+      "formula": "=Matriz_Medicamentos!I5",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D21",
+      "formula": "=Matriz_Medicamentos!A6",
+      "raw": null,
+      "value": "Endoftalmitis",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E21",
+      "formula": "=Matriz_Medicamentos!B6",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F21",
+      "formula": "=Matriz_Medicamentos!C6",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G21",
+      "formula": "=Matriz_Medicamentos!D6",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H21",
+      "formula": "=Matriz_Medicamentos!E6",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I21",
+      "formula": "=Matriz_Medicamentos!F6",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "J21",
+      "formula": "=Matriz_Medicamentos!G6",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "K21",
+      "formula": "=Matriz_Medicamentos!H6",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "L21",
+      "formula": "=Matriz_Medicamentos!I6",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D22",
+      "formula": "=Matriz_Medicamentos!A7",
+      "raw": null,
+      "value": "Supresión sistémica de VEGF",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E22",
+      "formula": "=Matriz_Medicamentos!B7",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F22",
+      "formula": "=Matriz_Medicamentos!C7",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G22",
+      "formula": "=Matriz_Medicamentos!D7",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H22",
+      "formula": "=Matriz_Medicamentos!E7",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I22",
+      "formula": "=Matriz_Medicamentos!F7",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "J22",
+      "formula": "=Matriz_Medicamentos!G7",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "K22",
+      "formula": "=Matriz_Medicamentos!H7",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "L22",
+      "formula": "=Matriz_Medicamentos!I7",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D23",
+      "formula": "=Matriz_Medicamentos!A8",
+      "raw": null,
+      "value": "Calidad de vida relacionada con la salud",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E23",
+      "formula": "=Matriz_Medicamentos!B8",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F23",
+      "formula": "=Matriz_Medicamentos!C8",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G23",
+      "formula": "=Matriz_Medicamentos!D8",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H23",
+      "formula": "=Matriz_Medicamentos!E8",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I23",
+      "formula": "=Matriz_Medicamentos!F8",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "J23",
+      "formula": "=Matriz_Medicamentos!G8",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "K23",
+      "formula": "=Matriz_Medicamentos!H8",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "L23",
+      "formula": "=Matriz_Medicamentos!I8",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D24",
+      "formula": "=Matriz_Medicamentos!A9",
+      "raw": null,
+      "value": "Discapacidad / capacidad funcional",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E24",
+      "formula": "=Matriz_Medicamentos!B9",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F24",
+      "formula": "=Matriz_Medicamentos!C9",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G24",
+      "formula": "=Matriz_Medicamentos!D9",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H24",
+      "formula": "=Matriz_Medicamentos!E9",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I24",
+      "formula": "=Matriz_Medicamentos!F9",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "J24",
+      "formula": "=Matriz_Medicamentos!G9",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "K24",
+      "formula": "=Matriz_Medicamentos!H9",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "L24",
+      "formula": "=Matriz_Medicamentos!I9",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D25",
+      "formula": "=Matriz_Medicamentos!A10",
+      "raw": null,
+      "value": "Estado de aprobación regulatoria",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E25",
+      "formula": "=Matriz_Medicamentos!B10",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F25",
+      "formula": "=Matriz_Medicamentos!C10",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G25",
+      "formula": "=Matriz_Medicamentos!D10",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H25",
+      "formula": "=Matriz_Medicamentos!E10",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I25",
+      "formula": "=Matriz_Medicamentos!F10",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "J25",
+      "formula": "=Matriz_Medicamentos!G10",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "K25",
+      "formula": "=Matriz_Medicamentos!H10",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "L25",
+      "formula": "=Matriz_Medicamentos!I10",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D26",
+      "formula": "=Matriz_Medicamentos!A11",
+      "raw": null,
+      "value": "Inclusión en guías de práctica clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E26",
+      "formula": "=Matriz_Medicamentos!B11",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F26",
+      "formula": "=Matriz_Medicamentos!C11",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G26",
+      "formula": "=Matriz_Medicamentos!D11",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H26",
+      "formula": "=Matriz_Medicamentos!E11",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "I26",
+      "formula": "=Matriz_Medicamentos!F11",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "J26",
+      "formula": "=Matriz_Medicamentos!G11",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "K26",
+      "formula": "=Matriz_Medicamentos!H11",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "L26",
+      "formula": "=Matriz_Medicamentos!I11",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    }
+  ]
+}

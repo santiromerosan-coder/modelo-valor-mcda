@@ -1,0 +1,1362 @@
+{
+  "name": "Parametros",
+  "state": "hidden",
+  "dimensions": "A5:D31",
+  "max_row": 31,
+  "max_col": 4,
+  "merged_ranges": [],
+  "cells": [
+    {
+      "ref": "A5",
+      "formula": null,
+      "raw": "Dominio",
+      "value": "Dominio",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B5",
+      "formula": null,
+      "raw": "Criterio",
+      "value": "Criterio",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C5",
+      "formula": null,
+      "raw": "Nivel",
+      "value": "Nivel",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D5",
+      "formula": null,
+      "raw": "Valor",
+      "value": "Valor",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A6",
+      "formula": null,
+      "raw": "Eficacia clínica",
+      "value": "Eficacia clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B6",
+      "formula": null,
+      "raw": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C6",
+      "formula": null,
+      "raw": "0–5 letras",
+      "value": "0–5 letras",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D6",
+      "formula": null,
+      "raw": 1,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A7",
+      "formula": null,
+      "raw": "Eficacia clínica",
+      "value": "Eficacia clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B7",
+      "formula": null,
+      "raw": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C7",
+      "formula": null,
+      "raw": "6–10 letras",
+      "value": "6–10 letras",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D7",
+      "formula": null,
+      "raw": 2,
+      "value": 2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A8",
+      "formula": null,
+      "raw": "Eficacia clínica",
+      "value": "Eficacia clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B8",
+      "formula": null,
+      "raw": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C8",
+      "formula": null,
+      "raw": "11–15 letras",
+      "value": "11–15 letras",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D8",
+      "formula": null,
+      "raw": 4,
+      "value": 4,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A9",
+      "formula": null,
+      "raw": "Eficacia clínica",
+      "value": "Eficacia clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B9",
+      "formula": null,
+      "raw": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C9",
+      "formula": null,
+      "raw": ">15 letras",
+      "value": ">15 letras",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D9",
+      "formula": null,
+      "raw": 5,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A10",
+      "formula": null,
+      "raw": "Eficacia clínica",
+      "value": "Eficacia clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B10",
+      "formula": null,
+      "raw": "Pacientes con ganancia ≥15 letras en BCVA",
+      "value": "Pacientes con ganancia ≥15 letras en BCVA",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C10",
+      "formula": null,
+      "raw": "0–15% pacientes",
+      "value": "0–15% pacientes",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D10",
+      "formula": null,
+      "raw": 1,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A11",
+      "formula": null,
+      "raw": "Eficacia clínica",
+      "value": "Eficacia clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B11",
+      "formula": null,
+      "raw": "Pacientes con ganancia ≥15 letras en BCVA",
+      "value": "Pacientes con ganancia ≥15 letras en BCVA",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C11",
+      "formula": null,
+      "raw": "16–30% pacientes",
+      "value": "16–30% pacientes",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D11",
+      "formula": null,
+      "raw": 3,
+      "value": 3,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A12",
+      "formula": null,
+      "raw": "Eficacia clínica",
+      "value": "Eficacia clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B12",
+      "formula": null,
+      "raw": "Pacientes con ganancia ≥15 letras en BCVA",
+      "value": "Pacientes con ganancia ≥15 letras en BCVA",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C12",
+      "formula": null,
+      "raw": ">30% pacientes",
+      "value": ">30% pacientes",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D12",
+      "formula": null,
+      "raw": 5,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A13",
+      "formula": null,
+      "raw": "Seguridad",
+      "value": "Seguridad",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B13",
+      "formula": null,
+      "raw": "Desprendimiento de retina ",
+      "value": "Desprendimiento de retina ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C13",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D13",
+      "formula": null,
+      "raw": 1,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A14",
+      "formula": null,
+      "raw": "Seguridad",
+      "value": "Seguridad",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B14",
+      "formula": null,
+      "raw": "Desprendimiento de retina ",
+      "value": "Desprendimiento de retina ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C14",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D14",
+      "formula": null,
+      "raw": 5,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A15",
+      "formula": null,
+      "raw": "Seguridad",
+      "value": "Seguridad",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B15",
+      "formula": null,
+      "raw": "Infarto agudo de miocardio",
+      "value": "Infarto agudo de miocardio",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C15",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D15",
+      "formula": null,
+      "raw": 1,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A16",
+      "formula": null,
+      "raw": "Seguridad",
+      "value": "Seguridad",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B16",
+      "formula": null,
+      "raw": "Infarto agudo de miocardio",
+      "value": "Infarto agudo de miocardio",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C16",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D16",
+      "formula": null,
+      "raw": 5,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A17",
+      "formula": null,
+      "raw": "Seguridad",
+      "value": "Seguridad",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B17",
+      "formula": null,
+      "raw": "Endoftalmitis",
+      "value": "Endoftalmitis",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C17",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D17",
+      "formula": null,
+      "raw": 1,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A18",
+      "formula": null,
+      "raw": "Seguridad",
+      "value": "Seguridad",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B18",
+      "formula": null,
+      "raw": "Endoftalmitis",
+      "value": "Endoftalmitis",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C18",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D18",
+      "formula": null,
+      "raw": 5,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A19",
+      "formula": null,
+      "raw": "Farmacocinética",
+      "value": "Farmacocinética",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B19",
+      "formula": null,
+      "raw": "Supresión sistémica de VEGF",
+      "value": "Supresión sistémica de VEGF",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C19",
+      "formula": null,
+      "raw": "Prolongada ",
+      "value": "Prolongada ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D19",
+      "formula": null,
+      "raw": 1,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A20",
+      "formula": null,
+      "raw": "Farmacocinética",
+      "value": "Farmacocinética",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B20",
+      "formula": null,
+      "raw": "Supresión sistémica de VEGF",
+      "value": "Supresión sistémica de VEGF",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C20",
+      "formula": null,
+      "raw": "No prolongada ",
+      "value": "No prolongada ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D20",
+      "formula": null,
+      "raw": 5,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A21",
+      "formula": null,
+      "raw": "PROs",
+      "value": "PROs",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B21",
+      "formula": null,
+      "raw": "Calidad de vida relacionada con la salud",
+      "value": "Calidad de vida relacionada con la salud",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C21",
+      "formula": null,
+      "raw": "Empeoramiento",
+      "value": "Empeoramiento",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D21",
+      "formula": null,
+      "raw": 1,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A22",
+      "formula": null,
+      "raw": "PROs",
+      "value": "PROs",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B22",
+      "formula": null,
+      "raw": "Calidad de vida relacionada con la salud",
+      "value": "Calidad de vida relacionada con la salud",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C22",
+      "formula": null,
+      "raw": "Sin efecto",
+      "value": "Sin efecto",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D22",
+      "formula": null,
+      "raw": 3,
+      "value": 3,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A23",
+      "formula": null,
+      "raw": "PROs",
+      "value": "PROs",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B23",
+      "formula": null,
+      "raw": "Calidad de vida relacionada con la salud",
+      "value": "Calidad de vida relacionada con la salud",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C23",
+      "formula": null,
+      "raw": "Mejoría",
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D23",
+      "formula": null,
+      "raw": 5,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A24",
+      "formula": null,
+      "raw": "PROs",
+      "value": "PROs",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B24",
+      "formula": null,
+      "raw": "Discapacidad / capacidad funcional",
+      "value": "Discapacidad / capacidad funcional",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C24",
+      "formula": null,
+      "raw": "Empeoramiento",
+      "value": "Empeoramiento",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D24",
+      "formula": null,
+      "raw": 1,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A25",
+      "formula": null,
+      "raw": "PROs",
+      "value": "PROs",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B25",
+      "formula": null,
+      "raw": "Discapacidad / capacidad funcional",
+      "value": "Discapacidad / capacidad funcional",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C25",
+      "formula": null,
+      "raw": "Sin efecto",
+      "value": "Sin efecto",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D25",
+      "formula": null,
+      "raw": 3,
+      "value": 3,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A26",
+      "formula": null,
+      "raw": "PROs",
+      "value": "PROs",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B26",
+      "formula": null,
+      "raw": "Discapacidad / capacidad funcional",
+      "value": "Discapacidad / capacidad funcional",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C26",
+      "formula": null,
+      "raw": "Mejoría",
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D26",
+      "formula": null,
+      "raw": 5,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A27",
+      "formula": null,
+      "raw": "Organizativo",
+      "value": "Organizativo",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B27",
+      "formula": null,
+      "raw": "Estado de aprobación regulatoria",
+      "value": "Estado de aprobación regulatoria",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C27",
+      "formula": null,
+      "raw": "Off-label",
+      "value": "Off-label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D27",
+      "formula": null,
+      "raw": 1,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A28",
+      "formula": null,
+      "raw": "Organizativo",
+      "value": "Organizativo",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B28",
+      "formula": null,
+      "raw": "Estado de aprobación regulatoria",
+      "value": "Estado de aprobación regulatoria",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C28",
+      "formula": null,
+      "raw": "On-label",
+      "value": "On-label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D28",
+      "formula": null,
+      "raw": 5,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A29",
+      "formula": null,
+      "raw": "Organizativo",
+      "value": "Organizativo",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B29",
+      "formula": null,
+      "raw": "Inclusión en guías de práctica clínica",
+      "value": "Inclusión en guías de práctica clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C29",
+      "formula": null,
+      "raw": "No incluido",
+      "value": "No incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D29",
+      "formula": null,
+      "raw": 1,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A30",
+      "formula": null,
+      "raw": "Organizativo",
+      "value": "Organizativo",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B30",
+      "formula": null,
+      "raw": "Inclusión en guías de práctica clínica",
+      "value": "Inclusión en guías de práctica clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C30",
+      "formula": null,
+      "raw": "Incluido",
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D30",
+      "formula": null,
+      "raw": 5,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1052 @@
+{
+  "name": "Referencias",
+  "state": "visible",
+  "dimensions": "A4:C70",
+  "max_row": 70,
+  "max_col": 3,
+  "merged_ranges": [
+    "A48:A49",
+    "B47:C47",
+    "B16:C16",
+    "A24:A25",
+    "B54:C54",
+    "B25:C25",
+    "B62:C62",
+    "B59:C59",
+    "A60:A61",
+    "A69:A70",
+    "B46:C46",
+    "B22:C22",
+    "B66:C66",
+    "B31:C31",
+    "B56:C56",
+    "B58:C58",
+    "B39:C39",
+    "B12:C12",
+    "B52:C52",
+    "B21:C21",
+    "B48:C48",
+    "B70:C70",
+    "B11:C11",
+    "B67:C67",
+    "A55:A56",
+    "B23:C23",
+    "B61:C61",
+    "A46:A47",
+    "B14:C14",
+    "B60:C60",
+    "B53:C53",
+    "B13:C13",
+    "B69:C69",
+    "A32:A33",
+    "B38:C38",
+    "B44:C44",
+    "B29:C29",
+    "A22:A23",
+    "A13:A14",
+    "B19:C19",
+    "B37:C37",
+    "B28:C28",
+    "B40:C40",
+    "B9:C9",
+    "B49:C49",
+    "A62:A63",
+    "B65:C65",
+    "A53:A54",
+    "B55:C55",
+    "B24:C24",
+    "B30:C30",
+    "A38:A39",
+    "B15:C15",
+    "B33:C33",
+    "B68:C68",
+    "B51:C51",
+    "B45:C45",
+    "A15:A16",
+    "B36:C36",
+    "B32:C32",
+    "B63:C63",
+    "B41:C41",
+    "A40:A41",
+    "A67:A68",
+    "B4:C4",
+    "A30:A31"
+  ],
+  "cells": [
+    {
+      "ref": "B4",
+      "formula": null,
+      "raw": "Referencias ",
+      "value": "Referencias ",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B9",
+      "formula": null,
+      "raw": "Aflibercept 2mg T&E",
+      "value": "Aflibercept 2mg T&E",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A11",
+      "formula": null,
+      "raw": "Eficacia ",
+      "value": "Eficacia ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B11",
+      "formula": null,
+      "raw": "1. Silva, Rufino, et al. \"Treat-and-extend versus monthly regimen in neovascular age-related macular degeneration: results with ranibizumab from the TREND study.\" Ophthalmology 125.1 (2018): 57-65.",
+      "value": "1. Silva, Rufino, et al. \"Treat-and-extend versus monthly regimen in neovascular age-related macular degeneration: results with ranibizumab from the TREND study.\" Ophthalmology 125.1 (2018): 57-65.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A12",
+      "formula": null,
+      "raw": "Seguridad ",
+      "value": "Seguridad ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B12",
+      "formula": null,
+      "raw": "2. Clinical trials-ARIES:NCT02581891",
+      "value": "2. Clinical trials-ARIES:NCT02581891",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A13",
+      "formula": null,
+      "raw": "Supresión VEGF ",
+      "value": "Supresión VEGF ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B13",
+      "formula": null,
+      "raw": "3.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "value": "3.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B14",
+      "formula": null,
+      "raw": "4. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "value": "4. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A15",
+      "formula": null,
+      "raw": "Posicionamiento terpéutico ",
+      "value": "Posicionamiento terpéutico ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B15",
+      "formula": null,
+      "raw": "5. INVIMA 2025MBT-0000160",
+      "value": "5. INVIMA 2025MBT-0000160",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B16",
+      "formula": null,
+      "raw": "6. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "6. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B19",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  T&E",
+      "value": "Ranibizumab  0.5 mg  T&E",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A21",
+      "formula": null,
+      "raw": "Eficacia, Seguridad, PROs ",
+      "value": "Eficacia, Seguridad, PROs ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B21",
+      "formula": null,
+      "raw": "1. Clinical trials-TREND: NCT01948830",
+      "value": "1. Clinical trials-TREND: NCT01948830",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A22",
+      "formula": null,
+      "raw": "Supresión VEGF ",
+      "value": "Supresión VEGF ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B22",
+      "formula": null,
+      "raw": "2.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "value": "2.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B23",
+      "formula": null,
+      "raw": "3. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "value": "3. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A24",
+      "formula": null,
+      "raw": "Posicionamiento terpéutico ",
+      "value": "Posicionamiento terpéutico ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B24",
+      "formula": null,
+      "raw": "4. INVIMA 2018M-0007158-R1",
+      "value": "4. INVIMA 2018M-0007158-R1",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B25",
+      "formula": null,
+      "raw": "5. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "5. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B28",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q8)",
+      "value": "Aflibercept 2mg (q8)",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A29",
+      "formula": null,
+      "raw": "Eficacia, Seguridad, PROs ",
+      "value": "Eficacia, Seguridad, PROs ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B29",
+      "formula": null,
+      "raw": "1. Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.\n2. Clinical trial NCT00637377\n3. Yuzawa, Mitsuko, et al. \"Improvement in vision-related function with intravitreal aflibercept: data from phase 3 studies in wet age-related macular degeneration.\" Ophthalmology 122.3 (2015): 571-578.",
+      "value": "1. Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.\n2. Clinical trial NCT00637377\n3. Yuzawa, Mitsuko, et al. \"Improvement in vision-related function with intravitreal aflibercept: data from phase 3 studies in wet age-related macular degeneration.\" Ophthalmology 122.3 (2015): 571-578.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A30",
+      "formula": null,
+      "raw": "Supresión VEGF ",
+      "value": "Supresión VEGF ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B30",
+      "formula": null,
+      "raw": "4.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "value": "4.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B31",
+      "formula": null,
+      "raw": "5. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "value": "5. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A32",
+      "formula": null,
+      "raw": "Posicionamiento terpéutico ",
+      "value": "Posicionamiento terpéutico ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B32",
+      "formula": null,
+      "raw": "6. INVIMA 2025MBT-0000160",
+      "value": "6. INVIMA 2025MBT-0000160",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B33",
+      "formula": null,
+      "raw": "7. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "7. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B36",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q4)",
+      "value": "Aflibercept 2mg (q4)",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A37",
+      "formula": null,
+      "raw": "Eficacia, Seguridad, PROs ",
+      "value": "Eficacia, Seguridad, PROs ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B37",
+      "formula": null,
+      "raw": "1. Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.\n\n2. Clinical trial NCT00637377\n\n3.Yuzawa, Mitsuko, et al. \"Improvement in vision-related function with intravitreal aflibercept: data from phase 3 studies in wet age-related macular degeneration.\" Ophthalmology 122.3 (2015): 571-578.",
+      "value": "1. Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.\n\n2. Clinical trial NCT00637377\n\n3.Yuzawa, Mitsuko, et al. \"Improvement in vision-related function with intravitreal aflibercept: data from phase 3 studies in wet age-related macular degeneration.\" Ophthalmology 122.3 (2015): 571-578.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A38",
+      "formula": null,
+      "raw": "Supresión VEGF ",
+      "value": "Supresión VEGF ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B38",
+      "formula": null,
+      "raw": "4.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "value": "4.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B39",
+      "formula": null,
+      "raw": "5. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "value": "5. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A40",
+      "formula": null,
+      "raw": "Posicionamiento terpéutico ",
+      "value": "Posicionamiento terpéutico ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B40",
+      "formula": null,
+      "raw": "6. INVIMA 2025MBT-0000160",
+      "value": "6. INVIMA 2025MBT-0000160",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B41",
+      "formula": null,
+      "raw": "7. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "7. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B44",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  (q4)",
+      "value": "Ranibizumab  0.5 mg  (q4)",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A45",
+      "formula": null,
+      "raw": "Eficacia, Seguridad, PROs ",
+      "value": "Eficacia, Seguridad, PROs ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B45",
+      "formula": null,
+      "raw": "1. Brown, David M., et al. \"Ranibizumab versus verteporfin photodynamic therapy for neovascular age-related macular degeneration: two-year results of the ANCHOR study.\" Ophthalmology 116.1 (2009): 57-65.\n\n2. Bressler, Neil M., et al. \"Improved vision-related function after ranibizumab vs photodynamic therapy: a randomized clinical trial.\" Archives of Ophthalmology 127.1 (2009): 13-21.",
+      "value": "1. Brown, David M., et al. \"Ranibizumab versus verteporfin photodynamic therapy for neovascular age-related macular degeneration: two-year results of the ANCHOR study.\" Ophthalmology 116.1 (2009): 57-65.\n\n2. Bressler, Neil M., et al. \"Improved vision-related function after ranibizumab vs photodynamic therapy: a randomized clinical trial.\" Archives of Ophthalmology 127.1 (2009): 13-21.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A46",
+      "formula": null,
+      "raw": "Supresión VEGF ",
+      "value": "Supresión VEGF ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B46",
+      "formula": null,
+      "raw": "3.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "value": "3.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B47",
+      "formula": null,
+      "raw": "4. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "value": "4. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A48",
+      "formula": null,
+      "raw": "Posicionamiento terpéutico ",
+      "value": "Posicionamiento terpéutico ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B48",
+      "formula": null,
+      "raw": "5.INVIMA 2018M-0007158-R1",
+      "value": "5.INVIMA 2018M-0007158-R1",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B49",
+      "formula": null,
+      "raw": "6. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "6. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B51",
+      "formula": null,
+      "raw": "Faricimab 6mg (q16)",
+      "value": "Faricimab 6mg (q16)",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A52",
+      "formula": null,
+      "raw": "Eficacia, Seguridad, PROs ",
+      "value": "Eficacia, Seguridad, PROs ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B52",
+      "formula": null,
+      "raw": "1. Clinical trials NCT03823300\n2. EPAR-EMA\n3. Khanani AM, Kotecha A, Chang A, Chen SJ, Chen Y, Guymer R, Heier JS, Holz FG, Iida T, Ives JA, Lim JI. TENAYA and LUCERNE: two-year results from the phase 3 neovascular age-related macular degeneration trials of faricimab with treat-and-extend dosing in year 2. Ophthalmology. 2024 Aug 1;131(8):914-26.\n4. CADTH Reimbursement Review Faricimab (Vabysmo) Sponsor: Hoffmann-La Roche Ltd. Therapeutic area: Macular degeneration, age-related",
+      "value": "1. Clinical trials NCT03823300\n2. EPAR-EMA\n3. Khanani AM, Kotecha A, Chang A, Chen SJ, Chen Y, Guymer R, Heier JS, Holz FG, Iida T, Ives JA, Lim JI. TENAYA and LUCERNE: two-year results from the phase 3 neovascular age-related macular degeneration trials of faricimab with treat-and-extend dosing in year 2. Ophthalmology. 2024 Aug 1;131(8):914-26.\n4. CADTH Reimbursement Review Faricimab (Vabysmo) Sponsor: Hoffmann-La Roche Ltd. Therapeutic area: Macular degeneration, age-related",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A53",
+      "formula": null,
+      "raw": "Supresión VEGF ",
+      "value": "Supresión VEGF ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B53",
+      "formula": null,
+      "raw": "5.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "value": "5.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B54",
+      "formula": null,
+      "raw": "6. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "value": "6. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A55",
+      "formula": null,
+      "raw": "Posicionamiento terpéutico ",
+      "value": "Posicionamiento terpéutico ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B55",
+      "formula": null,
+      "raw": "7. IINVIMA 2024MBT-0000108",
+      "value": "7. IINVIMA 2024MBT-0000108",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B56",
+      "formula": null,
+      "raw": "6. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "6. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B58",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q12)",
+      "value": "Aflibercept 8mg (q12)",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A59",
+      "formula": null,
+      "raw": "Eficacia, Seguridad, PROs ",
+      "value": "Eficacia, Seguridad, PROs ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B59",
+      "formula": null,
+      "raw": "1. Korobelnik, Jean-François, et al. \"Intravitreal aflibercept 8 mg in neovascular age-related macular degeneration: 96-week results from the randomized phase 3 PULSAR trial.\" Ophthalmology (2025)\n\n2. Clinical trials: NCT04423718",
+      "value": "1. Korobelnik, Jean-François, et al. \"Intravitreal aflibercept 8 mg in neovascular age-related macular degeneration: 96-week results from the randomized phase 3 PULSAR trial.\" Ophthalmology (2025)\n\n2. Clinical trials: NCT04423718",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A60",
+      "formula": null,
+      "raw": "Supresión VEGF ",
+      "value": "Supresión VEGF ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B60",
+      "formula": null,
+      "raw": "3.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "value": "3.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B61",
+      "formula": null,
+      "raw": "4. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "value": "4. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A62",
+      "formula": null,
+      "raw": "Posicionamiento terpéutico ",
+      "value": "Posicionamiento terpéutico ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B62",
+      "formula": null,
+      "raw": "5.INVIMA 2025MBT-0000160",
+      "value": "5.INVIMA 2025MBT-0000160",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B63",
+      "formula": null,
+      "raw": "6. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "6. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B65",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q16)",
+      "value": "Aflibercept 8mg (q16)",
+      "style": {
+        "fill": "FF173F82",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A66",
+      "formula": null,
+      "raw": "Eficacia, Seguridad, PROs ",
+      "value": "Eficacia, Seguridad, PROs ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B66",
+      "formula": null,
+      "raw": "1. Korobelnik, Jean-François, et al. \"Intravitreal aflibercept 8 mg in neovascular age-related macular degeneration: 96-week results from the randomized phase 3 PULSAR trial.\" Ophthalmology (2025)\n\n2. Clinical trials: NCT04423718",
+      "value": "1. Korobelnik, Jean-François, et al. \"Intravitreal aflibercept 8 mg in neovascular age-related macular degeneration: 96-week results from the randomized phase 3 PULSAR trial.\" Ophthalmology (2025)\n\n2. Clinical trials: NCT04423718",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A67",
+      "formula": null,
+      "raw": "Supresión VEGF ",
+      "value": "Supresión VEGF ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B67",
+      "formula": null,
+      "raw": "3.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "value": "3.Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B68",
+      "formula": null,
+      "raw": "4. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "value": "4. Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "A69",
+      "formula": null,
+      "raw": "Posicionamiento terpéutico ",
+      "value": "Posicionamiento terpéutico ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": true,
+        "font_color": "FF143778",
+        "font_size": 9.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B69",
+      "formula": null,
+      "raw": "5.INVIMA 2025MBT-0000160",
+      "value": "5.INVIMA 2025MBT-0000160",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "B70",
+      "formula": null,
+      "raw": "6. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "6. Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    }
+  ]
+}

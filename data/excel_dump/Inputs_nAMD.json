@@ -1,0 +1,5704 @@
+{
+  "name": "Inputs_nAMD ",
+  "state": "visible",
+  "dimensions": "C7:H138",
+  "max_row": 138,
+  "max_col": 8,
+  "merged_ranges": [],
+  "cells": [
+    {
+      "ref": "C8",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q16)",
+      "value": "Aflibercept 8mg (q16)",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C12",
+      "formula": null,
+      "raw": "Desenlace de interés",
+      "value": "Desenlace de interés",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D12",
+      "formula": null,
+      "raw": "Resultado ",
+      "value": "Resultado ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E12",
+      "formula": null,
+      "raw": "Valor ",
+      "value": "Valor ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F12",
+      "formula": null,
+      "raw": "Tiempo de seguimiento ",
+      "value": "Tiempo de seguimiento ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G12",
+      "formula": null,
+      "raw": "Referencia ",
+      "value": "Referencia ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H12",
+      "formula": null,
+      "raw": "Comentarios",
+      "value": "Comentarios",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C13",
+      "formula": null,
+      "raw": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D13",
+      "formula": null,
+      "raw": 5.6,
+      "value": 5.6,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E13",
+      "formula": "=IF(D13=\"\",0,IF(D13<=5,1,IF(D13<=10,2,IF(D13<=15,4,5))))",
+      "raw": null,
+      "value": 2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F13",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G13",
+      "formula": null,
+      "raw": "Korobelnik, Jean-François, et al. \"Intravitreal aflibercept 8 mg in neovascular age-related macular degeneration: 96-week results from the randomized phase 3 PULSAR trial.\" Ophthalmology (2025)",
+      "value": "Korobelnik, Jean-François, et al. \"Intravitreal aflibercept 8 mg in neovascular age-related macular degeneration: 96-week results from the randomized phase 3 PULSAR trial.\" Ophthalmology (2025)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C14",
+      "formula": null,
+      "raw": "Pacientes con ganancia ≥15 letras en BCVA",
+      "value": "Pacientes con ganancia ≥15 letras en BCVA",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D14",
+      "formula": null,
+      "raw": 21.7,
+      "value": 21.7,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E14",
+      "formula": "=IF(D14=\"\",0,IF(D14<=15,1,IF(D14<=30,3,5)))",
+      "raw": null,
+      "value": 3,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F14",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G14",
+      "formula": null,
+      "raw": "Clinical trials: NCT04423718",
+      "value": "Clinical trials: NCT04423718",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C15",
+      "formula": null,
+      "raw": "Desprendimiento de retina ",
+      "value": "Desprendimiento de retina ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D15",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E15",
+      "formula": "=IF(D15=\"Ocurrencia\",1,IF(D15=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F15",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G15",
+      "formula": null,
+      "raw": "Clinical trials: NCT04423718",
+      "value": "Clinical trials: NCT04423718",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H15",
+      "formula": null,
+      "raw": "Evento adverso serio3/338 (0.89%)\t",
+      "value": "Evento adverso serio3/338 (0.89%)\t",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C16",
+      "formula": null,
+      "raw": "Infarto agudo de miocardio",
+      "value": "Infarto agudo de miocardio",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D16",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E16",
+      "formula": "=IF(D16=\"Ocurrencia\",1,IF(D16=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F16",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G16",
+      "formula": null,
+      "raw": "Clinical trials: NCT04423718",
+      "value": "Clinical trials: NCT04423718",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C17",
+      "formula": null,
+      "raw": "Endoftalmitis",
+      "value": "Endoftalmitis",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D17",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E17",
+      "formula": "=IF(D17=\"Ocurrencia\",1,IF(D17=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F17",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G17",
+      "formula": null,
+      "raw": "Clinical trials: NCT04423718",
+      "value": "Clinical trials: NCT04423718",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C18",
+      "formula": null,
+      "raw": "Supresión sistémica de VEGF",
+      "value": "Supresión sistémica de VEGF",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D18",
+      "formula": null,
+      "raw": "Prolongada",
+      "value": "Prolongada",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E18",
+      "formula": "=IF(D18=\"Prolongada\",1,IF(D18=\"No prolongada\",5,IF(D18=\"NR\",0,\"\")))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G18",
+      "formula": null,
+      "raw": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y\n\n",
+      "value": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y\n\n",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C19",
+      "formula": null,
+      "raw": "Calidad de vida relacionada con la salud",
+      "value": "Calidad de vida relacionada con la salud",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D19",
+      "formula": null,
+      "raw": "Mejoría",
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E19",
+      "formula": "=IF(D19=\"Empeoramiento\",1,IF(D19=\"Sin efecto\",3,IF(D19=\"Mejoría\",5,IF(D19=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F19",
+      "formula": null,
+      "raw": "48 semanas ",
+      "value": "48 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G19",
+      "formula": null,
+      "raw": "Clinical trials: NCT04423718",
+      "value": "Clinical trials: NCT04423718",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H19",
+      "formula": null,
+      "raw": "NEI VFQ-25",
+      "value": "NEI VFQ-25",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C20",
+      "formula": null,
+      "raw": "Discapacidad / capacidad funcional",
+      "value": "Discapacidad / capacidad funcional",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D20",
+      "formula": null,
+      "raw": "NR",
+      "value": "NR",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E20",
+      "formula": "=IF(D20=\"Empeoramiento\",1,IF(D20=\"Sin efecto\",3,IF(D20=\"Mejoría\",5,IF(D20=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C21",
+      "formula": null,
+      "raw": "Estado de aprobación regulatoria",
+      "value": "Estado de aprobación regulatoria",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D21",
+      "formula": null,
+      "raw": "On-Label",
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E21",
+      "formula": "=IF(D21=\"Off-label\",1,IF(D21=\"On-label\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G21",
+      "formula": null,
+      "raw": "INVIMA 2025MBT-0000160",
+      "value": "INVIMA 2025MBT-0000160",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C22",
+      "formula": null,
+      "raw": "Inclusión en guías de práctica clínica",
+      "value": "Inclusión en guías de práctica clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D22",
+      "formula": null,
+      "raw": "Incluido",
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E22",
+      "formula": "=IF(D22=\"No incluido\",1,IF(D22=\"Incluido\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G22",
+      "formula": null,
+      "raw": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C25",
+      "formula": null,
+      "raw": "Aflibercept 8mg (q12)",
+      "value": "Aflibercept 8mg (q12)",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C28",
+      "formula": null,
+      "raw": "Desenlace de interés",
+      "value": "Desenlace de interés",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D28",
+      "formula": null,
+      "raw": "Resultado ",
+      "value": "Resultado ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E28",
+      "formula": null,
+      "raw": "Valor ",
+      "value": "Valor ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F28",
+      "formula": null,
+      "raw": "Tiempo de seguimiento ",
+      "value": "Tiempo de seguimiento ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G28",
+      "formula": null,
+      "raw": "Referencia ",
+      "value": "Referencia ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H28",
+      "formula": null,
+      "raw": "Comentarios",
+      "value": "Comentarios",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C29",
+      "formula": null,
+      "raw": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D29",
+      "formula": null,
+      "raw": 5.9,
+      "value": 5.9,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E29",
+      "formula": "=IF(D29=\"\",0,IF(D29<=5,1,IF(D29<=10,2,IF(D29<=15,4,5))))",
+      "raw": null,
+      "value": 2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F29",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G29",
+      "formula": null,
+      "raw": "Korobelnik, Jean-François, et al. \"Intravitreal aflibercept 8 mg in neovascular age-related macular degeneration: 96-week results from the randomized phase 3 PULSAR trial.\" Ophthalmology (2025)",
+      "value": "Korobelnik, Jean-François, et al. \"Intravitreal aflibercept 8 mg in neovascular age-related macular degeneration: 96-week results from the randomized phase 3 PULSAR trial.\" Ophthalmology (2025)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C30",
+      "formula": null,
+      "raw": "Pacientes con ganancia ≥15 letras en BCVA",
+      "value": "Pacientes con ganancia ≥15 letras en BCVA",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D30",
+      "formula": null,
+      "raw": 20.7,
+      "value": 20.7,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E30",
+      "formula": "=IF(D30=\"\",0,IF(D30<=15,1,IF(D30<=30,3,5)))",
+      "raw": null,
+      "value": 3,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F30",
+      "formula": null,
+      "raw": "48 semanas ",
+      "value": "48 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G30",
+      "formula": null,
+      "raw": "Clinical trials: NCT04423718",
+      "value": "Clinical trials: NCT04423718",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C31",
+      "formula": null,
+      "raw": "Desprendimiento de retina ",
+      "value": "Desprendimiento de retina ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D31",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E31",
+      "formula": "=IF(D31=\"Ocurrencia\",1,IF(D31=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F31",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G31",
+      "formula": null,
+      "raw": "Clinical trials: NCT04423718",
+      "value": "Clinical trials: NCT04423718",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H31",
+      "formula": null,
+      "raw": "Evento adverso serio: 2/335 (0.60%)\t",
+      "value": "Evento adverso serio: 2/335 (0.60%)\t",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C32",
+      "formula": null,
+      "raw": "Infarto agudo de miocardio",
+      "value": "Infarto agudo de miocardio",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D32",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E32",
+      "formula": "=IF(D32=\"Ocurrencia\",1,IF(D32=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F32",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G32",
+      "formula": null,
+      "raw": "Clinical trials: NCT04423718",
+      "value": "Clinical trials: NCT04423718",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H32",
+      "formula": null,
+      "raw": "Evento adverso serio: 1/335 (0.30%)\t",
+      "value": "Evento adverso serio: 1/335 (0.30%)\t",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C33",
+      "formula": null,
+      "raw": "Endoftalmitis",
+      "value": "Endoftalmitis",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D33",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E33",
+      "formula": "=IF(D33=\"Ocurrencia\",1,IF(D33=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F33",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G33",
+      "formula": null,
+      "raw": "Clinical trials: NCT04423718",
+      "value": "Clinical trials: NCT04423718",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C34",
+      "formula": null,
+      "raw": "Supresión sistémica de VEGF",
+      "value": "Supresión sistémica de VEGF",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D34",
+      "formula": null,
+      "raw": "Prolongada",
+      "value": "Prolongada",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E34",
+      "formula": "=IF(D34=\"Prolongada\",1,IF(D34=\"No prolongada\",5,IF(D34=\"NR\",0,\"\")))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G34",
+      "formula": null,
+      "raw": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y\n\n",
+      "value": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y\n\n",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C35",
+      "formula": null,
+      "raw": "Calidad de vida relacionada con la salud",
+      "value": "Calidad de vida relacionada con la salud",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D35",
+      "formula": null,
+      "raw": "Mejoría",
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E35",
+      "formula": "=IF(D35=\"Empeoramiento\",1,IF(D35=\"Sin efecto\",3,IF(D35=\"Mejoría\",5,IF(D35=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F35",
+      "formula": null,
+      "raw": "48 semanas ",
+      "value": "48 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G35",
+      "formula": null,
+      "raw": "Clinical trials: NCT04423718",
+      "value": "Clinical trials: NCT04423718",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H35",
+      "formula": null,
+      "raw": "NEI VFQ-25",
+      "value": "NEI VFQ-25",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C36",
+      "formula": null,
+      "raw": "Discapacidad / capacidad funcional",
+      "value": "Discapacidad / capacidad funcional",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D36",
+      "formula": null,
+      "raw": "NR",
+      "value": "NR",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E36",
+      "formula": "=IF(D36=\"Empeoramiento\",1,IF(D36=\"Sin efecto\",3,IF(D36=\"Mejoría\",5,IF(D36=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C37",
+      "formula": null,
+      "raw": "Estado de aprobación regulatoria",
+      "value": "Estado de aprobación regulatoria",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D37",
+      "formula": null,
+      "raw": "On-Label",
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E37",
+      "formula": "=IF(D37=\"Off-label\",1,IF(D37=\"On-label\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G37",
+      "formula": null,
+      "raw": "INVIMA 2025MBT-0000160",
+      "value": "INVIMA 2025MBT-0000160",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H37",
+      "formula": null,
+      "raw": "Aprobación FDA ",
+      "value": "Aprobación FDA ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C38",
+      "formula": null,
+      "raw": "Inclusión en guías de práctica clínica",
+      "value": "Inclusión en guías de práctica clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D38",
+      "formula": null,
+      "raw": "Incluido",
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E38",
+      "formula": "=IF(D38=\"No incluido\",1,IF(D38=\"Incluido\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G38",
+      "formula": null,
+      "raw": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C44",
+      "formula": null,
+      "raw": "Faricimab 6mg (q16)",
+      "value": "Faricimab 6mg (q16)",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C47",
+      "formula": null,
+      "raw": "Desenlace de interés",
+      "value": "Desenlace de interés",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D47",
+      "formula": null,
+      "raw": "Resultado ",
+      "value": "Resultado ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E47",
+      "formula": null,
+      "raw": "Valor ",
+      "value": "Valor ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F47",
+      "formula": null,
+      "raw": "Tiempo de seguimiento ",
+      "value": "Tiempo de seguimiento ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G47",
+      "formula": null,
+      "raw": "Referencia ",
+      "value": "Referencia ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H47",
+      "formula": null,
+      "raw": "Comentarios",
+      "value": "Comentarios",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C48",
+      "formula": null,
+      "raw": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D48",
+      "formula": null,
+      "raw": 5,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E48",
+      "formula": "=IF(D48=\"\",0,IF(D48<=5,1,IF(D48<=10,2,IF(D48<=15,4,5))))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F48",
+      "formula": null,
+      "raw": "112 semanas ",
+      "value": "112 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G48",
+      "formula": null,
+      "raw": "Clinical trials NCT03823300\nEPAR-EMA\nKhanani AM, Kotecha A, Chang A, Chen SJ, Chen Y, Guymer R, Heier JS, Holz FG, Iida T, Ives JA, Lim JI. TENAYA and LUCERNE: two-year results from the phase 3 neovascular age-related macular degeneration trials of faricimab with treat-and-extend dosing in year 2. Ophthalmology. 2024 Aug 1;131(8):914-26.",
+      "value": "Clinical trials NCT03823300\nEPAR-EMA\nKhanani AM, Kotecha A, Chang A, Chen SJ, Chen Y, Guymer R, Heier JS, Holz FG, Iida T, Ives JA, Lim JI. TENAYA and LUCERNE: two-year results from the phase 3 neovascular age-related macular degeneration trials of faricimab with treat-and-extend dosing in year 2. Ophthalmology. 2024 Aug 1;131(8):914-26.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C49",
+      "formula": null,
+      "raw": "Pacientes con ganancia ≥15 letras en BCVA",
+      "value": "Pacientes con ganancia ≥15 letras en BCVA",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D49",
+      "formula": null,
+      "raw": 22.4,
+      "value": 22.4,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E49",
+      "formula": "=IF(D49=\"\",0,IF(D49<=15,1,IF(D49<=30,3,5)))",
+      "raw": null,
+      "value": 3,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F49",
+      "formula": null,
+      "raw": "112 semanas ",
+      "value": "112 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G49",
+      "formula": null,
+      "raw": "Clinical trials NCT03823300\nEPAR-EMA\nKhanani AM, Kotecha A, Chang A, Chen SJ, Chen Y, Guymer R, Heier JS, Holz FG, Iida T, Ives JA, Lim JI. TENAYA and LUCERNE: two-year results from the phase 3 neovascular age-related macular degeneration trials of faricimab with treat-and-extend dosing in year 2. Ophthalmology. 2024 Aug 1;131(8):914-26.",
+      "value": "Clinical trials NCT03823300\nEPAR-EMA\nKhanani AM, Kotecha A, Chang A, Chen SJ, Chen Y, Guymer R, Heier JS, Holz FG, Iida T, Ives JA, Lim JI. TENAYA and LUCERNE: two-year results from the phase 3 neovascular age-related macular degeneration trials of faricimab with treat-and-extend dosing in year 2. Ophthalmology. 2024 Aug 1;131(8):914-26.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C50",
+      "formula": null,
+      "raw": "Desprendimiento de retina ",
+      "value": "Desprendimiento de retina ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D50",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E50",
+      "formula": "=IF(D50=\"Ocurrencia\",1,IF(D50=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F50",
+      "formula": null,
+      "raw": "112 semanas ",
+      "value": "112 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G50",
+      "formula": null,
+      "raw": "Clinical trials NCT03823300",
+      "value": "Clinical trials NCT03823300",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H50",
+      "formula": null,
+      "raw": "Evento adverso serio: 1/331 (0.30%)",
+      "value": "Evento adverso serio: 1/331 (0.30%)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C51",
+      "formula": null,
+      "raw": "Infarto agudo de miocardio",
+      "value": "Infarto agudo de miocardio",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D51",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E51",
+      "formula": "=IF(D51=\"Ocurrencia\",1,IF(D51=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F51",
+      "formula": null,
+      "raw": "112 semanas ",
+      "value": "112 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G51",
+      "formula": null,
+      "raw": "Clinical trials NCT03823300",
+      "value": "Clinical trials NCT03823300",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C52",
+      "formula": null,
+      "raw": "Endoftalmitis",
+      "value": "Endoftalmitis",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D52",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E52",
+      "formula": "=IF(D52=\"Ocurrencia\",1,IF(D52=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F52",
+      "formula": null,
+      "raw": "112 semanas ",
+      "value": "112 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G52",
+      "formula": null,
+      "raw": "Clinical trials NCT03823300",
+      "value": "Clinical trials NCT03823300",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H52",
+      "formula": null,
+      "raw": "Evento adverso serio: 2/331 (0.60%)",
+      "value": "Evento adverso serio: 2/331 (0.60%)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C53",
+      "formula": null,
+      "raw": "Supresión sistémica de VEGF",
+      "value": "Supresión sistémica de VEGF",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D53",
+      "formula": null,
+      "raw": "NR",
+      "value": "NR",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E53",
+      "formula": "=IF(D53=\"Prolongada\",1,IF(D53=\"No prolongada\",5,IF(D53=\"NR\",0,\"\")))",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C54",
+      "formula": null,
+      "raw": "Calidad de vida relacionada con la salud",
+      "value": "Calidad de vida relacionada con la salud",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D54",
+      "formula": null,
+      "raw": "Mejoría",
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E54",
+      "formula": "=IF(D54=\"Empeoramiento\",1,IF(D54=\"Sin efecto\",3,IF(D54=\"Mejoría\",5,IF(D54=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F54",
+      "formula": null,
+      "raw": "48 semanas ",
+      "value": "48 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G54",
+      "formula": null,
+      "raw": "CADTH Reimbursement Review\nFaricimab (Vabysmo)\nSponsor: Hoffmann-La Roche Ltd.\nTherapeutic area: Macular degeneration, age-related",
+      "value": "CADTH Reimbursement Review\nFaricimab (Vabysmo)\nSponsor: Hoffmann-La Roche Ltd.\nTherapeutic area: Macular degeneration, age-related",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C55",
+      "formula": null,
+      "raw": "Discapacidad / capacidad funcional",
+      "value": "Discapacidad / capacidad funcional",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D55",
+      "formula": null,
+      "raw": "NR",
+      "value": "NR",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E55",
+      "formula": "=IF(D55=\"Empeoramiento\",1,IF(D55=\"Sin efecto\",3,IF(D55=\"Mejoría\",5,IF(D55=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C56",
+      "formula": null,
+      "raw": "Estado de aprobación regulatoria",
+      "value": "Estado de aprobación regulatoria",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D56",
+      "formula": null,
+      "raw": "On-Label",
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E56",
+      "formula": "=IF(D56=\"Off-label\",1,IF(D56=\"On-label\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G56",
+      "formula": null,
+      "raw": "INVIMA 2024MBT-0000108",
+      "value": "INVIMA 2024MBT-0000108",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C57",
+      "formula": null,
+      "raw": "Inclusión en guías de práctica clínica",
+      "value": "Inclusión en guías de práctica clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D57",
+      "formula": null,
+      "raw": "Incluido",
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E57",
+      "formula": "=IF(D57=\"No incluido\",1,IF(D57=\"Incluido\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G57",
+      "formula": null,
+      "raw": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C60",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  (q4)",
+      "value": "Ranibizumab  0.5 mg  (q4)",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C63",
+      "formula": null,
+      "raw": "Desenlace de interés",
+      "value": "Desenlace de interés",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D63",
+      "formula": null,
+      "raw": "Resultado ",
+      "value": "Resultado ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E63",
+      "formula": null,
+      "raw": "Valor ",
+      "value": "Valor ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F63",
+      "formula": null,
+      "raw": "Tiempo de seguimiento ",
+      "value": "Tiempo de seguimiento ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G63",
+      "formula": null,
+      "raw": "Referencia ",
+      "value": "Referencia ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H63",
+      "formula": null,
+      "raw": "Comentarios",
+      "value": "Comentarios",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C64",
+      "formula": null,
+      "raw": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D64",
+      "formula": null,
+      "raw": 10.7,
+      "value": 10.7,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E64",
+      "formula": "=IF(D64=\"\",0,IF(D64<=5,1,IF(D64<=10,2,IF(D64<=15,4,5))))",
+      "raw": null,
+      "value": 4,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F64",
+      "formula": null,
+      "raw": "2 AÑOS",
+      "value": "2 AÑOS",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G64",
+      "formula": null,
+      "raw": "Brown, David M., et al. \"Ranibizumab versus verteporfin photodynamic therapy for neovascular age-related macular degeneration: two-year results of the ANCHOR study.\" Ophthalmology 116.1 (2009): 57-65.",
+      "value": "Brown, David M., et al. \"Ranibizumab versus verteporfin photodynamic therapy for neovascular age-related macular degeneration: two-year results of the ANCHOR study.\" Ophthalmology 116.1 (2009): 57-65.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C65",
+      "formula": null,
+      "raw": "Pacientes con ganancia ≥15 letras en BCVA",
+      "value": "Pacientes con ganancia ≥15 letras en BCVA",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D65",
+      "formula": null,
+      "raw": 41,
+      "value": 41,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E65",
+      "formula": "=IF(D65=\"\",0,IF(D65<=15,1,IF(D65<=30,3,5)))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F65",
+      "formula": null,
+      "raw": "2 AÑOS",
+      "value": "2 AÑOS",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G65",
+      "formula": null,
+      "raw": "Brown, David M., et al. \"Ranibizumab versus verteporfin photodynamic therapy for neovascular age-related macular degeneration: two-year results of the ANCHOR study.\" Ophthalmology 116.1 (2009): 57-65.",
+      "value": "Brown, David M., et al. \"Ranibizumab versus verteporfin photodynamic therapy for neovascular age-related macular degeneration: two-year results of the ANCHOR study.\" Ophthalmology 116.1 (2009): 57-65.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C66",
+      "formula": null,
+      "raw": "Desprendimiento de retina ",
+      "value": "Desprendimiento de retina ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D66",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E66",
+      "formula": "=IF(D66=\"Ocurrencia\",1,IF(D66=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F66",
+      "formula": null,
+      "raw": "2 AÑOS",
+      "value": "2 AÑOS",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G66",
+      "formula": null,
+      "raw": "Brown, David M., et al. \"Ranibizumab versus verteporfin photodynamic therapy for neovascular age-related macular degeneration: two-year results of the ANCHOR study.\" Ophthalmology 116.1 (2009): 57-65.",
+      "value": "Brown, David M., et al. \"Ranibizumab versus verteporfin photodynamic therapy for neovascular age-related macular degeneration: two-year results of the ANCHOR study.\" Ophthalmology 116.1 (2009): 57-65.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C67",
+      "formula": null,
+      "raw": "Infarto agudo de miocardio",
+      "value": "Infarto agudo de miocardio",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D67",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E67",
+      "formula": "=IF(D67=\"Ocurrencia\",1,IF(D67=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F67",
+      "formula": null,
+      "raw": "2 AÑOS",
+      "value": "2 AÑOS",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G67",
+      "formula": null,
+      "raw": "Brown, David M., et al. \"Ranibizumab versus verteporfin photodynamic therapy for neovascular age-related macular degeneration: two-year results of the ANCHOR study.\" Ophthalmology 116.1 (2009): 57-65.",
+      "value": "Brown, David M., et al. \"Ranibizumab versus verteporfin photodynamic therapy for neovascular age-related macular degeneration: two-year results of the ANCHOR study.\" Ophthalmology 116.1 (2009): 57-65.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H67",
+      "formula": null,
+      "raw": "No se especifica el grado y si es agudo 5/140(3.6)",
+      "value": "No se especifica el grado y si es agudo 5/140(3.6)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C68",
+      "formula": null,
+      "raw": "Endoftalmitis",
+      "value": "Endoftalmitis",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D68",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E68",
+      "formula": "=IF(D68=\"Ocurrencia\",1,IF(D68=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F68",
+      "formula": null,
+      "raw": "2 AÑOS",
+      "value": "2 AÑOS",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G68",
+      "formula": null,
+      "raw": "Brown, David M., et al. \"Ranibizumab versus verteporfin photodynamic therapy for neovascular age-related macular degeneration: two-year results of the ANCHOR study.\" Ophthalmology 116.1 (2009): 57-65.",
+      "value": "Brown, David M., et al. \"Ranibizumab versus verteporfin photodynamic therapy for neovascular age-related macular degeneration: two-year results of the ANCHOR study.\" Ophthalmology 116.1 (2009): 57-65.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H68",
+      "formula": null,
+      "raw": "Evento adverso  serio 3/140 (2.1)",
+      "value": "Evento adverso  serio 3/140 (2.1)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C69",
+      "formula": null,
+      "raw": "Supresión sistémica de VEGF",
+      "value": "Supresión sistémica de VEGF",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D69",
+      "formula": null,
+      "raw": "No prolongada",
+      "value": "No prolongada",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E69",
+      "formula": "=IF(D69=\"Prolongada\",1,IF(D69=\"No prolongada\",5,IF(D69=\"NR\",0,\"\")))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F69",
+      "formula": null,
+      "raw": " ",
+      "value": " ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G69",
+      "formula": null,
+      "raw": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y\n\n",
+      "value": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y\n\n",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C70",
+      "formula": null,
+      "raw": "Calidad de vida relacionada con la salud",
+      "value": "Calidad de vida relacionada con la salud",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D70",
+      "formula": null,
+      "raw": "Mejoría",
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E70",
+      "formula": "=IF(D70=\"Empeoramiento\",1,IF(D70=\"Sin efecto\",3,IF(D70=\"Mejoría\",5,IF(D70=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F70",
+      "formula": null,
+      "raw": "12 meses ",
+      "value": "12 meses ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G70",
+      "formula": null,
+      "raw": "Bressler, Neil M., et al. \"Improved vision-related function after ranibizumab vs photodynamic therapy: a randomized clinical trial.\" Archives of Ophthalmology 127.1 (2009): 13-21.",
+      "value": "Bressler, Neil M., et al. \"Improved vision-related function after ranibizumab vs photodynamic therapy: a randomized clinical trial.\" Archives of Ophthalmology 127.1 (2009): 13-21.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C71",
+      "formula": null,
+      "raw": "Discapacidad / capacidad funcional",
+      "value": "Discapacidad / capacidad funcional",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D71",
+      "formula": null,
+      "raw": "Mejoría",
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E71",
+      "formula": "=IF(D71=\"Empeoramiento\",1,IF(D71=\"Sin efecto\",3,IF(D71=\"Mejoría\",5,IF(D71=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F71",
+      "formula": null,
+      "raw": "12 meses ",
+      "value": "12 meses ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G71",
+      "formula": null,
+      "raw": "Bressler, Neil M., et al. \"Improved vision-related function after ranibizumab vs photodynamic therapy: a randomized clinical trial.\" Archives of Ophthalmology 127.1 (2009): 13-21.",
+      "value": "Bressler, Neil M., et al. \"Improved vision-related function after ranibizumab vs photodynamic therapy: a randomized clinical trial.\" Archives of Ophthalmology 127.1 (2009): 13-21.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C72",
+      "formula": null,
+      "raw": "Estado de aprobación regulatoria",
+      "value": "Estado de aprobación regulatoria",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D72",
+      "formula": null,
+      "raw": "On-Label",
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E72",
+      "formula": "=IF(D72=\"Off-label\",1,IF(D72=\"On-label\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G72",
+      "formula": null,
+      "raw": "INVIMA 2018M-0007158-R1",
+      "value": "INVIMA 2018M-0007158-R1",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C73",
+      "formula": null,
+      "raw": "Inclusión en guías de práctica clínica",
+      "value": "Inclusión en guías de práctica clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D73",
+      "formula": null,
+      "raw": "Incluido",
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E73",
+      "formula": "=IF(D73=\"No incluido\",1,IF(D73=\"Incluido\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G73",
+      "formula": null,
+      "raw": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C77",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q4)",
+      "value": "Aflibercept 2mg (q4)",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C79",
+      "formula": null,
+      "raw": "Desenlace de interés",
+      "value": "Desenlace de interés",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D79",
+      "formula": null,
+      "raw": "Resultado ",
+      "value": "Resultado ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E79",
+      "formula": null,
+      "raw": "Valor ",
+      "value": "Valor ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F79",
+      "formula": null,
+      "raw": "Tiempo de seguimiento ",
+      "value": "Tiempo de seguimiento ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G79",
+      "formula": null,
+      "raw": "Referencia ",
+      "value": "Referencia ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H79",
+      "formula": null,
+      "raw": "Comentarios",
+      "value": "Comentarios",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C80",
+      "formula": null,
+      "raw": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D80",
+      "formula": null,
+      "raw": 7.6,
+      "value": 7.6,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E80",
+      "formula": "=IF(D80=\"\",0,IF(D80<=5,1,IF(D80<=10,2,IF(D80<=15,4,5))))",
+      "raw": null,
+      "value": 2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F80",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G80",
+      "formula": null,
+      "raw": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "value": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C81",
+      "formula": null,
+      "raw": "Pacientes con ganancia ≥15 letras en BCVA",
+      "value": "Pacientes con ganancia ≥15 letras en BCVA",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D81",
+      "formula": null,
+      "raw": 31.2,
+      "value": 31.2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E81",
+      "formula": "=IF(D81=\"\",0,IF(D81<=15,1,IF(D81<=30,3,5)))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F81",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G81",
+      "formula": null,
+      "raw": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "value": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C82",
+      "formula": null,
+      "raw": "Desprendimiento de retina ",
+      "value": "Desprendimiento de retina ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D82",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E82",
+      "formula": "=IF(D82=\"Ocurrencia\",1,IF(D82=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F82",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G82",
+      "formula": null,
+      "raw": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "value": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H82",
+      "formula": null,
+      "raw": "Evento adverso serio 1/613 (0.2)",
+      "value": "Evento adverso serio 1/613 (0.2)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C83",
+      "formula": null,
+      "raw": "Infarto agudo de miocardio",
+      "value": "Infarto agudo de miocardio",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D83",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E83",
+      "formula": "=IF(D83=\"Ocurrencia\",1,IF(D83=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F83",
+      "formula": null,
+      "raw": "NR ",
+      "value": "NR ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G83",
+      "formula": null,
+      "raw": "Clinical trial NCT00637377",
+      "value": "Clinical trial NCT00637377",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H83",
+      "formula": null,
+      "raw": "Evento advero serio 2 /613  (0.3)",
+      "value": "Evento advero serio 2 /613  (0.3)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C84",
+      "formula": null,
+      "raw": "Endoftalmitis",
+      "value": "Endoftalmitis",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D84",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E84",
+      "formula": "=IF(D84=\"Ocurrencia\",1,IF(D84=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F84",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G84",
+      "formula": null,
+      "raw": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "value": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H84",
+      "formula": null,
+      "raw": "Evento adverso serio 4/613 (0.7)",
+      "value": "Evento adverso serio 4/613 (0.7)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C85",
+      "formula": null,
+      "raw": "Supresión sistémica de VEGF",
+      "value": "Supresión sistémica de VEGF",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D85",
+      "formula": null,
+      "raw": "Prolongada",
+      "value": "Prolongada",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E85",
+      "formula": "=IF(D85=\"Prolongada\",1,IF(D85=\"No prolongada\",5,IF(D85=\"NR\",0,\"\")))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G85",
+      "formula": null,
+      "raw": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y\n\n",
+      "value": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y\n\n",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C86",
+      "formula": null,
+      "raw": "Calidad de vida relacionada con la salud",
+      "value": "Calidad de vida relacionada con la salud",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D86",
+      "formula": null,
+      "raw": "Mejoría",
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E86",
+      "formula": "=IF(D86=\"Empeoramiento\",1,IF(D86=\"Sin efecto\",3,IF(D86=\"Mejoría\",5,IF(D86=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F86",
+      "formula": null,
+      "raw": "52 semanas ",
+      "value": "52 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G86",
+      "formula": null,
+      "raw": "Clinical trial NCT00637377\nYuzawa, Mitsuko, et al. \"Improvement in vision-related function with intravitreal aflibercept: data from phase 3 studies in wet age-related macular degeneration.\" Ophthalmology 122.3 (2015): 571-578.",
+      "value": "Clinical trial NCT00637377\nYuzawa, Mitsuko, et al. \"Improvement in vision-related function with intravitreal aflibercept: data from phase 3 studies in wet age-related macular degeneration.\" Ophthalmology 122.3 (2015): 571-578.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C87",
+      "formula": null,
+      "raw": "Discapacidad / capacidad funcional",
+      "value": "Discapacidad / capacidad funcional",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D87",
+      "formula": null,
+      "raw": "Mejoría",
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E87",
+      "formula": "=IF(D87=\"Empeoramiento\",1,IF(D87=\"Sin efecto\",3,IF(D87=\"Mejoría\",5,IF(D87=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F87",
+      "formula": null,
+      "raw": "52 semanas ",
+      "value": "52 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G87",
+      "formula": null,
+      "raw": "Clinical trial NCT00637377\nYuzawa, Mitsuko, et al. \"Improvement in vision-related function with intravitreal aflibercept: data from phase 3 studies in wet age-related macular degeneration.\" Ophthalmology 122.3 (2015): 571-578.",
+      "value": "Clinical trial NCT00637377\nYuzawa, Mitsuko, et al. \"Improvement in vision-related function with intravitreal aflibercept: data from phase 3 studies in wet age-related macular degeneration.\" Ophthalmology 122.3 (2015): 571-578.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C88",
+      "formula": null,
+      "raw": "Estado de aprobación regulatoria",
+      "value": "Estado de aprobación regulatoria",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D88",
+      "formula": null,
+      "raw": "On-Label",
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E88",
+      "formula": "=IF(D88=\"Off-label\",1,IF(D88=\"On-label\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G88",
+      "formula": null,
+      "raw": "INVIMA 2025MBT-0000160",
+      "value": "INVIMA 2025MBT-0000160",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C89",
+      "formula": null,
+      "raw": "Inclusión en guías de práctica clínica",
+      "value": "Inclusión en guías de práctica clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D89",
+      "formula": null,
+      "raw": "Incluido",
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E89",
+      "formula": "=IF(D89=\"No incluido\",1,IF(D89=\"Incluido\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G89",
+      "formula": null,
+      "raw": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C92",
+      "formula": null,
+      "raw": "Aflibercept 2mg (q8)",
+      "value": "Aflibercept 2mg (q8)",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C94",
+      "formula": null,
+      "raw": "Desenlace de interés",
+      "value": "Desenlace de interés",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D94",
+      "formula": null,
+      "raw": "Resultado ",
+      "value": "Resultado ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E94",
+      "formula": null,
+      "raw": "Valor ",
+      "value": "Valor ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F94",
+      "formula": null,
+      "raw": "Tiempo de seguimiento ",
+      "value": "Tiempo de seguimiento ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G94",
+      "formula": null,
+      "raw": "Referencia ",
+      "value": "Referencia ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H94",
+      "formula": null,
+      "raw": "Comentarios",
+      "value": "Comentarios",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C95",
+      "formula": null,
+      "raw": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D95",
+      "formula": null,
+      "raw": 7.6,
+      "value": 7.6,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E95",
+      "formula": "=IF(D95=\"\",0,IF(D95<=5,1,IF(D95<=10,2,IF(D95<=15,4,5))))",
+      "raw": null,
+      "value": 2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F95",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G95",
+      "formula": null,
+      "raw": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "value": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C96",
+      "formula": null,
+      "raw": "Pacientes con ganancia ≥15 letras en BCVA",
+      "value": "Pacientes con ganancia ≥15 letras en BCVA",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D96",
+      "formula": null,
+      "raw": 33.4,
+      "value": 33.4,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E96",
+      "formula": "=IF(D96=\"\",0,IF(D96<=15,1,IF(D96<=30,3,5)))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F96",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G96",
+      "formula": null,
+      "raw": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "value": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C97",
+      "formula": null,
+      "raw": "Desprendimiento de retina ",
+      "value": "Desprendimiento de retina ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D97",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E97",
+      "formula": "=IF(D97=\"Ocurrencia\",1,IF(D97=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F97",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G97",
+      "formula": null,
+      "raw": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "value": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C98",
+      "formula": null,
+      "raw": "Infarto agudo de miocardio",
+      "value": "Infarto agudo de miocardio",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D98",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E98",
+      "formula": "=IF(D98=\"Ocurrencia\",1,IF(D98=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F98",
+      "formula": null,
+      "raw": "NR ",
+      "value": "NR ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G98",
+      "formula": null,
+      "raw": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "value": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H98",
+      "formula": null,
+      "raw": "Evento advero serio 3 /610  (0.4)",
+      "value": "Evento advero serio 3 /610  (0.4)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C99",
+      "formula": null,
+      "raw": "Endoftalmitis",
+      "value": "Endoftalmitis",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D99",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E99",
+      "formula": "=IF(D99=\"Ocurrencia\",1,IF(D99=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F99",
+      "formula": null,
+      "raw": "96 semanas ",
+      "value": "96 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G99",
+      "formula": null,
+      "raw": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "value": "Schmidt-Erfurth, Ursula, et al. \"Intravitreal aflibercept injection for neovascular age-related macular degeneration: ninety-six–week results of the VIEW studies.\" Ophthalmology 121.1 (2014): 193-201.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C100",
+      "formula": null,
+      "raw": "Supresión sistémica de VEGF",
+      "value": "Supresión sistémica de VEGF",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D100",
+      "formula": null,
+      "raw": "Prolongada",
+      "value": "Prolongada",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E100",
+      "formula": "=IF(D100=\"Prolongada\",1,IF(D100=\"No prolongada\",5,IF(D100=\"NR\",0,\"\")))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G100",
+      "formula": null,
+      "raw": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y\n\n",
+      "value": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y\n\n",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C101",
+      "formula": null,
+      "raw": "Calidad de vida relacionada con la salud",
+      "value": "Calidad de vida relacionada con la salud",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D101",
+      "formula": null,
+      "raw": "Mejoría",
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E101",
+      "formula": "=IF(D101=\"Empeoramiento\",1,IF(D101=\"Sin efecto\",3,IF(D101=\"Mejoría\",5,IF(D101=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F101",
+      "formula": null,
+      "raw": "52 semanas ",
+      "value": "52 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G101",
+      "formula": null,
+      "raw": "Clinical trial NCT00637377\nYuzawa, Mitsuko, et al. \"Improvement in vision-related function with intravitreal aflibercept: data from phase 3 studies in wet age-related macular degeneration.\" Ophthalmology 122.3 (2015): 571-578.",
+      "value": "Clinical trial NCT00637377\nYuzawa, Mitsuko, et al. \"Improvement in vision-related function with intravitreal aflibercept: data from phase 3 studies in wet age-related macular degeneration.\" Ophthalmology 122.3 (2015): 571-578.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C102",
+      "formula": null,
+      "raw": "Discapacidad / capacidad funcional",
+      "value": "Discapacidad / capacidad funcional",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D102",
+      "formula": null,
+      "raw": "Mejoría",
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E102",
+      "formula": "=IF(D102=\"Empeoramiento\",1,IF(D102=\"Sin efecto\",3,IF(D102=\"Mejoría\",5,IF(D102=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F102",
+      "formula": null,
+      "raw": "52 semanas ",
+      "value": "52 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G102",
+      "formula": null,
+      "raw": "Clinical trial NCT00637377\nYuzawa, Mitsuko, et al. \"Improvement in vision-related function with intravitreal aflibercept: data from phase 3 studies in wet age-related macular degeneration.\" Ophthalmology 122.3 (2015): 571-578.",
+      "value": "Clinical trial NCT00637377\nYuzawa, Mitsuko, et al. \"Improvement in vision-related function with intravitreal aflibercept: data from phase 3 studies in wet age-related macular degeneration.\" Ophthalmology 122.3 (2015): 571-578.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C103",
+      "formula": null,
+      "raw": "Estado de aprobación regulatoria",
+      "value": "Estado de aprobación regulatoria",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D103",
+      "formula": null,
+      "raw": "On-Label",
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E103",
+      "formula": "=IF(D103=\"Off-label\",1,IF(D103=\"On-label\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G103",
+      "formula": null,
+      "raw": "INVIMA 2025MBT-0000160",
+      "value": "INVIMA 2025MBT-0000160",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C104",
+      "formula": null,
+      "raw": "Inclusión en guías de práctica clínica",
+      "value": "Inclusión en guías de práctica clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D104",
+      "formula": null,
+      "raw": "Incluido",
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E104",
+      "formula": "=IF(D104=\"No incluido\",1,IF(D104=\"Incluido\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G104",
+      "formula": null,
+      "raw": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C109",
+      "formula": null,
+      "raw": "Ranibizumab  0.5 mg  T&E",
+      "value": "Ranibizumab  0.5 mg  T&E",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C112",
+      "formula": null,
+      "raw": "Desenlace de interés",
+      "value": "Desenlace de interés",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D112",
+      "formula": null,
+      "raw": "Resultado ",
+      "value": "Resultado ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E112",
+      "formula": null,
+      "raw": "Valor ",
+      "value": "Valor ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F112",
+      "formula": null,
+      "raw": "Tiempo de seguimiento ",
+      "value": "Tiempo de seguimiento ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G112",
+      "formula": null,
+      "raw": "Referencia ",
+      "value": "Referencia ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H112",
+      "formula": null,
+      "raw": "Comentarios",
+      "value": "Comentarios",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C113",
+      "formula": null,
+      "raw": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D113",
+      "formula": null,
+      "raw": 6.6,
+      "value": 6.6,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E113",
+      "formula": "=IF(D113=\"\",0,IF(D113<=5,1,IF(D113<=10,2,IF(D113<=15,4,5))))",
+      "raw": null,
+      "value": 2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F113",
+      "formula": null,
+      "raw": "12 meses",
+      "value": "12 meses",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G113",
+      "formula": null,
+      "raw": "Clinical trials-TREND: NCT01948830",
+      "value": "Clinical trials-TREND: NCT01948830",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C114",
+      "formula": null,
+      "raw": "Pacientes con ganancia ≥15 letras en BCVA",
+      "value": "Pacientes con ganancia ≥15 letras en BCVA",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D114",
+      "formula": null,
+      "raw": 23,
+      "value": 23,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E114",
+      "formula": "=IF(D114=\"\",0,IF(D114<=15,1,IF(D114<=30,3,5)))",
+      "raw": null,
+      "value": 3,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F114",
+      "formula": null,
+      "raw": "12 meses",
+      "value": "12 meses",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G114",
+      "formula": null,
+      "raw": "Clinical trials-TREND: NCT01948830",
+      "value": "Clinical trials-TREND: NCT01948830",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C115",
+      "formula": null,
+      "raw": "Desprendimiento de retina ",
+      "value": "Desprendimiento de retina ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D115",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E115",
+      "formula": "=IF(D115=\"Ocurrencia\",1,IF(D115=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F115",
+      "formula": null,
+      "raw": "12 meses",
+      "value": "12 meses",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G115",
+      "formula": null,
+      "raw": "Clinical trials-TREND: NCT01948830",
+      "value": "Clinical trials-TREND: NCT01948830",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H115",
+      "formula": null,
+      "raw": "Evento adverso serio 1/323 (0.31%)",
+      "value": "Evento adverso serio 1/323 (0.31%)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C116",
+      "formula": null,
+      "raw": "Infarto agudo de miocardio",
+      "value": "Infarto agudo de miocardio",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D116",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E116",
+      "formula": "=IF(D116=\"Ocurrencia\",1,IF(D116=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F116",
+      "formula": null,
+      "raw": "12 meses",
+      "value": "12 meses",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G116",
+      "formula": null,
+      "raw": "Clinical trials-TREND: NCT01948830",
+      "value": "Clinical trials-TREND: NCT01948830",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H116",
+      "formula": null,
+      "raw": "Evento adverso serio  1/323 (0.31%)",
+      "value": "Evento adverso serio  1/323 (0.31%)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C117",
+      "formula": null,
+      "raw": "Endoftalmitis",
+      "value": "Endoftalmitis",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D117",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E117",
+      "formula": "=IF(D117=\"Ocurrencia\",1,IF(D117=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F117",
+      "formula": null,
+      "raw": "12 meses",
+      "value": "12 meses",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G117",
+      "formula": null,
+      "raw": "Clinical trials-TREND: NCT01948830",
+      "value": "Clinical trials-TREND: NCT01948830",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C118",
+      "formula": null,
+      "raw": "Supresión sistémica de VEGF",
+      "value": "Supresión sistémica de VEGF",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D118",
+      "formula": null,
+      "raw": "No prolongada",
+      "value": "No prolongada",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E118",
+      "formula": "=IF(D118=\"Prolongada\",1,IF(D118=\"No prolongada\",5,IF(D118=\"NR\",0,\"\")))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G118",
+      "formula": null,
+      "raw": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y\n\n",
+      "value": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y\n\n",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C119",
+      "formula": null,
+      "raw": "Calidad de vida relacionada con la salud",
+      "value": "Calidad de vida relacionada con la salud",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D119",
+      "formula": null,
+      "raw": "Mejoría",
+      "value": "Mejoría",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E119",
+      "formula": "=IF(D119=\"Empeoramiento\",1,IF(D119=\"Sin efecto\",3,IF(D119=\"Mejoría\",5,IF(D119=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F119",
+      "formula": null,
+      "raw": "12 meses",
+      "value": "12 meses",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G119",
+      "formula": null,
+      "raw": "Clinical trials-TREND: NCT01948830",
+      "value": "Clinical trials-TREND: NCT01948830",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C120",
+      "formula": null,
+      "raw": "Discapacidad / capacidad funcional",
+      "value": "Discapacidad / capacidad funcional",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D120",
+      "formula": null,
+      "raw": "NR",
+      "value": "NR",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E120",
+      "formula": "=IF(D120=\"Empeoramiento\",1,IF(D120=\"Sin efecto\",3,IF(D120=\"Mejoría\",5,IF(D120=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F120",
+      "formula": null,
+      "raw": "12 meses",
+      "value": "12 meses",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G120",
+      "formula": null,
+      "raw": "Clinical trials-TREND: NCT01948830",
+      "value": "Clinical trials-TREND: NCT01948830",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C121",
+      "formula": null,
+      "raw": "Estado de aprobación regulatoria",
+      "value": "Estado de aprobación regulatoria",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D121",
+      "formula": null,
+      "raw": "On-Label",
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E121",
+      "formula": "=IF(D121=\"Off-label\",1,IF(D121=\"On-label\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G121",
+      "formula": null,
+      "raw": "INVIMA 2018M-0007158-R1",
+      "value": "INVIMA 2018M-0007158-R1",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C122",
+      "formula": null,
+      "raw": "Inclusión en guías de práctica clínica",
+      "value": "Inclusión en guías de práctica clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D122",
+      "formula": null,
+      "raw": "Incluido",
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E122",
+      "formula": "=IF(D122=\"No incluido\",1,IF(D122=\"Incluido\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G122",
+      "formula": null,
+      "raw": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C125",
+      "formula": null,
+      "raw": "Aflibercept 2mg T&E",
+      "value": "Aflibercept 2mg T&E",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 11.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C128",
+      "formula": null,
+      "raw": "Desenlace de interés",
+      "value": "Desenlace de interés",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D128",
+      "formula": null,
+      "raw": "Resultado ",
+      "value": "Resultado ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E128",
+      "formula": null,
+      "raw": "Valor ",
+      "value": "Valor ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F128",
+      "formula": null,
+      "raw": "Tiempo de seguimiento ",
+      "value": "Tiempo de seguimiento ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G128",
+      "formula": null,
+      "raw": "Referencia ",
+      "value": "Referencia ",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "H128",
+      "formula": null,
+      "raw": "Comentarios",
+      "value": "Comentarios",
+      "style": {
+        "fill": "FF143778",
+        "font_bold": true,
+        "font_color": "FFFFFFFF",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C129",
+      "formula": null,
+      "raw": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "value": "Cambio medio en la agudeza visual corregida (BCVA)",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D129",
+      "formula": null,
+      "raw": 7.8,
+      "value": 7.8,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E129",
+      "formula": "=IF(D129=\"\",0,IF(D129<=5,1,IF(D129<=10,2,IF(D129<=15,4,5))))",
+      "raw": null,
+      "value": 2,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F129",
+      "formula": null,
+      "raw": "52 semanas ",
+      "value": "52 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G129",
+      "formula": null,
+      "raw": "Silva, Rufino, et al. \"Treat-and-extend versus monthly regimen in neovascular age-related macular degeneration: results with ranibizumab from the TREND study.\" Ophthalmology 125.1 (2018): 57-65.",
+      "value": "Silva, Rufino, et al. \"Treat-and-extend versus monthly regimen in neovascular age-related macular degeneration: results with ranibizumab from the TREND study.\" Ophthalmology 125.1 (2018): 57-65.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C130",
+      "formula": null,
+      "raw": "Pacientes con ganancia ≥15 letras en BCVA",
+      "value": "Pacientes con ganancia ≥15 letras en BCVA",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D130",
+      "formula": null,
+      "raw": 19,
+      "value": 19,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E130",
+      "formula": "=IF(D130=\"\",0,IF(D130<=15,1,IF(D130<=30,3,5)))",
+      "raw": null,
+      "value": 3,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F130",
+      "formula": null,
+      "raw": "52 semanas ",
+      "value": "52 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G130",
+      "formula": null,
+      "raw": "Silva, Rufino, et al. \"Treat-and-extend versus monthly regimen in neovascular age-related macular degeneration: results with ranibizumab from the TREND study.\" Ophthalmology 125.1 (2018): 57-65.",
+      "value": "Silva, Rufino, et al. \"Treat-and-extend versus monthly regimen in neovascular age-related macular degeneration: results with ranibizumab from the TREND study.\" Ophthalmology 125.1 (2018): 57-65.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C131",
+      "formula": null,
+      "raw": "Desprendimiento de retina ",
+      "value": "Desprendimiento de retina ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D131",
+      "formula": null,
+      "raw": "Ocurrencia",
+      "value": "Ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E131",
+      "formula": "=IF(D131=\"Ocurrencia\",1,IF(D131=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F131",
+      "formula": null,
+      "raw": "104 semanas ",
+      "value": "104 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G131",
+      "formula": null,
+      "raw": "Clinical trials-ARIES:NCT02581891",
+      "value": "Clinical trials-ARIES:NCT02581891",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C132",
+      "formula": null,
+      "raw": "Infarto agudo de miocardio",
+      "value": "Infarto agudo de miocardio",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D132",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E132",
+      "formula": "=IF(D132=\"Ocurrencia\",1,IF(D132=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F132",
+      "formula": null,
+      "raw": "104 semanas ",
+      "value": "104 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G132",
+      "formula": null,
+      "raw": "Clinical trials-ARIES:NCT02581891",
+      "value": "Clinical trials-ARIES:NCT02581891",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C133",
+      "formula": null,
+      "raw": "Endoftalmitis",
+      "value": "Endoftalmitis",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D133",
+      "formula": null,
+      "raw": "No ocurrencia",
+      "value": "No ocurrencia",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E133",
+      "formula": "=IF(D133=\"Ocurrencia\",1,IF(D133=\"No ocurrencia\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "F133",
+      "formula": null,
+      "raw": "104 semanas ",
+      "value": "104 semanas ",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G133",
+      "formula": null,
+      "raw": "Clinical trials-ARIES:NCT02581891",
+      "value": "Clinical trials-ARIES:NCT02581891",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C134",
+      "formula": null,
+      "raw": "Supresión sistémica de VEGF",
+      "value": "Supresión sistémica de VEGF",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D134",
+      "formula": null,
+      "raw": "Prolongada",
+      "value": "Prolongada",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E134",
+      "formula": "=IF(D134=\"Prolongada\",1,IF(D134=\"No prolongada\",5,IF(D134=\"NR\",0,\"\")))",
+      "raw": null,
+      "value": 1,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G134",
+      "formula": null,
+      "raw": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y\n\n",
+      "value": "* Venkatesh, Ramesh et al. “Anti-VEGF safety in evolution: A comprehensive review of ocular and systemic considerations.” Indian journal of ophthalmology vol. 74,5 (2026): 748-759. doi:10.4103/IJO.IJO_3284_25\n\n*Sharma, Sourabh et al. “Evidence-Based Guidelines for Intravitreal Anti-VEGF Therapy for Diabetic Retinopathy in Chronic Kidney Disease.” Diabetes therapy : research, treatment and education of diabetes and related disorders vol. 16,11 (2025): 2073-2082. doi:10.1007/s13300-025-01791-y\n\n",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C135",
+      "formula": null,
+      "raw": "Calidad de vida relacionada con la salud",
+      "value": "Calidad de vida relacionada con la salud",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D135",
+      "formula": null,
+      "raw": "NR",
+      "value": "NR",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E135",
+      "formula": "=IF(D135=\"Empeoramiento\",1,IF(D135=\"Sin efecto\",3,IF(D135=\"Mejoría\",5,IF(D135=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C136",
+      "formula": null,
+      "raw": "Discapacidad / capacidad funcional",
+      "value": "Discapacidad / capacidad funcional",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D136",
+      "formula": null,
+      "raw": "NR",
+      "value": "NR",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E136",
+      "formula": "=IF(D136=\"Empeoramiento\",1,IF(D136=\"Sin efecto\",3,IF(D136=\"Mejoría\",5,IF(D136=\"NR\",0,\"\"))))",
+      "raw": null,
+      "value": 0,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C137",
+      "formula": null,
+      "raw": "Estado de aprobación regulatoria",
+      "value": "Estado de aprobación regulatoria",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D137",
+      "formula": null,
+      "raw": "On-Label",
+      "value": "On-Label",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E137",
+      "formula": "=IF(D137=\"Off-label\",1,IF(D137=\"On-label\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G137",
+      "formula": null,
+      "raw": "INVIMA 2025MBT-0000160",
+      "value": "INVIMA 2025MBT-0000160",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "C138",
+      "formula": null,
+      "raw": "Inclusión en guías de práctica clínica",
+      "value": "Inclusión en guías de práctica clínica",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "D138",
+      "formula": null,
+      "raw": "Incluido",
+      "value": "Incluido",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "E138",
+      "formula": "=IF(D138=\"No incluido\",1,IF(D138=\"Incluido\",5,\"\"))",
+      "raw": null,
+      "value": 5,
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 10.0,
+        "number_format": "General"
+      }
+    },
+    {
+      "ref": "G138",
+      "formula": null,
+      "raw": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "value": "*Vemulakonda GA, Bailey ST, Kim SJ, Kovach JL, Lim JI, Ying GS, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Retina/Vitreous Committee. Age-Related Macular Degeneration Preferred Practice Pattern®. Ophthalmology. 2025 Apr;132(4):P1-P74. doi: 10.1016/j.ophtha.2024.12.018. Epub 2025 Feb 7. Erratum in: Ophthalmology. 2026 Apr;133(4):547. doi: 10.1016/j.ophtha.2026.01.014. PMID: 39918524.",
+      "style": {
+        "fill": "Values must be of type <class 'str'>",
+        "font_bold": false,
+        "font_color": "Values must be of type <class 'str'>",
+        "font_size": 8.0,
+        "number_format": "General"
+      }
+    }
+  ]
+}
